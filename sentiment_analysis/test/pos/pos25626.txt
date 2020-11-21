@@ -1,0 +1,1 @@
+I like this thing, have not used it, still trying to figure out this Blynk app and getting other parts to connect to this thing to control over the WEB.I have another that I have been messing with and that I got working over the WEB to open and close the garage door and to monitor if I forget to close the door (happens).

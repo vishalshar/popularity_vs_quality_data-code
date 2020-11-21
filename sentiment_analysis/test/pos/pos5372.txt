@@ -1,0 +1,1 @@
+Works very well but be aware that you must remove it before listening to playback because it plugs into the headphone jack.  This might seem obvious, but I thought it wasn't working because I'd test record and then try to watch/listen to playback without removing it.

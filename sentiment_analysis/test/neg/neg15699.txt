@@ -1,0 +1,1 @@
+Equipment does not print. I've tried troubleshooting

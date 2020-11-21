@@ -1,0 +1,1 @@
+I setup the plug and it was working for a few hours then it said there was a firmware update. After the update the app didn't recognize the plug and there was no way to reset it. It's frozen and doesn't work.

@@ -1,0 +1,1 @@
+Android app crashes out of the box after registering the device (seems to be a common problem). Uninstall/reinstalling the app doesnt work. Automated email for support gives you an FAQ link ([...]) that is a 404! Very poor quality and the product isnt usable without the mobile app. Not sure how this is getting 3.5 star rating, very deceiving.  Come on Amazon!

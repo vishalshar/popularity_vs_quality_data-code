@@ -1,0 +1,1 @@
+The camera itself is totally awesome. However, the Android app needs to be updated to allow the image to be rotated in 90° increments. My Sony phone has the jack on the left side, but the app assumes the jack is on the bottom. Seems like an insignificant problem but the camera is surprisingly useless because of this.

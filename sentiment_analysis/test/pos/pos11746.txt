@@ -1,0 +1,1 @@
+Works like 80% of the time. I have it turning on, via ifttt, some lights connected to belkin wemo insight switches. Maybe 20% of the time I hit the button, wait like a couple minutes, and nothing happens. Then I hit the button again, and the lights go on immediately. The rest of the time the lights come on within a couple seconds.

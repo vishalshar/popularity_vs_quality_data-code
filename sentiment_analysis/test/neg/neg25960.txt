@@ -1,0 +1,1 @@
+Last update (v1.02) rendered my unit useless.  Keeps disconnecting and reconnecting.  Anki are aware of the issue.  I'll update the rating if they can fix my unit.  My concern is that the fix needs to be uploaded to the unit but since it no longer maintains a connection, I may not be able to update it!

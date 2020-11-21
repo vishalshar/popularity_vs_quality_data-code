@@ -1,0 +1,1 @@
+The thermal camera operates, however times out on all android devices, software has been updated it same problems persists on all devices

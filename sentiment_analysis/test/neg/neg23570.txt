@@ -1,0 +1,1 @@
+Kept dropping connection to router. Returned it.

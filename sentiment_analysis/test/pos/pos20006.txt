@@ -1,0 +1,1 @@
+A little slow connecting remotely/ off site if you have slow wifi.  It's processing but takes a long while that you think it's frozen stuck.  Best to undo remote connect by clicking wifi icon off and on again. That makes it a little unreliable at working right away.

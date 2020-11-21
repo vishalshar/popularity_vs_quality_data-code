@@ -1,0 +1,1 @@
+Out of the box it was fun to watch it crash and fall, we still have yet to make it follow commands (by hand gestures).

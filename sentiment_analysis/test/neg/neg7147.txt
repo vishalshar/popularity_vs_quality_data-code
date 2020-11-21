@@ -1,0 +1,1 @@
+Accuracy was very bad.  I considered to use it to detect someone is stealing my bag, but the product was not suite for such a purpose.  Sometimes it did not start alerting with a distance where normally it should alert.  I do not think this is useful in some purposes.

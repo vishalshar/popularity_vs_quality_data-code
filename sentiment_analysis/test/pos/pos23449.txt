@@ -1,0 +1,1 @@
+Extremely happy with the Netatmo Healthy Home Coach, I've got mine linked in with Domoticz (the home automation software that I use) with allows me to see charts of the CO2 and noise levels in my apartment. It's also smaller than I expected which was a nice surprise.

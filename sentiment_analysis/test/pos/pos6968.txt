@@ -1,0 +1,1 @@
+I like the idea of being able to always know what my tire pressure is but the app needs a lot of work. I should be able to close the app and it actually close the app. Right now even after closing the app it leaves a notification at the top letting you know it can't read the tire pressure.

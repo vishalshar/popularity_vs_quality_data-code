@@ -1,0 +1,1 @@
+Easy to setup and snap receptors are convenient for electrode conduction. The ADC provides a nice integer signal from 0-1023 and you can also receive raw analog EMG data by soldering a wire to the other side. Do basic analysis on an arduino or send the Serial data to a python script on your laptop to do so much more.

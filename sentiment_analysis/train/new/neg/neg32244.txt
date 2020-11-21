@@ -1,0 +1,1 @@
+Works quickly, but we consistently receive temp readings that are several degrees different. This causes us to ALWAYS take a temp twice so, in the end, takes way longer than one that reads more slowly and gives an accurate temp the first time.

@@ -1,0 +1,1 @@
+These work very well. Easy integration with HomeKit. We have Phillips hue as well and these "talk" to HomeKit much easier.

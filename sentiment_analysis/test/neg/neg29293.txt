@@ -1,0 +1,1 @@
+Live feed kept stopping and motion detection didn't always work.

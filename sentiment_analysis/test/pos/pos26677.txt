@@ -1,0 +1,1 @@
+Excellent little development board.  Very handy to have the usb-to-serial and voltage regulators already on the board.  Build quality appears to be top-notch!!  Easily uploaded Arduino sketch examples on the first try.  I'm very happy with unit and plan to keep my eye on this vendor's products :D

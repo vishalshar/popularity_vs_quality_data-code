@@ -1,0 +1,1 @@
+Works well when tied to an android device to control lots of devices in sequences. Not so intuitive with Amazon echo. Works half the time via voice commands. But i just decided to use the android app and widgets instead.

@@ -1,0 +1,1 @@
+takes too long for people in meetings to be able to get the software and then connect to it.  no way to manage which user gets priority or connects next.  doesn't handle HD video very well at all.

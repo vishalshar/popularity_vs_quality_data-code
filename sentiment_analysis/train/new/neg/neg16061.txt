@@ -1,0 +1,1 @@
+It is the second unit that for no apparent reason stops working. Out of the blue the terminal starts to inform that can't make the link and that’s it.Since there is no reboot function, reset function, pairing function, it can't link so does not work

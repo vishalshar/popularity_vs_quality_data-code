@@ -1,0 +1,1 @@
+Pioneering product that allows golfers to record the position of each shot so that any given round of golf can be digitally overlaid on a satellite image of the course. Stats are kept and visually displayed so that one can learn to true median distances that each club will give on a reasonably well struck shot.  The website is well supported and regularly updated.

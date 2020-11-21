@@ -1,0 +1,1 @@
+When initially ordered, the app did not require a login. Now I am unable to use the device (which requires the app) unless I sign up for an account. Should not require login to use the device I paid money for.

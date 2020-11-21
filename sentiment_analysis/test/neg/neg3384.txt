@@ -1,0 +1,1 @@
+Kind of worked but needs Dlink software and Dlink internet support to work. Wont work on firmware settings / port forwarding like IP cameras do. Response to movements / notifications were really slow. RETURNED

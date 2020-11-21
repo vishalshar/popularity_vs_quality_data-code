@@ -1,0 +1,1 @@
+Configuration was pretty straight forward. Bought with the intentions to use with a DLINK camera motion sensor as a trigger but the camera does not supports it, even though is from the DLINK Connected Home series (DCS-935L).

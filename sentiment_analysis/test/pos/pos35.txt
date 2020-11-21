@@ -1,0 +1,1 @@
+Seek camera is useful for finding heat/cold loss. The resolution is not high, but I didn't find that much of a con. It has temp reads on a crosshair and the pic can be split between regular and infrared image. Has a convenient case that can attach to a keychain.Con - uses up battery power fairly quickly, even when it's off.

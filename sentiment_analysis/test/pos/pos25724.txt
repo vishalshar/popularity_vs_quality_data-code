@@ -1,0 +1,1 @@
+This is an inexpensive but extremely useful thermal imager.  Easy to see temperature gradients and surprisingly well calibrated for temps at the sensing point.  I've used it to find hotspots in printed circuit boards, heat leaks around the house, and seeing critters in the yard at night.

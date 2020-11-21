@@ -1,0 +1,1 @@
+This could be a good idea, but keep in mind that you can't just scan color film, then reverse into a positive.  The colors come out very washed out and blue/cyan.  Color labs have special software to color invert/correct images.  This device is fine for black and white, but for color it's horrible.

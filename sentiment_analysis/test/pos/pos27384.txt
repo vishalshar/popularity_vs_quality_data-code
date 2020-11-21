@@ -1,0 +1,1 @@
+Adding this to the existing Sense setup was really easy.  My only concern (and the reason for 4 stars instead of 5) is that it often mis-attributes my partner's "wake" and "out of bed" times as mine and vice versa.  It doesn't seem to intelligently determine that if someone is still in bed and occasionally moving, then obviously someone isn't out of bed yet.

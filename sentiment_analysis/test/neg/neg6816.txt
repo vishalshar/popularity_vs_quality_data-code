@@ -1,0 +1,1 @@
+This is my third one and I can only get it to either open once or close once. After that, the app is unresponsive. And even after closing the app and restarting it, it does not close or open.

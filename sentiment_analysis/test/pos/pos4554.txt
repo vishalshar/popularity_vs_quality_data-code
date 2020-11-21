@@ -1,0 +1,1 @@
+Not quite as slick as Osmo's other tools, but a decent intro to coding for young children. Can run a bit glitchy at times and there are a few design decisions I don't understand/agree with, but overall a good addition to Osmo.

@@ -1,0 +1,1 @@
+Not compatible with old Netatmo system. No web service. I do not understand the logic of Netatmo on this product.

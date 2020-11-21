@@ -1,0 +1,1 @@
+It works for aluminum rod, but cold roll steel rod and brass rod it only worked once and I could not use it again.

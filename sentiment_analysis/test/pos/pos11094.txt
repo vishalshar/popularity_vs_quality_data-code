@@ -1,0 +1,1 @@
+Price went up; but it still is a good output switch that links with Zigbee HA 1.2  Home Automation WI-Fi networks.Does not transmit info for power, etc to the Almond 2015 though - yet.Works with Almond + if you want the data.

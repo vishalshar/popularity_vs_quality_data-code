@@ -1,0 +1,1 @@
+One major flaw that ruins it... If the monitor loses the signal it doesn't make any noise to let you know. So if you were relying on it and it lost the signal (which happens) you don't realize it till you look at the unit and see the no signal on the screen. If you were sleeping you wouldn't be reading the screen

@@ -1,0 +1,1 @@
+The app fails to connect to the device at least 50% of the time. Also, difficult to program radio stations.

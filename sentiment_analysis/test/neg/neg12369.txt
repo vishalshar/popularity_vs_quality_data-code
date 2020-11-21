@@ -1,0 +1,1 @@
+I would not recommend this to anyone.  Barely even enough to be considered conductive.  I printed a short path about 2 inches for my raspberry pi and it lit an LED about halfway. I urge everyone to take a look at these alternatives [...]  and really I think this last one is your best bet. [...] they even have a comparison of all 3 of these with test prints.

@@ -1,0 +1,1 @@
+Faulty design caused string to entangle in propeller which caused a crash.  Autel will not honor their warranty.

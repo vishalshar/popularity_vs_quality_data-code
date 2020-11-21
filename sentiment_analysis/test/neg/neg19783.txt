@@ -1,0 +1,1 @@
+Kind of silly because the controller is designed to be indoors. The controller runs off an AC outlet adapter. Cannot be direct wired outdoors.

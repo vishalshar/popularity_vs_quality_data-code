@@ -1,0 +1,1 @@
+If you've done any tinkering in 2014-2016, you've undoubtedly heard of the ESP8266 chip. This is a fine implementation of it with plenty of inputs and outputs. I use the Arduino IDE to program it, I've connected and deployed many of these  for a variety of different uses; they've all held up excellently.One of these has been running for 6+ months non-stop logging temperatures.

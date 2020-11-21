@@ -1,0 +1,1 @@
+This is a great mini drone. Much more stable than lower priced options and it's a treat to be able to program and manage the drone using an Arduino platform. We specifically wanted a drone that would be effective in a classroom / learning setting.  This is our top choice to date.  Very well done.

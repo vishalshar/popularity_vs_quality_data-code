@@ -1,0 +1,1 @@
+This is my first 3D printer. It was easy to setup but the software that comes with it MatterControl makes the supports really hard to get off. After buying Simplify3D this I have printed everything I want with minimal problems.

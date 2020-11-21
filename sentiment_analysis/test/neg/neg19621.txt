@@ -1,0 +1,1 @@
+so far the lock doesn't work. it links with the bluetooth and shows the lock as unlocked but the lock remains locked. I can open it manually but it will not open via bluetooth. i have made two calls to Noke in Utah but as yet recieved no reply. If I don't hear from them soon I will be sending it back.

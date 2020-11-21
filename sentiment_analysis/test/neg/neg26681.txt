@@ -1,0 +1,1 @@
+I'm unable to use the board I received due to poor quality control. One set of header pins that was install is completely crooked, and thus won't fit into my breadboard. It's not even a tiny bit out of alignment, it is very much out of alignment. I tried forcing it a bit to bend them back, but didn't want to apply too much force and break the board.

@@ -1,0 +1,1 @@
+I bought three of them, with only 1 consistently working.  There have been a flurry of RMAs over the past 6-8 months, and I still have only one functioning camera.  A hard reset will get the camera working for 2-3 weeks, but then the camera fails.  The SSID of the camera changes to "mydlinkcam" and becomes inaccessible until a reset is performed.

@@ -1,0 +1,1 @@
+Everything worked fine for a month. Now i get a call and screen does not turn on, when i push power button to see who is calling, the call gets cut and after 2 minutes it appears in missed call log.

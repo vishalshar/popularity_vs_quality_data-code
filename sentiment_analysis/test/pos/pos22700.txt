@@ -1,0 +1,1 @@
+Works as advertised.  Right now I'm using it to ride indoors.  It's not set up for that as it seeks GPS bearings and it doesn't register the work out, because it's not set up for indoor bike riding.  However, it DOES provide an ongoing display of my cadence which is what I am seeking and I understand that indoor cycling may be in the offing.

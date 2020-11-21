@@ -1,0 +1,1 @@
+Out of 12, 3 already have dead batteries that won't recharge after 2 months. The app only works when you're within a few feet, so if you space these out in your yard like pretty much anyone would, it will only communicate with the ones that are close enough.

@@ -1,0 +1,1 @@
+This little robot can even balance a bottle of Sprite and roll around the room with it and my ten year old daughter used the graphical programming App to write her first robot control script for it.  It has captured her imagination and warmed my heart.  I hear that you can even download an API and Software Development Kit for us grownups to paly with too!

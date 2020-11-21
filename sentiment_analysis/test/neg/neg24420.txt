@@ -1,0 +1,1 @@
+Charging did not work right on two cases! Returned easily

@@ -1,0 +1,1 @@
+Worked well once it was setup properly. Needed to switch my router from wep to wpa2 protection.

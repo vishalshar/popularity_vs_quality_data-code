@@ -1,0 +1,1 @@
+Lots of bugs with the watch.  Alexa hardly works because it consistently loses the WiFi connection.  Will go back to another paired device.

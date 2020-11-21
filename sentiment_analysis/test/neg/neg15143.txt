@@ -1,0 +1,1 @@
+This case never worked. The phone would always begin to charge but then say "This accessory may not be supported". I have tried on multiple phones, so I know the issue is with the case.

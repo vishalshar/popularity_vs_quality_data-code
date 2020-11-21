@@ -1,0 +1,1 @@
+When connected it works great with the echo, however it routinely disconnects and is real pain to get reconnected. You have to delete it from your wink app then re set it up from scratch each time, ive had to do this 4-5 times over a few month period.

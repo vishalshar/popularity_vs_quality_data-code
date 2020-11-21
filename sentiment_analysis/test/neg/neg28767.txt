@@ -1,0 +1,1 @@
+The twist lock mounting works great but NFC does NOT work with the magnet installed. I have tried using Android Pay at several different POS terminals and it never works when the magnet is in. I have even tried doing phone-to-phone transfers and it still doesn't work. Verified that all these transactions work when the magnet is removed.

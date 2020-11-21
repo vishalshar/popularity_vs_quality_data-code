@@ -1,0 +1,1 @@
+I wish there was a better way for the bottom to close without leaking.  I find more times than not even if I am careful closing this, it leaks liquid.

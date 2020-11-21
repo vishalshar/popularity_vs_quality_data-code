@@ -1,0 +1,1 @@
+works with Nexus 7 (2013) but letterboxes.  The Nexus 7 is 1920x1200 native.  I used a 24" NEC display that is also 1920x1200 native, and got a 4 cm black border on the top, bottom, and sides.

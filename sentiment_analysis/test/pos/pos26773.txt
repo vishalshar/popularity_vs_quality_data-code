@@ -1,0 +1,1 @@
+Love it. I connected it to the ceiling of the garage about a foot away from the garage door opener. I used the application IFTTT so that I could operate the garage door with Amazon Alexa. With IFTTT I also created DO button widgets, one to open the garage and one to close the garage door. These buttons work much faster then opening the Garadget app.

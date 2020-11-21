@@ -1,0 +1,1 @@
+This is an easy board to work with.  In no time I had an application up and running posting MQTT messages to a NodeRed server based on sensor inputs.

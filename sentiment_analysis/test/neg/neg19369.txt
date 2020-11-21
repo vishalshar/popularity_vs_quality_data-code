@@ -1,0 +1,1 @@
+Primitive app forces you to watch an intro /advertisement video every time you access the app. Placing the module accurately is extremely difficult and there is no feedback to assist in correct placement. It never worked for me and it was impossible to tell if the problem was with the app or the device.

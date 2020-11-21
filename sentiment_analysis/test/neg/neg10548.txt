@@ -1,0 +1,1 @@
+Didn't work for us at all. The app would attempt to connect then fail repeatedly. Tried different phone, different OS, same result. Returned with no issue. Bought a standard PTZ indoor IP camera instead.

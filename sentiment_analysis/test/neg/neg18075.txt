@@ -1,0 +1,1 @@
+This products over heats when reading and writing.  I copied about 8gb of data and the device felt like it was going to melt the plastic cover.  It was very hot to the touch and froze up a few times while copying, likely due to the heat.

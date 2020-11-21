@@ -1,0 +1,1 @@
+Product works, fits in port properly, retracts and extracts smoothly, blue led works, copied files to the drive then opened them to verify the transfer, opened without any problems. The drive has no data, until data is transferred on to the drive. Nice chunky style with good padding. The properties on my computer shows this is a 8GB Removable Disk drive.

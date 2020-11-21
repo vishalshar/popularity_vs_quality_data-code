@@ -1,0 +1,1 @@
+Matching LED Color to Mode is little bit difficult.If Indicator show Colored First Letter of Each Mode,it will be better.

@@ -1,0 +1,1 @@
+Couldn't get it to work. The app ends up in a loop with this message: "You have to reset your Petzi Treat Cam by pressing the reset button until the camera LED starts blinking and restart the provisioning process again."

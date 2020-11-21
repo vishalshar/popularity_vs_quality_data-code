@@ -1,0 +1,1 @@
+Very cool.  Load in your people and if tracks all of the temperatures.  I expected the thermometer to only run off of Bluetooth, but it actually has Wi-Fi as well. First you set it up with Bluetooth on your phone, then I can figure is the Wi-Fi connection directly. Pretty slick.

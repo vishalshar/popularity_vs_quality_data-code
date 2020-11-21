@@ -1,0 +1,1 @@
+It displays both inside or outside measurements so you don't need to account for the size of the case for inside measurements. It can also fin the center.for you.

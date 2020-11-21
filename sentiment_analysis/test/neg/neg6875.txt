@@ -1,0 +1,1 @@
+The LittleBits worked mostly as expected; though, the motor is very slow.My biggest disappointment, however, came when I realized that the Buzzer attachment was missing from the package.

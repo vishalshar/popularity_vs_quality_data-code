@@ -1,0 +1,1 @@
+Advertised as works with Apple HomeKit but requires a firmware update that is not currently available from August if you are using iOS 10 (the latest Apple OS). So as I write this, it DOES NOT WORK with the latest version of Apple's HomeKit. I would be happier if August would publish an estimated availability for their ASL 02 smart lock firmware update.

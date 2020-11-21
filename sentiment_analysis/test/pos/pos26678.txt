@@ -1,0 +1,1 @@
+Beautiful little board - good construction and works perfectly out of the box (using Arduino ESP 2.0.0 package). I'll probably build a lot more things with this board than what I originally bought it for.

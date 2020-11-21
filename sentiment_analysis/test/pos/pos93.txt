@@ -1,0 +1,1 @@
+used this to print a comparison part and this was not as rigid as another carbon fiber print. printed fine with a .3 nozzle and unheated bed.has issues if printed too slow.

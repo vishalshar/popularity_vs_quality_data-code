@@ -1,0 +1,1 @@
+Very stiff, prints great at 220C on a Makerbot Rep2.  It does wear out the nozzle- after 400 grams of the carbon fiber filament(and the nozzle wasn't brand new), it needed to be replaced.  This is really good stuff for many prints

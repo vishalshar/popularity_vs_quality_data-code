@@ -1,0 +1,1 @@
+This thing has the 2 wifi "not so smart ports". 1. The scheduled on/off feature fails all the time, works when it feels like it. 2. Goes offline all the time, and when it does, it turns off current to the smart ports.

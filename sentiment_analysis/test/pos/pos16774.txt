@@ -1,0 +1,1 @@
+Integrates perfectly with the Rachio sprinkler controller.  Make sure you purchase the correct model.

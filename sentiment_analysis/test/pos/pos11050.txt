@@ -1,0 +1,1 @@
+The MESH Smart Trigger performs very well! I wish I had another thermometer to verify the temperature it's sensing but the humidity part is in agreement with my other hygrometer.The only thing I wish is the bluetooth range was longer. Right now the tablet/phone has to have a pretty clear line of sight for it to connect consistently.

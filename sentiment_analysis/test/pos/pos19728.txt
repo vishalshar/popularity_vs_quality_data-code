@@ -1,0 +1,1 @@
+i wish the usb port was more standardized, i don't really have many midi usb devices with this connector on the other end, as they mainly plug into desktops.  but other than that it's a great little device.  I'm using mine via midi cable, response is pretty instantaneous going through bluetooth coreaudio.  mainstage works like a dream.

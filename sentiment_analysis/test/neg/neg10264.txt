@@ -1,0 +1,1 @@
+I wish I knew whether the device worked or not. However, I am certain that the app for android does not work.  Even with trying 2 different phones the bluetooth connection won't stay stable for more than 10 seconds and the sessions keep restarting.

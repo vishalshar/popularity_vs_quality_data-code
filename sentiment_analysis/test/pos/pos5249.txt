@@ -1,0 +1,1 @@
+Frist I must say I like this kind of stuff.Took me some testing to see how I could make it all work. I wanted to connect this devise with Amazon Echo.You have to creat some Macro on the app settings to make it easier, but creating the Macro is not hard. With Macro you can say things like:" Alexa open Anymote....Sleep" and you can turn off all devices at once.

@@ -1,0 +1,1 @@
+I honestly don't understand how anyone can make a device these days that has password restrictions for joining a wifi network. I have 70 devices on my network, and a crazy strong password. I could not even try out the WeMo due to its bizzare password restrictions for WiFi. Returned.

@@ -1,0 +1,1 @@
+Did not accurately track my made and missed shots, it counted one miss, as 4 and often after a bank shot, it didn't recognize the make, it either didn't count it or it didn't register as a make

@@ -1,0 +1,1 @@
+I have never used electrically conductive PLA so this criticism may be unjust. The filament is very brittle so care must be used in handling this coil. It doesn't need a heated bed and when one is used it is very difficult to remove your print. Once I worked around these issues my print turned out Okay.

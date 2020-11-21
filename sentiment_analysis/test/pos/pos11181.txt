@@ -1,0 +1,1 @@
+Sphero is a cool robotic toy, out of the box the sphero worked mostly as intended, except it wouldn't upgrade its firmware, and thus I was limited to a few features. The Orbotix tech was helpful in figuring out a solution, and was very patient. My sphero now works as advertised. My dog doesn't care for it much though.

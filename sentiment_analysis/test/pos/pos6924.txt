@@ -1,0 +1,1 @@
+A connector should be rotatable.

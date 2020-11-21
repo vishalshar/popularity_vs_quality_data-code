@@ -1,0 +1,1 @@
+It works great most of the time.  By that I mean it will disconnect from the network every once in a while then reconnect.  I don't know if this is due to the app, the product or the siren.  I have it set up to go off when either of my water sensors detect water.

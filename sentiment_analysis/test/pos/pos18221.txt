@@ -1,0 +1,1 @@
+This PLA / iron filament performs very well.  It seems to allow very little warping in the printed object.  My printer had trouble with some other similar filaments getting jammed, but the proto-pasta has worked flawlessly.

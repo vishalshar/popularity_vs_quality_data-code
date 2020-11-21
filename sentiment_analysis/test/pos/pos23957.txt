@@ -1,0 +1,1 @@
+This works very well.  Rejects size and rear noise much better than I expected.  Doesn't work well for distance pickup.  See my YouTube video for examples in different conditions.

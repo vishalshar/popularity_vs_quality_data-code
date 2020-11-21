@@ -1,0 +1,1 @@
+Does not work with Alexa if you have an Android (even though they say they do) If you try to use it Alexa will tell you at this time it is not compatable

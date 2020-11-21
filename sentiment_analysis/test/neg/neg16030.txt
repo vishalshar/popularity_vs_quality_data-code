@@ -1,0 +1,1 @@
+very inconsistent device. android app is constantly crashing and the device fails to connect to the app on both ipad and android with no apparent pattern. for a device that is supposed to be a convenience from manually plugging and unplugging a device, it fails at its most critical convenience.

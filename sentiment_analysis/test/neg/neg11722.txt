@@ -1,0 +1,1 @@
+I really wanted to like this activity tracker.  I love the look of it, but it is very inaccurate as far as counting steps.  Out of the 6600 steps I took to test it, it read only 4800.  Not even close.

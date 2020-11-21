@@ -1,0 +1,1 @@
+App silently stops tracking device. I pulsed one a bug submitted on this that was already 4 month's old.  Developer openly admits this major functionality flaw is low priority for them. They don't care that the product does not perform it's primary purpose.

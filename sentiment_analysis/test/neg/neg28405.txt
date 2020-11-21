@@ -1,0 +1,1 @@
+The robot is cool, but it almost looks like it is used.  There are a few scuffs on it on of which is directly in front of his IR sensor.  I think for this reason if doesn't respond well to hand gestures.

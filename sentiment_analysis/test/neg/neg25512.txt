@@ -1,0 +1,1 @@
+For some reason it forces you to use its own dedicated WiFi network and therefore you cant have all your iPhone controlled devices on one network.

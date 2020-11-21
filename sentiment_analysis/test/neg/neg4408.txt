@@ -1,0 +1,1 @@
+its nice and easy to install. It can just track your car (see it on a map) and give you a "driving report" (how many trips, how many miles, etc).. I wish it could track gas on its own instead of me adding each gas (my car is "fully compatible" with it). the "apps" that work with it (IFTT) are kind of useless - just forwarding your "reports" to some excel. a bit disappointed

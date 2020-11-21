@@ -1,0 +1,1 @@
+It works, but ....installing this is frightening. First you have to free up 10% of you hard drive, which is a problem to begin with. Then you have to do a bunch of backups to prepare for a failed install.I did all the steps and it worked perfectly. You might have to consider this cannot be reversed easily. I think once you add it, it will forever be part of your set up.

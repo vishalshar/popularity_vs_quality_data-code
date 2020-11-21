@@ -1,0 +1,1 @@
+Does exactly as advertised, pulse lights up according to the power and usage of your device.

@@ -1,0 +1,1 @@
+Good device. There are a few things I don't like, but not enough to return. I wish the USB plugin in the rear supported NTFS (it only works on FAT16/FAT32 usb drives). Also...I'm still struggling to connect via bluetooth. I'm sure it's just learning how to do it right, but I was hoping it would be an easier interface for that.

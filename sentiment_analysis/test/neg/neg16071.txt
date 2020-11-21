@@ -1,0 +1,1 @@
+DOES NOT WORK! Using the latest Android App: the App finds the bulb, connect to it. After I enter my wifi network it hangs at "Reconnecting your phone to wifi" Tried several times, even re-settng the bulb as described on the LIFX website. Returning it to Amazon. Very disappointing.

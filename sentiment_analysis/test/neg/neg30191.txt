@@ -1,0 +1,1 @@
+The way that it connects to the internet needs to be changed immediately. I had a connection of over 100mbps on my phone right next to it, but the garageio could not connect to the internet after 20+ plus attempts.

@@ -1,0 +1,1 @@
+Nice easy to use helpful tool.  Works great for finding poorly insulated parts of house and to see if electronics are running to hot.  Doesn't work so well seeing what temp your grill is though.  When I pointed it at the grill, just a regular Weber, it was showing 7 or 8 digits and fluctuating like crazy.

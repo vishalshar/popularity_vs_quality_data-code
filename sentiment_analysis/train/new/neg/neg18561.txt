@@ -1,0 +1,1 @@
+The format of the 24 hour cycle on each page doesn't line up to a calendar date, which is confusing.  Each page cuts across two calendar days, but you only have space on the top of each page to write a single calendar date.  I wish they had lined the pages starting at 12 am, rather than 6 am.

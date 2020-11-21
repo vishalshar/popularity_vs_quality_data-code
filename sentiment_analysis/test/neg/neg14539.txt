@@ -1,0 +1,1 @@
+It does not work on my Android phone (version 6,, LG G3). No flashing in Apps, and my phone cannot connect to the toy, so I cannot setup the toy in my home Wifi network.  The Apps has major bug.

@@ -1,0 +1,1 @@
+Felt like its scratching the contacts while inserting it, needed to go to safe mode and use command line til it worked, after that my Mac started crashing on updates and locking up on waking from sleep !

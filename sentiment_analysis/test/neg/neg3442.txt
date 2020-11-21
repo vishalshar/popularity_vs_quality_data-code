@@ -1,0 +1,1 @@
+Will not synchronize with the client on iOS or Android, does not serve a web page, the qCode configuration card it came with isn't recognized by any of their apps.  This is a disappointing purchase that seems defective by design, I was looking to incorporate this into my IFTTT.

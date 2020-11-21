@@ -1,0 +1,1 @@
+It does exactly what is described - hears the beeping alarm of the device it was put in, along with nearby devices (like a CO2 detector), and lets you know via smartphone notification. I ran into a small problem after replacing my Wifi router, and the support provided by Roost was excellent!

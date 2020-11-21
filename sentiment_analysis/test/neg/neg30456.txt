@@ -1,0 +1,1 @@
+Had an extremely difficult time streaming audio along with the video, it wanted to buffer for at least 5 seconds.  Ending up just sticking another computer below the screen and using Chrome Remote Desktop

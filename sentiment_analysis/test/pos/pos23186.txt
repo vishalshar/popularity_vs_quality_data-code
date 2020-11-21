@@ -1,0 +1,1 @@
+Works well to allow connection of my android phone (LGV10 at the time of this writing) to a TV. The key is the 4k note, it carries sufficient bandwidth to stream video to the TV. I've tried others without the 4k indicator and the video would drop out and stutter. This one has worked perfectly.

@@ -1,0 +1,1 @@
+Works great. I have access to a professional FLIR camera system and we compared surface temperature images of devices and the only real difference is resolution. The temperatures were very close.The Android app is buggy, crashes often. Hoping for updates here.

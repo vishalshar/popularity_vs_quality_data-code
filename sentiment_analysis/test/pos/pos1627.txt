@@ -1,0 +1,1 @@
+Did not start working right until the next day.. It would turn the switches on, but would not reflect they were on in the app, I reset multiple times, emailed wink support, woke up the next morning and it was suddenly working.

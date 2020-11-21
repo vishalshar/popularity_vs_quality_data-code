@@ -1,0 +1,1 @@
+Easy to use, can be programed just like an arduino if you load the correct firm ware and easy to go back to the original with just a flash.  Currently using this to let me know if the garage doors are open or closed.  Soon I will ad the ability to open them from my phone.

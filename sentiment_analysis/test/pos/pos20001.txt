@@ -1,0 +1,1 @@
+Even though the August smart lock says it's HomeKit enabled on the box. August has yet to have the proper firmware update to have the lock work with apples HomeKit app on ios10. I gave four stars because of how well put together the lock is and how responsive it has been.

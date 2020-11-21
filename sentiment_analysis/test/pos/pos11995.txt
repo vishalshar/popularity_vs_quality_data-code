@@ -1,0 +1,1 @@
+it took about an hr to install, was very easy. It would be nice if they could expand the current units to monitor all the circuits in a 200 amp service  (approx. 40 ) vice only 24. What would be helpful is IF the system would alert a user if a circuit is using  more energy than normal (e.g HVAC, Stove, Dryer)  based on manufacturers energy usage specifications.

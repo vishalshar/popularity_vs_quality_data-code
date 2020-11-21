@@ -1,0 +1,1 @@
+Lovely piece of engineering. For MB Replicator2, make sure to get a good fit between the new nozzle and the feed tube. Install finger tight, heat hot end to 230c and then finish tightening... not more than a 1.5 kg of torque works well.

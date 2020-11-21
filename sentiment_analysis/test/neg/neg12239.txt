@@ -1,0 +1,1 @@
+It was fairly straight forward setting up these devices but when I did the firmware update three out of four devices wouldn't restart. Why these brand new devices needed an update I'll never know. Then to top that off I them replaced and two out of the three would not connect to my wifi at all. So out of a total of seven, only two worked fine. Very disappointing.

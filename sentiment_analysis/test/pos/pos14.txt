@@ -1,0 +1,1 @@
+This works really well. I mostly use it to identify heat sources on printed circuit boards. At work, we have a FLIR T420 - an  $8000 thermal camera. While this device is not in the same class, I often find myself using it instead of the FLIR . It's compact, I don't have to share it with anybody and the iOS app is a joy to use compared to the clunky interface of the FLIR .

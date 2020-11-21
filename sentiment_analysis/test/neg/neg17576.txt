@@ -1,0 +1,1 @@
+Does NOT work most of the time - design flaw. Installation was reasonably easy. But once set up, our phones do NOT always "see" the lock due to a design flaw that the battery connections are loose. Disappointing.

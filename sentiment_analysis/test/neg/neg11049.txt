@@ -1,0 +1,1 @@
+There's a very subtle problem with this "tag" and I bet you can't guess what it is...  The problem is that this "temperature and humidity" tag can't be used to actually measure temperature and humidity.  It can only notify you if the values fall in or out of a pre-set range.  That's just not useful to me.

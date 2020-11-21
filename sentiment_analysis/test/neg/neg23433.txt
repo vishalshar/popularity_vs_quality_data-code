@@ -1,0 +1,1 @@
+Shown as working with Amazon Echo, both on the Amazon page for this product and on the AnyMore website.  It dose NOT work with Amazon Echo UK and as of October 2016, Amazon have no plans to release a UK skill for this device.

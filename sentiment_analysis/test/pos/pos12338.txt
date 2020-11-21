@@ -1,0 +1,1 @@
+I own two. One is a travel router. Don't live at home and don't leave home without one. This stuff puts TOR between it or your router and the bad guys. It has a built in router, but i find it is better to hook your router to it since the 802.x radio it comes with is a bit too weak for my standards.

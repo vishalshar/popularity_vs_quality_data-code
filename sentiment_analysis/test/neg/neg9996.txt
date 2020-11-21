@@ -1,0 +1,1 @@
+It works at a basic level.Its sensitivity is not very good. It will not show small changes of temperature making ok for spotting wildlife on cool nights but not so good for checking insulation unless the temperature difference is 10 to 15 F. It also needs some method of securing the device to the phone. It relies on friction of the usb port.

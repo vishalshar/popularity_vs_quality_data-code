@@ -1,0 +1,1 @@
+Check your operating system first. If you're running 5.1.1 then it will most likely not work. It didn't with my Samsung Galaxy S5 Active, and apparently the manufacturer is aware of this. Would have been nice to know out front !!

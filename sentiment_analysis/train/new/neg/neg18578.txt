@@ -1,0 +1,1 @@
+Shipped as expected via Prime. Can't seem to get this to work properly. The thermometer changes from all the different functions but doesn't seem to register the correct temperature.

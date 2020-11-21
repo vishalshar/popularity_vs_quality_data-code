@@ -1,0 +1,1 @@
+Almost perfect. Need to be able to obtain lat and long from phone/tablet if car is stolen.

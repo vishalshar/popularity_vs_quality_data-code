@@ -1,0 +1,1 @@
+The product works like a charm.  Acrobotic's website has great FAQs and tutorials for new users, and it all works perfectly out of the box as I had hoped.  It's also wonderful to be able to power the device solely via USB - when programming the ESP-12e without the development board it requires a separate power supply to provide the amount of current it needs.

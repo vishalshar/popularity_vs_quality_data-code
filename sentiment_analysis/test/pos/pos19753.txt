@@ -1,0 +1,1 @@
+The 2.0 update appears to correct most of earlier problems except one.  During a phone call, even in quiet room, without interference, etc., the left earbud stops working intermittently.  This does not happen in streaming music play, only during phone calls.  My guess is that the near field technology they are using needs to be improved.

@@ -1,0 +1,1 @@
+Absolutely useless.  We tried both versions of the android app available and neither version would save the bluetooth connection.  When I tried to use the light on/off button, the app crashed.  I have written to the vendor and received no response.  I can only find help on installing it, not on troubleshooting the app.

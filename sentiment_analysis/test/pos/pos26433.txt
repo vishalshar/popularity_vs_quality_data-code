@@ -1,0 +1,1 @@
+Seems like the quality of print went up a notch. I guess the lubricity portion is working well since I have been able to reduce print temp by 5-10 degrees, depending on the material.

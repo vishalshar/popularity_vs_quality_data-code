@@ -1,0 +1,1 @@
+Constant reconnects, freezes and flat out hangs. Now it tells me there is a firmware update but I do not see any way to launch the update. I looked on the app (latest version with latest iOS), web site and support and don't see how to update it. It looks like I would need to pay for a support ticket to update it and see if it works. Very frustrating device.

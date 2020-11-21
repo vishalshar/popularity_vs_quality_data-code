@@ -1,0 +1,1 @@
+It only connects if you are no more than 3 meters away from it. And it's to small

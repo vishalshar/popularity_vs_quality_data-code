@@ -1,0 +1,1 @@
+A little glitchy - motion triggers even though the room is empty and ends up leaving my lights on all night.

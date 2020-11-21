@@ -1,0 +1,1 @@
+I'm using it as an external boot device for MacOS X 10.9.2, and it works perfectly. It's remarkably fast and light, and the cost per GB is well below other ultra-portable drives. Also, unlike some other USB 3.0 storage devices, this one continues to work at very high speeds even after being reformatted for Mac. This little unit is in a class by itself!

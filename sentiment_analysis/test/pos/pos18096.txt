@@ -1,0 +1,1 @@
+Fantastic tracking device using BlueTooth and your GPS. Simple to install and locates a variety of programmed devices. Like for locating my car in the famous parking lot that has no section or row numbers

@@ -1,0 +1,1 @@
+Good siren that works with the water sensor; basement is now better protected for accidental water damage.

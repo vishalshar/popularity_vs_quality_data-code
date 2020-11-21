@@ -1,0 +1,1 @@
+We usually get two functioning filters but our last package came with one broken and leaking black stuff into the water. Second one works well though

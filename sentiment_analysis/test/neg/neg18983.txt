@@ -1,0 +1,1 @@
+Very disappointed with the circuitry... if you leave things plugged into the battery, and plug the battery into the AC wall to recharge it.. the whole thing shuts off for a moment.  This will not work for my raspberry pi car pc needs unfortunately..

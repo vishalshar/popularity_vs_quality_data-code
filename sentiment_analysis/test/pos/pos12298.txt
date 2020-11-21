@@ -1,0 +1,1 @@
+It works pretty well. It doesn't seem to be accurate for temperature though.

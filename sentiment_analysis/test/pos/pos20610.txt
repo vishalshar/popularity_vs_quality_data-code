@@ -1,0 +1,1 @@
+A handy little thermal camera. I have used it for inspecting my home, bee hives and visualizing the thermal losses in electronic circuits.

@@ -1,0 +1,1 @@
+works mostly the way it should.  works with the Apple HomeKit which is cool.  the auto lock and unlock feature are convenient.  Just one complaint, some times when I pull out my phone to unlock my door it takes 20 seconds or so to recognize the lock.

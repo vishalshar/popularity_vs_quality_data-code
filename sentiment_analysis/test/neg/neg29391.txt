@@ -1,0 +1,1 @@
+Plugged it in, phone says USB port active. Software says "Connect camera to enable thermal imaging"Samsung Galaxy S3, Android version 4.4.2 which is supported.The phone did actually find the device, briefly.  I got about 10 minutes of functionality.It's a really cool product I hope that they get the bugs worked out.

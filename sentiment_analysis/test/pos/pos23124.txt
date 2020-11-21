@@ -1,0 +1,1 @@
+So far it has worked perfect. (6 months). I use a combination of Amazon Echo and IFTTT to control each outlet with a custom phrase to control two different lamps. It has its own IFTTT channel.  I recently purchased a wink hub and It works great with the hub as well. Setup was easy with an IPhone.  Its a very inexpensive way to add a little automation to your home.

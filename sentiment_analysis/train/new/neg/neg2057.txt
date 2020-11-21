@@ -1,0 +1,1 @@
+print washed off in the first wash
