@@ -1,3 +1,8 @@
+'''
+Source: https://github.com/vivekn/sentiment
+Paper: https://arxiv.org/ftp/arxiv/papers/1305/1305.6143.pdf
+'''
+
 from __future__ import division
 from math import log, exp
 import os
