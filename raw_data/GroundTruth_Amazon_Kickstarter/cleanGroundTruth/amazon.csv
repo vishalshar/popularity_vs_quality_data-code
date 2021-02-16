@@ -1,0 +1,377 @@
+Id,AmazonCategory,AmazonPrice,AmazonImagesVideo,AmazonProdDescLength,rating
+1,Toys Games,25,5,579,4.8
+2,Electronics,9.99,7,3002,4.2
+3,Home Kitchen,6.88,6,265,4.2
+4,Clothing Shoes Jewelry,56.98,7,726,4.1
+5,Electronics,499.99,7,261,3.8
+6,Home Kitchen,19.99,9,3068,3.9
+7,Grocery Gourmet Food,15.99,5,3012,4.2
+8,Grocery Gourmet Food,15.99,4,2967,4.1
+9,Grocery Gourmet Food,15.99,4,2963,3.9
+10,Grocery Gourmet Food,15.99,4,3017,4.1
+11,Grocery Gourmet Food,15.99,4,2894,4.2
+12,Amazon Launchpad,15.99,4,792,4.1
+13,Books,9.73,5,5946,4.3
+14,Toys Games,19.99,4,1151,4.5
+15,Cell Phones Accessories,8.99,3,4792,2.9
+16,Tools Home Improvement,59,9,3923,4
+17,Books,9.95,5,2527,3.8
+18,Home Kitchen,34.95,6,3025,3.9
+19,Home Kitchen,39.5,7,5045,4.1
+20,Amazon Launchpad,69.93,9,3778,4.6
+21,Movies TV,23.88,1,460,4.7
+22,Musical Instruments,182.29,9,1,3.4
+23,Beauty Personal Care,15.99,8,2591,4.7
+24,Patio Lawn Garden,59.95,9,4346,4.1
+25,Baby Products,15.99,5,3432,3.6
+26,Handmade,149.99,5,723,4.3
+27,Digital Music,7.99,3,2579,4.8
+28,Toys Games,24.54,3,1125,4.5
+29,Amazon Video,12.99,3,2645,5
+30,Electronics,499.99,7,2998,4.2
+31,Clothing Shoes Jewelry,23.95,9,4087,4.5
+32,Grocery Gourmet Food,25.99,9,3437,4.5
+33,Apps Games,79.99,6,1929,4.7
+34,Toys Games,49.95,7,1278,4.5
+35,Cell Phones Accessories,39.95,7,315,4.4
+36,Video Games,94.61,9,1763,2.5
+37,Magazine Subscriptions,39.95,1,3322,4
+38,Books,60,9,1828,4.3
+39,Home Kitchen,167.25,7,4422,4.1
+40,Pet Supplies,9.95,9,3889,3.4
+41,Electronics,167.99,7,4416,3.8
+42,Electronics,19.99,8,4431,2.8
+43,Musical Instruments,98.57,9,4672,3.9
+44,Digital Music,8.9,7,2805,4.7
+45,Home Kitchen,16.7,9,2477,4
+46,Industrial Scientific,95.99,9,4115,4
+47,Amazon Video,3.99,5,1985,5
+48,Baby Products,45,9,2082,3.7
+49,Clothing Shoes Jewelry,29.95,9,5367,4.1
+50,Toys Games,24.99,3,572,4.6
+51,Grocery Gourmet Food,182.29,4,373,4.6
+52,Cell Phones Accessories,149.99,7,4011,4.1
+53,Digital Music,8.99,9,7355,5
+54,Arts Crafts Sewing,229.02,3,4500,3.5
+55,Tools Home Improvement,39.98,6,2262,3.3
+56,Home Kitchen,325,5,235,4.2
+57,Amazon Launchpad,23,4,2872,3.7
+58,Video Games,24.99,4,156,1.9
+59,Electronics,149.02,7,1420,4.3
+60,Amazon Launchpad,14.99,7,4978,4.6
+61,Musical Instruments,16.95,4,4852,4.6
+62,Electronics,69.99,7,3009,2.6
+63,Digital Music,10.49,9,8011,4.4
+64,Patio Lawn Garden,31.99,7,3085,4.9
+65,Industrial Scientific,379,5,3884,3.8
+66,Toys & Games,79.99,6,1929,4.7
+67,Clothing Shoes Jewelry,159,8,4000,3.3
+68,Patio Lawn Garden,14.95,3,4079,4
+69,Musical Instruments,195.66,6,1989,2.9
+70,Sports Outdoors,44.95,9,2442,4.3
+71,Toys Games,99.99,7,479,4.8
+72,Digital Music,9.49,5,2527,4.8
+73,Home Kitchen,19.99,7,3680,4.3
+74,Health Household,32,6,2988,4.3
+75,Grocery Gourmet Food,14.99,9,1532,4.3
+76,Cell Phones Accessories,32.8,9,2608,2.5
+77,Tools Home Improvement,22.76,8,3344,4
+78,Amazon Launchpad,149,7,4042,3.6
+79,Books,80,7,4525,4.7
+80,Clothing Shoes Jewelry,29.95,9,4956,3.1
+81,Electronics,11,9,3156,4
+82,Amazon Video,3.99,1,1103,4.6
+83,Magazine Subscriptions,8.99,1,1188,4
+84,Pet Supplies,32.66,7,4166,3.4
+85,Home Kitchen,285.47,9,6857,4.2
+86,Patio Lawn Garden,27.28,7,1,4.2
+87,Electronics,69.95,2,1316,3.9
+88,Digital Music,0.99,9,3778,4.6
+89,Digital Music,3.99,7,1155,4.5
+90,Musical Instruments,160.22,7,4498,4
+91,Home Kitchen,39.99,4,3702,4.1
+92,Home Kitchen,28.99,2,3049,3.8
+93,Grocery Gourmet Food,23.2,9,3365,4.5
+94,Tools Home Improvement,67.88,9,4318,3.1
+95,Books,285,7,1701,4.7
+96,Home Kitchen,39.89,7,3601,4.1
+97,Toys Games,42.7,9,3528,4.1
+98,Kindle Store,19.53,4,5504,4.2
+99,Amazon Video,9.99,1,54,4.6
+99,Amazon Video,4.99,9,8011,4.4
+100,Pet Supplies,99.99,7,3852,3.5
+101,Cell Phones Accessories,29.95,9,734,4.6
+102,Patio Lawn Garden,42.03,8,1871,3.4
+103,Sports Outdoors,48,5,5795,5
+104,Electronics,29.94,4,5012,4.2
+105,Automotive,135,7,6034,3.8
+106,Digital Music,0.99,4,0,4.6
+107,Grocery Gourmet Food,6.99,7,56,3.5
+108,Grocery Gourmet Food,3.99,4,2169,4.1
+109,Grocery Gourmet Food,13.48,6,49,4.1
+110,Grocery Gourmet Food,3.23,7,155,2.6
+111,Grocery Gourmet Food,13.98,6,373,4.7
+112,Grocery Gourmet Food,3.99,4,2158,4.1
+113,Digital Music,3.96,9,6857,4.2
+114,Home Kitchen,7.99,8,2679,4.5
+115,Sports Outdoors,36.95,7,2735,4.3
+116,Beauty Personal Care,19.96,3,5430,5
+117,Home Kitchen,1898.25,7,2306,4.2
+118,Electronics,285,7,2940,4.2
+119,Digital Music,6.99,6,3528,4.6
+120,Toys Games,94.74,6,3528,4
+121,Clothing Shoes Jewelry,159,9,4040,3.2
+122,Books,195.66,6,971,4.5
+123,Pet Supplies,29.26,5,3037,3.9
+124,Kindle Store,3.99,8,3344,5
+125,Home Kitchen,199,9,4241,3.8
+126,Cell Phones Accessories,38.48,7,2105,2.8
+127,Patio Lawn Garden,173.99,7,1575,4.3
+128,Electronics,129.99,9,2462,4.4
+129,Cell Phones Accessories,34.99,9,695,4.2
+130,Electronics,199,9,4615,3.9
+131,Health Household,39.99,7,2733,3.6
+132,Home Kitchen,23.88,5,2492,4.7
+133,Books,129,7,575,5
+134,Amazon Video,4.99,9,4060,3.4
+135,Home Kitchen,35.36,5,3702,4.1
+136,Electronics,399.99,9,3643,3.6
+137,Cell Phones Accessories,69.95,9,3825,4.6
+138,Sports Outdoors,48,5,5795,5
+139,Sports Outdoors,52.31,4,3637,4.4
+140,Home Kitchen,32.95,8,3582,4.6
+141,Grocery Gourmet Food,25,3,5312,3
+142,Books,39.89,7,777,4.7
+143,Sports Outdoors,23.2,9,6298,4
+144,Toys Games,19.99,3,3994,4.6
+145,Amazon Video,3.99,8,3344,4
+146,Amazon Video,3.99,7,3680,4.3
+147,Books,24.99,5,2029,4.6
+148,Home Kitchen,459.99,2,1649,3.6
+149,Electronics,295,9,6129,4.6
+150,Movies TV,39.95,1,345,4.8
+151,Tools Home Improvement,16.99,3,1349,3.8
+152,Office Products,29.15,7,6429,4.1
+153,Home Kitchen,35.02,5,4480,4.2
+154,Electronics,21.98,7,2893,4.1
+155,Digital Music,8.99,6,3139,4.8
+156,Cell Phones Accessories,29.95,9,3902,3.7
+157,Electronics,29.95,3,2407,4.5
+158,Toys Games,49.95,9,2419,5
+159,Cell Phones Accessories,19.99,8,4430,2.8
+160,Books,3.99,7,3053,4.7
+161,Movies TV,12.99,1,507,4.7
+162,Office Products,30,3,2394,3.1
+163,Sports Outdoors,74.96,7,2177,3.2
+164,Home Kitchen,31.5,6,3139,4.4
+165,Electronics,19.99,4,1428,3.4
+166,Tools Home Improvement,43.45,9,5251,3.3
+167,Grocery Gourmet Food,19.99,8,629,4.2
+168,Electronics,99.99,9,4060,3.4
+169,Toys Games,25,5,1550,4.2
+170,Digital Music,7.99,3,1125,4.6
+171,Cell Phones Accessories,9.95,7,106,4.4
+172,Books,8.99,9,1081,4.5
+173,Amazon Video,3.99,9,3528,4.1
+174,Home Kitchen,24.99,6,20,4.4
+175,Tools Home Improvement,48.51,8,5299,3.8
+176,Electronics,12,7,3225,4.2
+177,Electronics,29.99,6,3634,4.2
+178,Grocery Gourmet Food,16.08,5,6554,4.4
+179,Toys Games,14.99,7,2342,4.4
+180,Electronics,32.8,5,3369,3.1
+181,CDs Vinyl,195.66,4,1723,4.7
+182,Automotive,20,9,4644,5
+183,Amazon Launchpad,59.9,9,3821,4.3
+184,Amazon Video,2.99,9,3525,4.2
+185,Books,13.48,6,1081,4.5
+186,Digital Music,8.99,7,737,4.8
+187,Electronics,29.99,6,3634,4.2
+188,Toys Games,149,5,3717,3.7
+189,Office Products,14.3,4,2539,4.6
+190,Toys Games,13,2,2921,5
+191,Sports Outdoors,9.95,5,2335,5
+192,Books,8.99,6,0,4.3
+193,Amazon Video,3.99,7,1420,4.3
+194,Industrial Scientific,799.99,8,4508,3.6
+195,Toys Games,22.99,7,2596,4.5
+196,Grocery Gourmet Food,9.73,5,5946,4.2
+197,Home Kitchen,24.99,6,20,4.4
+198,Digital Music,8.99,2,0,4.5
+199,Movies TV,45,3,642,4
+200,Books,49,9,1064,4.7
+201,Tools Home Improvement,16.99,3,1349,3.8
+202,Home Kitchen,99.99,9,4060,3.4
+203,Toys Games,8.99,6,3528,3.8
+204,Clothing Shoes Jewelry,650,6,1953,5
+205,Home Kitchen,21.99,5,3000,4.3
+206,Cell Phones Accessories,38.5,4,3593,4.2
+207,Movies TV,105,1,1383,3.1
+208,Home Kitchen,31.95,7,3393,4.6
+209,Toys Games,39.95,9,3322,4
+210,Home Kitchen,41.99,3,2579,4.4
+211,Industrial Scientific,89.99,7,2778,3.9
+212,Sports Outdoors,48,4,2443,3.8
+213,Movies TV,16.7,1,746,3.7
+214,Toys Games,49.95,9,2419,5
+215,Cell Phones Accessories,9.95,7,106,4.4
+216,Books,24.99,6,462,3.9
+217,Digital Music,8.99,4,2967,4.9
+218,Grocery Gourmet Food,28.23,9,3725,3.9
+219,Tools Home Improvement,42.99,7,3739,3.1
+220,Home Kitchen,33.88,7,3387,4.6
+221,Home Kitchen,30.03,6,3139,4.1
+222,Clothing Shoes Jewelry,208.7,7,1593,4.5
+223,Toys Games,35.19,9,3124,4.7
+224,Movies TV,399,1,445,3.6
+225,Electronics,35.97,8,2897,4.2
+226,Sports Outdoors,67.99,9,3605,4.9
+227,Cell Phones Accessories,29.99,9,3075,3.7
+228,Books,480,4,0,4.2
+229,Movies TV,15.99,1,3432,4.9
+230,Home Kitchen,14.99,7,1103,3.4
+231,Toys Games,30,7,391,4.5
+232,Health Household,29.15,6,2743,4.1
+233,Movies TV,19.99,1,2738,4.3
+234,Cell Phones Accessories,37.74,3,1871,4.4
+235,Tools Home Improvement,399.99,5,1712,2.7
+236,Sports Outdoors,96.75,3,2866,3.8
+237,Clothing Shoes Jewelry,650,9,1953,5
+238,Home Kitchen,19.53,4,5504,5
+239,Electronics,14.99,5,3477,4.1
+240,Sports Outdoors,137.75,7,2713,3.2
+241,Books,23,4,624,4.6
+242,Digital Music,8.99,1,1188,4.8
+243,Electronics,53.99,9,2969,3.6
+244,Home Kitchen,120,3,2140,4.3
+245,Sports Outdoors,79.99,9,5072,4.6
+246,Cell Phones Accessories,39,7,3840,4.1
+247,Clothing Shoes Jewelry,74,5,336,4.8
+248,CDs Vinyl,49.95,4,1355,4.2
+249,Books,25.55,2,0,5
+250,Toys Games,34.99,2,4693,4.2
+251,Movies TV,35.99,1,624,4.4
+252,Electronics,70.84,7,3639,3.1
+253,Home Kitchen,11.95,3,1367,4.6
+254,Electronics,399,7,2973,3.9
+255,Amazon Launchpad,41.2,3,351,5
+256,Movies TV,29.99,1,1103,4.6
+257,Sports Outdoors,650,6,3746,3.9
+258,Home Kitchen,80,7,3481,4.4
+259,Books,6.99,6,373,5
+260,Grocery Gourmet Food,16.99,4,4534,5
+261,Toys Games,13,9,2243,4.4
+262,Electronics,64.6,9,3114,3.8
+263,Home Kitchen,12.55,8,4592,2.3
+264,Movies TV,29.15,1,647,3.9
+265,Clothing Shoes Jewelry,750,9,1953,5
+266,Home Kitchen,18.99,8,3618,4.2
+267,Toys Games,37.93,6,4478,4.9
+268,Books,39.99,7,853,4.8
+269,Sports Outdoors,29.98,2,207,4.1
+270,Home Kitchen,31.5,6,3139,4.3
+271,Grocery Gourmet Food,29.2,3,2645,5
+272,Toys Games,62.99,4,4164,4.1
+273,Home Kitchen,45.6,6,3139,3.9
+274,Electronics,169,7,5046,4.2
+275,Clothing Shoes Jewelry,650,5,1985,5
+276,Sports Outdoors,74.99,7,14918,3.7
+277,Books,59.95,9,4038,3.9
+278,Home Kitchen,27.58,3,3615,4.2
+279,Toys Games,30.49,9,2470,3.7
+280,Amazon Launchpad,74.75,3,2357,2.1
+281,Grocery Gourmet Food,6.49,9,3344,4.4
+282,Home Kitchen,30.99,6,3139,3.7
+283,Sports Outdoors,21.02,2,3156,4
+284,Toys Games,24.99,6,282,4.5
+285,Clothing Shoes Jewelry,750,9,1953,5
+286,Home Kitchen,60,9,2083,3
+287,Home Kitchen,105,7,1886,3.6
+288,Home Kitchen,32.99,7,232,4.5
+289,Grocery Gourmet Food,12.52,6,5069,5
+290,Amazon Launchpad,6.99,4,1857,3.7
+291,Sports Outdoors,199,9,4007,2.9
+292,Home Kitchen,29.99,6,3139,3.5
+293,Toys Games,139,9,1977,3.3
+294,Toys Games,79.71,3,3674,5
+295,Home Kitchen,49,9,3525,4.2
+296,Cell Phones Accessories,28.72,7,737,3
+297,Grocery Gourmet Food,77.47,2,635,5
+298,Toys Games,24.99,5,4628,4.8
+299,Sports Outdoors,899,7,654,3.5
+300,Home Kitchen,169.95,3,1722,4.1
+301,Books,59.9,9,4950,5
+302,Toys Games,44.99,9,2715,4.1
+303,Cell Phones Accessories,89.99,8,3969,3.8
+304,Books,79.99,6,1301,5
+305,Cell Phones Accessories,28.72,7,737,3
+306,Home Kitchen,12.55,8,4592,2.3
+307,Sports Outdoors,225,4,4112,4.2
+308,Toys Games,18,7,454,4.2
+309,Home Kitchen,15.65,4,774,5
+310,Cell Phones Accessories,89.99,8,3969,3.8
+311,Books,3.99,7,449,5
+312,Toys Games,24.99,4,4661,5
+313,Home Kitchen,26.97,4,1695,3.2
+314,Sports Outdoors,480,4,4563,5
+315,Cell Phones Accessories,49,7,4854,3.9
+316,Toys Games,27.55,1,1356,5
+317,Home Kitchen,29.99,6,3139,3.5
+318,Sports Outdoors,48,6,622,4.1
+319,Electronics,15.89,5,737,2.3
+320,Toys Games,29.89,9,349,3.4
+321,Toys Games,15,9,8011,4
+322,Electronics,39.99,7,1155,3.8
+323,Sports Outdoors,73.34,4,2598,3.7
+324,Amazon Launchpad,6.99,4,1857,4.1
+325,Toys Games,92.99,9,7229,4.6
+326,Home Kitchen,29.5,6,3139,4.2
+327,Toys Games,139,9,1977,3.3
+328,Electronics,39.99,7,3066,4.4
+329,Sports Outdoors,25.55,2,5150,3.5
+330,Home Kitchen,499,9,4214,4
+331,Toys Games,39.99,7,5629,3
+332,Electronics,79.95,3,1716,3.2
+333,Cell Phones Accessories,89,6,3789,1.6
+334,Toys Games,299,9,2751,5
+335,Sports Outdoors,285,7,4820,3.8
+336,Home Kitchen,8.62,1,1188,4.8
+337,Toys Games,94.06,9,7238,5
+338,Electronics,100,7,2739,3
+339,Electronics,99.99,9,829,4.4
+340,Toys Games,24.99,5,4694,5
+341,Home Kitchen,35.99,4,3663,2.7
+342,Toys Games,358.24,7,342,3.9
+343,Electronics,399,7,7056,4.2
+344,Electronics,49,9,4580,3.4
+345,Toys Games,39.99,7,5629,3.9
+346,Sports Outdoors,325,3,2737,5
+347,Electronics,42,7,5629,3.6
+348,Amazon Launchpad,6.99,4,1857,4.3
+349,Electronics,89.99,7,4644,2.9
+350,Sports Outdoors,225,5,4541,5
+351,Toys Games,99,9,2751,3.6
+352,Home Kitchen,148,3,2484,4.5
+353,Toys Games,65,3,3526,5
+354,Electronics,19.53,3,2655,2.8
+355,Amazon Launchpad,6.99,5,1857,3.6
+356,Electronics,249,7,4983,3.4
+357,Cell Phones Accessories,129,7,2220,3.3
+358,Amazon Launchpad,9.11,4,1857,4.6
+359,Electronics,249,7,4983,3.4
+360,Toys Games,65,3,3526,5
+361,Amazon Launchpad,179,4,5816,5
+362,Electronics,169,7,2805,3.4
+363,Cell Phones Accessories,129,7,2220,3.3
+364,Toys Games,109.25,9,7355,3
+365,Electronics,899,9,3458,4.1
+366,Toys Games,285,5,4283,5
+367,Toys Games,45,3,6228,5
+368,Electronics,69.99,9,916,4.5
+369,Toys Games,65,3,3526,5
+370,Toys Games,51.5,3,3526,5
+371,Amazon Launchpad,36.95,8,4194,1
+372,Toys Games,139,4,4291,5
+373,Toys Games,65,3,3526,5
+374,Toys Games,36.16,2,5715,4.2
+375,Toys Games,92.86,9,4730,1

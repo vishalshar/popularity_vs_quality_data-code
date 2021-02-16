@@ -1,0 +1,246 @@
+hi. i haven't received my pledge (301 expert kit). please tell me when i will get my pledge
+@hunter walker hi! unfortunately, we don't have a written tutorial for that project. we just bought a set of legos and powered it with mcookie modules. :) if you're interested in robotics, check out this tutorial: https://wiki.microduino.cc/index.php… for tons of other cool projects, here's our wiki link: https://wiki.microduino.cc/index.php…
+hello, could the mcookie/microduino group point me towards the tutorial for this robotic car?  thanks! http://www.techtimes.com/articles/74670/20150806/microduino-mcookie-smallest-electronic-modules-will-power-up-lego-creation.htm
+@jaynish patel we have sent you a private message.
+sorry, i found the tracking number, but when i try tracking i get "not found" type of message.  please help
+hello, my order status says its "in transit", but no tracking number has been provided nor have i received my 301 expert kit. could you please provide me with a ball park timeline for delivery of my order. thanks jay
+@takashi @karl we have sent you a private message.
+hi. i haven't received my pledge(201 kit). please tell me when i can.
+okay, i'll bite.  is there any way to know when i will receive my stuff?  thanks!
+@songsup shin glad to hear that! thanks for your support! :)
+i have received this item for my kids. my kids will have a lot of fun. it is the best gift for my kids.
+@andrea mereghetti we have sent you a private message about your package status.
+hi, when i'll receive my pledge? rgds.
+@kwangjae lee we have sent you a private message. @jonathan towler hi, the mcookie rtc modules do indeed have an onboard supercapacitor for power even after disconnected from a battery. however, please keep in mind that it is meant to only provide sufficient power to itself. if you have extra modules/sensors/lights attached to it as well, its voltage will not be enough. :( you can check out the module page for more info: https://www.microduino.cc/wiki/index.php… for faqs, including mac issues, check out: https://www.microduino.cc/wiki/index.php…
+is the rtc module working for anyone? for me it seems to work fine when powered, but loses significant power when not powered on. i believe there is a battery, but it doesn't appear to keep time very well. get arduino ide to work with it on a mac was horrible. a pity. so far made a clock with time indicative lights, which is a nice prototype for something i've been planning for a while. i guess the fact that the rtc clock doesn't work as expected is a pity, and means this will only ever be a bit of a disappointing prototype. at least it has pushed me into creating a manual time setting mechanism though :) (the actual rtc units i have for the real thing work as expected, and keep time, but it's good to be able to set time without plugging in i guess, so a sliver of silver lining...)
+i still have not received the product (mcookie 401 mcookie family kit) please, ansewer me....
+@joe we're sorry to hear that. :( currently, our primary focus is on arduino compatibility and documenting the myriad of libraries and apis for all the modules/sensors. however, this isn't to say we aren't planning to implement complete scratch compatibility in the future. rest assured coding in scratch and then converting that code so that it can be uploaded into the core module is on our long term to-do list.
+so, the faq confirms that if you use scratch, you have to remain tethered to a pc. hugely disappointing.
+@ray we have sent you a private message with tracking information.
+@mark hill all kick starter orders will be completed within the next week. thank you.
+@poomsag	 awesome! go and make awesome projects! :d
+@ta thanks for posting! we have compiled a frequently asked questions page: https://www.microduino.cc/wiki/index.php…
+@sk 1)	the oled screen is dual color. the upper 1/8th is indeed yellow only and blue for the bottom 7/8th. this oled is intended for a yellow header and blue content (great for menus/clocks/status monitoring). this is clearly not intuitive and will be added to our wiki documentation in the near future! 2)	try posting this issue in our forum. 3)	noted. i believe you are referring to the “required materials” list within the projects? it should be correctly named in the kits contents list. thanks, we will fix that.
+@sebastian 1)	the servo and motor currently do not connect to lego via connectors. however, you can build a lego enclosure to integrate it into your projects. for example, https://www.microduino.cc/wiki/index.php… 2/3) we are updating our wiki daily! for example, the mcookie page is being updated and now has more information: https://www.microduino.cc/wiki/index.php…  check back frequently or post in our forum if you need any help on projects. 4) we have updated the ide to include the bashful chameleon program now. 5) servo: a previous backer pointed out that we used i2c in the fortune cat example when it should have been connected to a pwm port. we will fix that in the next ide update. to get your servo working, plug in the servo to the top three pins of the servo connector (brown, red, orange correspond to gnd, vdd, ½). then, in the example, change the line “#define servopin sda//舵机” to “#define servopin a6//舵机”. now, connect your servo to the a6 port on the sensor hub. :)
+@joe sorry about the key ring! the mp3 module does indeed have a 4m flash memory on board, but the burner program was not playing well with some windows/mac os versions so we opted to not cause unnecessary frustration and omitted the burner. we will be rolling out software updates in the future to fix that issue. at least a 8gb sd card holds a few more songs than 4m flash memory. :) regarding scratch, please check out our faq:  https://www.microduino.cc/wiki/index.php… @spongefile, rolland check out our faq. we will be updating it frequently. :) https://www.microduino.cc/wiki/index.php… all the libraries are available in the ide under sketch->include library. we are working on documenting the api’s, but in the interim, apis for the libraries are available online. google the libraries and you’ll find a lot of information. :p
+@creator: i got the 301 kit, but the servo is not working. tried the example, no movement at all. i connected the servo to a normal arduino uno and it works fine. so it's either the core, the sensor board or the connector, i guess. how do i get replacement for the defective part?
+i'm still waiting for my "301 expert kit".... any one got it??? no tracking..... how long still need to wait??
+is anyone else still waiting for their order to even say "in transit", let alone actually arrived?
+my cookie is work fine on el capitan. :d thank you.
+haven't tried scratch yet, the documentation available seems to suggest it will only control graphics onscreen, but i'm not after a glorified controller, i want something that will work unplugged. agree completely with the need for more documentation on how to access the various libraries etc.
+has anyone gotten scratch working? also: microduino, please make clear documentation that covers each module: which library is for which module, what functions it contains, what each function does and what the variables mean.
+i got response from creator about battery module stop working and want to share with supporters who may have same issue. nickel-metal hybrid and alkaline batteries have lower voltage than li-ion ones which will trigger low voltage protection and stop working. a couple people seemed to have similar issue: https://www.microduino.cc/forum/topic/73/battery-module-low-performance/2 what creator suggested is to get a set of li-ion 3.7v 10440 battery and try.
+@reinoud de lange thank you! it bugs us for a long time, we tried to change the file on many different macs, hope this works fine ;)
+i got the ide to work on my mac: i changed the file structure to this: http://dlanger.home.xs4all.nl/change-file-structure-arduino-microduino.png i copied the file platform.txt from ../arduino/avr/ to ../microduino/avr/ and added the following lines to the boards.txt: 32u416m.upload.tool=avrdude 32u416m.upload.use_1200bps_touch=true 32u416m.upload.wait_for_upload_port=true 32u416m.build.usb_product="microduino-core usb" 32u416m.build.usb_manufacturer="microduino" 32u416m.build.extra_flags={build.usb_flags} then i started the ide and it worked!
+is anyone having problem with battery module? mine stopped working while trying mwatch. fully charged batteries don't even turn on the light on the module anymore... and my servo is not working at all and speakers and oled are unacceptably dirty and damaged... this still is a cool kit to have but not reliable and definitely not worth $238 or $299 now.
+i have some trouble installing the hardware support. the standard installation didn't work at all. :-( i have unzipped and placed the microduino folder in this location: /applications/arduino.app/contents/java/hardware i'm on mac btw but when i start arduino ide i don't see the microduino boards listed
+i have been having the same issues as a lot of people below me. this is ridiculous. is a refund possible?
+i read here that people are already receiving their 301 kit. my order is still "waiting for processing". i hope nothing is wrong and that i'll receive my kit before x-mas…
+has anyone else had a problem getting the core usb to recognize on the windows version of the ide?  i followed the instructions but when i plug it in the port selection within the tools menu remains grayed out.  i also don't here the typical connection sound that i get when i plug other arduinos in.  i connected one of my uno's and it works just fine.  did i just get a faulty chip?
+just reporting. 1. oled screen: is this full color oled? look like i could only     get yellow on 1/8 upper pixel and blue for the rest. funny.     (and uh, can someone at the packing factory to clean their hand       first before inserting it to plastic bag...i know their payment could       be low and also the device itself, but...)  2. did anybody get wifi module to work?     i could not connect it to my access point (tried some ap).     oh, i got many esp8266 device that working fine in my env.     at command is working, but fail to join ap. 3. little thing. "ir sensor"... i think it is a transmitter is not a sensor. thanks,
+got 301. about the instructions booklet. fortune cat example, servo is not working. tried the example in library (_04_mircroduino_servo) and it work (after reconnecting the cable from i2c hub into digital pinout hub), look like servo library is using digital pin out (pwm), not i2c as the instructions booklet. :(
+spongefile is spot on: the sw doesn't work, and how to fix it is non-obvious, because the fix doesn't work for me. there's even "official" links to github that end in 404 sadness, e.g., this comment from "wasdpkj" that is in a number of places: we do provide microduino hardware and library pacakge for arduino ide (board manager). download from here https://github.com/wasdpkj/microduino-ide/tree/master/arduino-ide(support)  so i don't know if mac developers are just sol or what but this is more than a bit disappointing.
+my order for the 301 expert kit has indicated that it is "in transit" for quite a while now. no tracking number and no product delivery. please advise.
+i got the kit two days ago, but i got some issues: 1) the servo and motor: i have not found any way to connect them to lego. the "motor accessory" contains the standard servo connectors, but none of them fit to lego or even the contained lego connector. 2) there is no documentation for the blocks (or i didn't find it). only way to find out how they work is to reverse-engineer the examples. which makes it hard, but it's even worse with 3: 3) the wiki is uncomplete. of the 24 "mcookie advanced tutorials" only 2(!) are online. together with point 2 that makes the mcookie nearly unusable: there is e.g. neither documentation nor an example on how to use the infrared module! 4) even the handbook refers to non-existing things: the code for the "bashful chameleon" (_303) is missing both in the arduino ide addon and in the wiki. there is link to the software, but the link is dead. so my question: - is there any way to connect the motor/sensor to lego without using glue or tape? - where (or when) can i find a documentation of the modules? thanks!
+and by workaround i mean a not exactly beginner-friendly workaround: https://www.microduino.cc/forum/topic/67/arduino-ide-for-microduino-is-damaged-and-can-t-be-opened-you-should-eject-the-disk-image/2
+sigh. i take that back. you still have software issues. ide file is broken, apparently has been so for a while, and one of your users has found a workaround. guys, the software side is as important as the hardware side. please pay attention to this, nothing more annoying than spending a day configuring your environment before you ever get to actually making anything.
+got my kit in finland today--you guys have come a long way since your initial projects.
+got my 201 kit yesterday, although the tracking still says in transit, and most disappointingly, i never got a key ring! tried out the grumpy grandpa project tonight, which worked well. was about to try the music box project, but it said i need an sd card, which isn't what i was expecting based on earlier comments: 2. the audio module we will provide has two modules, one module is the mp3 chip with 4m flash memory for music storage... i'll have to dig out a spare sd and try it out at the weekend.
+got my stuff on monday. looking forward to playing with it this weekend.
+@seyha and tim yay! give us a shout-out when you make awesome stuff with your new kits :) @julius wang we have sent you a private message.
+got my mcookie 301 thanks
+hi, i am backer #31, still waiting for processing!! please tell  me when can i get my cookies?
+@jonathan towler, howard eisen we have sent you a private message regarding your order status. @saka, fmotta, todsawat, hyekyung congratz on getting your kits!  @adam fenerty hope you had fun on your anniversary! only if the shipment arrived earlier, you could have made something for your so, right? maybe next year? :)  @katharina sorry to hear about that hiccup. please let us know if you encounter any more issues. @hyekyung hwang please email support@microduino.cc this issue. @guozixiang 不好意思，我们没有中文版说明书。但我们有中文wiki：https://www.microduino.cc/wiki/index.php… 希望您玩得愉快！
+@jetro de château thanks for the feedback! we made the sensors fit very snug so that they would stay in place and be undamaged during shipment. please email microduino.cc about registration and forum issues. the mcookie tutorials (as well as scratch tutorials) are available on our wiki which is located here: https://www.microduino.cc/wiki/index.php… @harold  we will look into that. there may be some issues with different mac versions. thanks for the feedback! @mikkel wied frederiksen thanks for the feedback! we will be more clear in labeling in the next iteration. sorry to hear that there were some minor issues with the contents of your kit. the motor shield is my favorite one. :(  email support@microduino.cc and we’ll cook something up to resolve your issue right away.  @anthony we’re really sorry to hear that you feel this way. our records indicate that your package has now been delivered. we definitely encountered some bumps this time around, but we’ve ironed out the kinks along the way. nevertheless, we apologize for any frustrations this may have caused you. we hope you will give us another go in the spirit of tinkering and making.
+finally arrived today!
+also have had "in transit" for a few days with no tracking info.  an update would be appreciated.
+got it 2 days ago via dhl. for me there was no tracking number in microduino.cc at all even if i've already got it. nice package anyway. however, the screen on pcb board and electronic component looks a little bit cheap.
+just got my 301 set yesterday, and been tinkering ever since. here are some initial findings: * the audio and audio shield both say audio, even though they are different shields (really minor issue) * i've gotten 2 amplifier shields, but no motor shield * the on/off switch on the battery pack is not working * the temp/hum sensor is not working i haven't had time to test out all the shields yet, but apart from the issue stated above, everything looks nice.
+i got it basic 101. but something wrong the output part of dry battery(1.5v*2) module. how can i fix this issue?
+worst. company. ever. like everyone else, i still have not received my 301 kit. it says in transit with no details past that. i will never take a second glance at any of your products and would take a refund if i could.
+my 301 arrived today
+my order is showing as 'in transit' on the microduino site, but i've no tracking number, indication of when it was dispatched, or when it may arrive. is there any way of getting more info?
+still waiting for my 301 kit :(  still in "in transit" :( still no answer :(
+despite not one, but two emails explaining to you that the street number on my adress is wrong, and two written confirmations from your side that it has been changed in your db, you still sent out my package to the wrong adress where, surprise, surprise, it couldn't be delivered, so it was sent back to the deliverer's compound. luckily, they contacted me, and we have fixed the error. i may be lucky and acctually get the kit next week.
+my 301 arrived today, can't wait to start getting into it, though may have to wait, wedding anniversary tonight
+still waiting for my 301 kit :( hope to get t soon. how do i know when my kit ship?
+@fmotta and @creator - weird, mine was dhl.  i would also like to say this is such a fun way to play with arduino.  very clever, and fun product.  congratulations and best of luck from here on out!!!!
+@saka: i found that whatever shipping process that is used is untrackable.  worst yet, in usa it appears to end up going with the worst carrier - usps.  usps cannot track their own noses.
+today, i finally got my 101 kit in the mail along with a tent - well an xxl t-shirt that will be great for washing my car.
+just a quick note if you are on mac and keep getting a corrupt image warning for the ide... i just downloaded the arduino ide by itself and then downloaded the microduino package separately and followed these instructions:  https://www.microduino.cc/wiki/index.php… worked perfectly.  i guess the pre-installed app is broken image somehow?
+trying to build some of the ideas in the book. good fun! the images on the pages are quite small. will you post the projects on the website? also, i have tried to register on the site, but keep gettingerror messages. forum also appears to be down. are there any scratch examples available?
+i can't see tracking no. my status is "in transit". how to check the tracking number?
+got my 201 kit today!! first impressions: beatiful packaging, but too tight a fit, one of the connectors on the hub cookie was completely pushed off and two are skewed. looks like someone on the assembly line tried to close the box by force rather than check why it would't close easily. also, there is a little white know in the black box (together with the cables etc.) that looks like it should fit on the joystick, but it takes a lot of force to put it on (felt like i might break something). several of the sensors don't really fit in their gaps, but nothing a sharp pen knife can't fix. the booklet with instructions is superb!
+我已经收到了301套件，确实很酷。请问有中文版的使用说明书吗？如有，请发gzx@qq.com，谢谢。
+@cella congrats! can't wait to see your project :) @todsawat it will take about one week for the system to update delivery status, we will update soon about the 201\301 kit delivery, thanks.
+i can't see tracking no. in www.microduino.cc. my status is "transit" already. how to check the tracking number?
+just got our kit last night.  delivery driver brought it about 9 pm!
+sweet just got my 201 kit, and something else... a pleasant surprise i got a shirt too. i didn't think i was one of the lucky ones that get a shirt. :) can't wait to build stuff and prototype with it.
+@ben: you have to go to their web site (www.microduino.cc) and login with the email adresse you use for kickstarter. (you'll probably have to reset your password, but that works stright forward)
+have not got my 201 kit. where would i get my tracking number?
+received my kit today. thank you for your hard work microduino studio.
+received my kit today. impressive!  now off to test it out.
+looks like my 301 expert kit is on its way. should be with me on monday according to the tracking. looking forward to receiving it!
+hi guys, any news on the delivery dates please. looking forward to getting the kit into the fab lab
+still "waiting for processing", any news?
+dear microduino team, your update #17 is 14 days ago, but for my 301 kit still status is 'waiting for processing'. could you please give an update when those kits are really send out. kind regards.
+@gilbert: yes, that status is accurate. @fmotta: i have sent you a private message.
+@creator i am still getting a waiting for processing on my advance early backer order.is that accurate or have you guys just not update my status yet ?
+@creator: you stated in the comments for update #17 that my mcookies have been delivered. since i have received a few items from you at the same address i do not think that the address is incorrect.  since the online tracking information shows it still in sweden i think that there may be a significant disconnect as it has not arrived.  please check on this.
+@lam, hi, we have sent you a private message.
+microduino team， could you advise my order trackinh no？
+@dennis, we have begun shipping 201/301 kits this week. your kit will be shipped soon, too. refer to our most recent update to see how to check your shipment status.
+would you please give me an indication on when i should expect to receive my order? you have not sent any info or tracking number. thanks,
+yep. just started. installed your version of arduino. got a bit scared because i could not find the port on my mac.  the issue is solved now. the cable you provided is probably broken. i used one of mine and it is ok now.
+@karel, great! hope you enjoy your kit! :)
+i got mine today. it was worth the wait.
+dear backers, we have posted a comprehensive update that will hopefully answer all your concerns. thank you.
+can i get the tracking number?
+the thing that infuriates me the most is that the creator keeps posting mcookie tutorials and stuff on both twitter and facebook, but can't be bothered to contact the people who have actually already paid for their goods.
+hi. would you please give me an indication on when i should expect to receive my order? you have not sent any info or tracking number. thanks
+still nothing. i am still stuck with "waiting for processing".
+creator should update the latest development of the project. we are eager to know when the box will be received.
+same sentiment as other posters. on the microduino site it has been saying "in transit" for a couple of weeks and the tracking code does not appear to be valid. an order i placed earlier in the year, and received, is also stuck in "in transit" status, so i don't have much faith in what the system is telling me. after more or less weekly updates, to announce "we're shipping" and then go silent for several weeks is a bit unnerving. i am sure you are all extremely busy. i know what it is like trying to get a v1 product out the door. but that is no excuse for not keeping your backers "in the loop". you do know how to contact us after all.
+i would really like to know why my order is still "waiting for processing" 3 weeks after the shipping announcement?
+i got my order today, thank you.
+@anthony: i agree with you and i don't understand it.  it wouldn't cost much time to send a regular update to all backers, just saying by when people can expect to have received their goods, what to do when they don't arrive, etc. instead, there seems to be a deliberate silence. if i could, i would surely retract my pledge now.
+this is the last time i back a kickstarter campaign by you guys. in fact, i'm going to go out of my way to make sure future prospective backers understand just precisely how terrible you are at transparency and communication. i hope we get our shipping date, or an explanation as to why we don't have it, soon.
+is there anything i can track other than just keep waiting?
+if you have sent the package, you should send us tracking number or i have to contact through email?
+on august 17th, you announced that you'll start shipping advanced and expert kits 'within the next two weeks'. now it is 2 weeks later, and we have heard nothing more from you.  frankly, this is getting somewhat frustrating.
+i got it in china today.
+@rebecca nope!
+did anyone get it yet???
+my order states "waiting for processing" does it mean that the tracking has not been updated for the store? or does it mean that my kit has not shipped?
+did anyone get the box?
+@creator i assume that my shipment has been sent out? can i get a tracking code?
+@zubair yes we have tracking info. for every order after the delivery, if you need more assistance, please feel free to contact support@microduino.cc, thanks!
+are we supposed to get tracking info of some sort?
+@leslie muller thank you for your understanding, we are working very hard to make delivery as soon as we can, and we will contact your later on this pop up situation, thank you!
+hi. like a few others here, when i logging to the site, i don’t get a pop up to confirm address. there seems no way to get to the page or place to confirm address etc i send support an email and got told to try again. which was a pretty useless form of support. so where now? please guys, after backing countless kick-start projects your’s the first that is such a disaster to get a simple shipping address confirmed. why on earth all the over engineered complications?   please try to sort this out. we are all being patient with your delayed ship dates etc, but please fix your support or the website to provide some confidence that you can handle a simple shipping detail. thank you very much
+hi @gilbert, we are following up with our factories on mcookie production/molding/packaging everyday to make sure we send you guys the kits perfectly at the earliest that we can. kindly bear with us for a little while longer, because delivery day is getting really close!
+any updates on delivery ?
+@quark we did replied your email last week, and followed up with your case again today, please leave your delivery address to our customer service and we will take a note at your case accordingly, thank you!
+any update about my support case? i login to your site, but there is not pop-up to update address. i was able update address manually. do you have it and do you need anything else for delivery? thank you
+@alex yes, we will update about production and delivery later this week, thank you!
+is there a delivery update soon? cheers.
+@corey thomas thank you for the explanations.  @todsawat thanks, currently we provide kits for customers, but that's good advice, we will consider it in the future. @quark you need to login to website first, if you have more questions, please kindly write and email to support@microduino.cc for more assistance, thank you!
+i used the link and changed my password, but did not see any pop-ups to update my address. i manually went to my account/address tab and add my shipping address. do i need to make any other changes to be able to get my mcookie set? thank you
+got my email minutes after posting my previous comment.
+fyi:  if you already have a microduino account, the reset password link does not work.  you will need to remember your current account in order to log on. also, it will not let you use a current address.  you must enter a new one, even if it's the exact same one that's in the system. lastly, it would be awesome if we could have ordered other mcookie parts with the kit...  same issue as the last two kickstarters.
+will the more advanced module like gps, 3g and stm core be sold separately in the future?
+just got the email right now with a link to the microduino website and fulfilled the survey. i sent two emails to the support site, one forwarded the email from the 29th, the other provided full shipping details and backer information.
+sent an email with a screenshot of my inbox. i got the email on 29th june saying a shipping details request would follow shortly, then nothing till the update on 15th july. can anyone confirm that they got the email?
+@backers we did sent the email about delivery to all of you, please kindly check all your email boxes, if you have more questions please write an email to support@microduino.cc for more assistance, thank you!
+july 20th: i have not got a mail yet either.
+@ta no there is no survey yet. we all waiting they same :)
+i haven't got an email for survey yet...
+got an email a minute ago. product is lookin' good!
+same here, no email since 29th june
+the last email that i got was on 6/29 that indicated we would be getting the email "that confirms your order and provides instructions for supplying shipping information shortly"
+please advise when emails were sent as i have received nothing for the delivery survey
+@bharath & @fay yes, we are on schedule and we will update our recent outcomes later this week, we have sent emails to all backers for delivery details, please check, thank you!
+the last update email on june 29th said they still plan to ship by july 31st. have the survey's been sent out?  i had pledged twice the value of the 101 package based on the comment that we could do that and it would be handled in the survey stage.
+are we on schedule? can we still expect to get the cookies in july?
+@todsawat yes. we are working on this. will let all the backers know once it's ready. thanks.
+is it possible to program mcookie wirelessly (wifi or bluetooth)? it would be great if it can.
+i am glad to be the first backer~ looking forward to the final product!
+do you guys have to post every update 3 times?? here, microduino and joypad? i am subscribed to all three and this is irritating. just posting that you have a new ks project is enough. people interested will back the new project. why would an original microduino backer be interested that you raised funds for the cookie?? please stop this practice.
+hello, i'm on the 258$ pledge, is mcookie programmable with stateflow??
+gratz. :)
+it's looking awesome.  can't wait!
+do you guys have an apx. shipping date? early/mid/ or late july?
+i want 2 of the 101 kits for my kids so i pledged at $166 (included shipping for both kits).  i'm looking forward to helping them program the kits.  they're very excited!
+@quark yes, we are working on that. thanks.
+a lot of the projects on your page https://www.microduino.cc/wiki/index.php… have nothing yet. do you plan to update them? thank you
+yes can't wait to create smart garden for fun too :)
+thanks :)
+in addition, the expert kit 301 is capable of all the projects and tutorials listed here in our wiki: https://www.microduino.cc/wiki/index.php… enjoy the fun :)
+@seyha yes. it should be no problem. can't wait to see your own smart garden! :)
+hi i m interesting into smart garden you show picture on your project. i m now on 301 pledge. want to know is that have everything to do smart garden? thanks,
+@leo lam  you can increase the pledge value by the amount of the second reward, and we deal with it in the survey stage. thanks! @joe that's a good idea. thanks.
+can you show us what the oled module will look like ?
+kickstarter doesn't allow multiple pledges, but usually the creator would advise to up the pledge value by the amount of the second reward, and then to deal with it in the survey stage.
+@leo lam thanks for your support. i dont think kickstarter allows you to back two kits. we do have the 401 family kit. would it possible for you to consider that kit? thanks.
+hi, i have purchased an advanced kit, can i add another expert kit right now?
+hey the music box video is awesome!  thank you, and keep it up!
+that's great, and better than i was expecting, thank you!
+@ joe glad you like it. we will have three more step by step videos coming shortly. :) to answer your questions:  1. in the demo, we are using crash sensors as the switch buttons to play/stop and select music. of course you can create your own way to control it using your imagination. 2. the audio module we will provide has two modules, one module is the mp3 chip with 4m flash memory for music storage, another module has a slot allow you to put microsd card so you can store thousands of songs. enjoy :)
+i love the walkthrough of building the music player, thank you - looking forward to seeing more of these! one question though, how did the speakers know what to play - where was the music stored?
+@gary we’ve got two ways for people to create code for their projects - arduino ide for those who already know how to write computer code that will work with arduino-based hardware, while for beginners we have the scratch graphic programming tool – this is a great piece of software that allows you to drag and drop components visually to create code that bring applications to life. you don’t need to know how to code to get started, and it is a great tool to learn how to program along the way. also, for many popular projects, we already put the program along with the step by step instruction on our website or wiki page. so, all you have to do is just follow the steps and copy the code. in addition, we are working on adding support for loading programs to the modules wirelessly from a mobile device or tablet. so you don"t need cable anymore...
+@gilbert vera i'm sure you can build many interesting things with you kit. i'm planning to make a sound control multi-color led light inside the baymax for my boy. :)
+@civalice we don't have the mcookie version of core+ yet. we will focus on the kickstarter modules first. after we fulfill all the kickstarter needs, we will gradually provide mcookie version of all 50+ modules. if we see more demands, we will make it available sooner. thanks.
+@silas glad you like it, cheers!
+brilliant idea!  i like it! do i have to know how to code?
+how can i get core+ module?
+cant wait for my kit. plan on making a guitar pedal arduino style and a arduino piano :) what are you guys plan on making.
+@tony thanks. we will be working on that and let you know.
+great idea and thanks for taking it to the next level! the pogo pins nicely address the only problem i've experienced with the microduino range. i also really like the color code. looks like a great alternative to the very expensive controllers from lego.
+hey microduino, i was trying to find something creative to do with my son, and i thought the mcookie is exactly what we are looking for, and i can't wait to get my hands on it!  but just to get us started, if you guys could show a demo of the music box or the weather station, it'd be great!
+i think u should really considering low down the stretch goal if you want it be achieved. cuz based on the current funding, it grows by around $2000 a day, and that is not enough.
+@buster thanks very much for your suggestion. that's a great idea! we are working on that. if you are familair with those bloggers and reviewers, please help to spread the words. thanks!
+@microduino i think that the fact it can connect to lego is a huge plus and maybe you should be playing on that feature more. i see in the media part of the main page there are all the science mags etc but no lego bloggers and reviewers.  you could be reaching a huge further market that would love what the mcookie could bring to afol's (adult fans of lego) sets and builds. reviewers and websites like brickset, brothersbrick, jangbricks etc etc could really bring a surge of new backers to this project and hopefully smash through these stretch goals
+@vicjeb thanks for your feedback. actually, you do not have to buy some lego blocks. lego feature is just a huge plus for mcookie to get more audience. you can imagine how people adding mcookie on their existing lego blocks to add more functionalities-- how cool is that! however, you don't necessarily need lego at all, you can build your project on anything or make your own enclosure like what we showed in those videos. as for the extra $ for extra module, we need to figure out a way to handle it. we will get back to you asap. thanks!
+here are more videos i personally like: microduino self-balance robot: https://www.youtube.com/watch… microduino motion control flying fish with magic glove: https://www.youtube.com/watch… microduino joypad controlling a drone quadcopter: https://www.youtube.com/watch… mvi robot4 : https://www.youtube.com/watch…
+i think the stretch goal taget is too much based on the current funding, and people did felt interest in this project, exept they also think the price is too much for them, especially they have to buy some lego blocks. it is a brilliant project, unfortunatly its target market is not for everyone.  and it will be awesome  if you allow us to add some $ for the extra module.
+thanks that is look good :) just don't think search it on youtube :d
+@seyha i think there are lots of videos on youtube to show you how to build small projects. of course our microduino series are more powerful than that. those were only small portion of projects we built using the first generation. with your imagination, you can build many other cool projects. here is one sample: https://www.youtube.com/watch… if you search microduino studio or follow us, you can find more videos. thanks.
+can you do demo of walk through small project (build, function, what other hardware need to make it work) like mcookie music box, mcookie ble light, mcookie detector?
+@ joe  we checked with our freight agents and got the positive feedback from one of them. also, we have the third stretch goal as to upgrade your li-ion battery with our new developed mcookie battery module. with that battery module in your package, you will never need to worry about the battery shipping issue. we still have 19 days to go. with your help to spread the word about mcookie, we have high hope that we can reach that goal!
+@vicjeb have some faith with us! we will try our best to get as many stretch goals as possible. we could certainly use your help! . please keep spreading the word about mcookie. thanks!
+all the kits come with a li-ion battery, however i've seen quite a few kickstarters that have said they can't ship these overseas. do you see this being a problem for mcookie?
+yeah, and that is probably our last stretch goal ! lol
+we got the first stretch goal :)
+i will need to buy some lego technic kits now and need to adapt a vehicle as a robot maybe? cannot wait to receive my kit! i think the whole concept is brilliant and very clever! be interesting if this system could work with blynk?
+@creators very well! we will start with the basic kit and after that buy a motor module at a later time! thanks for the answer!
+@yeo yong chang and @reinoud de lange, we only offer mcookie in project kits through kickstarter right now. in the future, we plan to offer the modules individually through our web store.
+ya that should be the way. customer should be allow to buy the basic kit and buy add on module or sensor from time to time rather than keep buying whole kit again. if this happen then you will see more people buying your products and this adopting your system. this will be able to let your products grow at a fast and furious rate.
+it would be nice to have some technic lego brick - so e thing that can fit a shaft.
+@creators thanks for the reply. glad to hear your working on adding more modules, although i can't see the benefits for me yet... the reason i mentioned the other series is that with tose parts you seem to be able to pick and choose your own serie / collection. will that be the case in the future for the mcookie products? f.i. one could buy the 101 kit and buy the motor extention separately for let's say $10?
+@reinoud de lange other modules listed in our website (microduino.cc) are the first generation microduino modules, not the mcookie series. we are diligently working on adding more and more modules into mcookie series. thanks.
+@gilbert vera we are working on the stretch goals. we will have many exciting new functions/values included in the stretch goals. we will hopefully annouce it tomorrow. thanks.
+i noticed that other modules (https://www.microduino.cc/module/view…) are sold separately too, will the motor extention be sold separately too? or can we combine the above mentioned parts with this product line?
+@creators any word about the stretch goals yet ?
+hi, i just backed you for the 101 basic kit. is it possible to add 1 motor extention module to it? i understand that it is includes in the expert kit, but for me that's too expensive...
+@chris garrett, thanks! we'll check it out.
+another item to look at on the lego->arduino side: evshield for arduino http://www.openelectrons.com/index.php…
+@yeo yong chang, we are starting to develop them. since mcookie is open-source hardware, we welcome our fans and community to join in and work on them with us.
+@spongefile, we'll work on that :)
+one request: make sure your documentation and tutorials are crystal clear and checked by a native english speaker. (at one point they weren't) that's half of the product :)
+one request: make sure your documentation and tutorials are crystal clear and checked by a native english speaker. (at one point they weren't) that's half of the product :)
+@creators i am aware, its just for 50 dollars or more for what i really want is just the oled seems to high for me.
+will your company be considering a camera module, fingerprint scanner or a capacitive lcd/led display with fingerprint scanner ability?
+@gilbert vera oled module is included in both advanced kit and expert kit. you will able to build you own smart watch using either kit. you can also build many other projects using the same kit- the possibilities are endless.
+@unmesh gundecha ifttt is a good service，some users of us are trying to connect and control microduino on cloud，they will provide some apis latter，not only support restful but also web socket。we are supporting them. we also developed the module supporting openwrt, will announce it fairly soon. thanks.
+@creators i just read up on the open source smart watches, and i see that what is used is. i selected the basic reward. but i still need the oled module.can i add to my pledge to include a oled to my order ?
+thanks to great correspondence with a microduino support staff, i have gotten in-store credits. thanks qin!
+@francesco, you betcha! thanks to you and all of our backers for the terrific support!
+and funded!!
+@creators no i have not, but now that i have heard its been done, out of these three kits which one will allow me the bare minimum to make the smart watch project ? and i will look into this but out of curiosity do you guys have the information already on hand on how it was done ? i would like to try to make one myself with the mcookie :)
+@gilbert vera yes. many community members have done this. actually, if you look at the bottom of the project page, there is one video from trevor elkins talking about his smart watch project. he heard microduino from the make magazine (issue 34) about the "open source smart watch" project done by another community member, jonathan cook.
+@gilbert vera, did you see the trevor elkins video on the campaign page? it's the third video down in the maker spotlight section. he makes a smart watch.
+@chris garrett, we'll take a look. thanks for the info!
+@creators thank you :) next question i like the size of this and i wonder of its possible to make a smart watch with basic time with just the oled and the core and make a case for it with a simple strap. to me this looks like something i can use to make a cool homemade smart watch :) let me know if its been done. thank you.
+> we don’t connect with the lego mindstorms motors and sensors as it is our understanding that they use a proprietary lego ide actually it runs linux and a lot of people use python or java rather than their supplied software. http://ev3dev.org http://www.lejos.org/ev3.php the connections are also very much hackable, eg. http://makezine.com/projects/hacking-the-lego-ev3-build-your-own-object-sensor-eyes/
+@sebastian, there are about 40 modules and 20 sensors in the mcookie system. for the reward kits, we included the most typical modules, sensors and accessories that backers can assemble and re-assemble into the many different projects on kickstarter. for users who would like more, they will be able to purchase additional modules from our online store.
+@chris garrett, we don’t connect with the lego mindstorms motors and sensors as it is our understanding that they use a proprietary lego ide. since mcookie is open-source and has motor drivers and sensors, it should be more flexible for building projects with lego. we expect that users will be able to create their own projects without restrictions.
+thanks for this amazing stuff. are you guys planning to have rest interface for wifi module and possibly a channel on ifttt (https://ifttt.com/) to build iot stuff?
+@gilbert vera, the answer is yes! stay tuned - we'll make an announcement soon.
+well ouch  @heri sorry to hear that. my question to the creators is will there be any stretch goals for this project? it seems you guys always do something cool with those micro-duinos. thank you.
+@heri sim, thank you for supporting microudino! we received your email 30 minutes ago acknowledging this and we take a immediate investigation internally and please be assured we had sent your package microduino-102kit in 2013, tracking number rw882359973ch, it will be hard and time consuming to investigate with delivery company through time. we will resent your package anyway, thanks!
+there are many backers of your previous projects who never received their rewards after waiting for years, including me. not sure why we should "join in the fun", cause sorry, it ain't funny.
+the 301 kit contains 2 core modules and only 1 battery module. i'm not really familiar with this system, but does not every core module need one battery module?
+i would be great!
+with the lego compatibility it would be great if you could look at the ability to connect with lego mindstorms ev3 or power functions motors and sensors
+@corey thomas. old friend of microduino team! thanks for your support again! :-) we will carefully consider about your suggestion.
+@francesco mcookie rgb led sensor module support one wire protocol, it's cool.
+i've backed your last two kickstarters.  the one thing that you guys could do better is to allow us to add more modules when we order through your website (to save shipping costs).  please work on that this time.  :)
+one wire not own wire. sorry.
+do you guys use also the own wire protocol?
+@anthony thanks for your support! :-) the mcookie coreusb module is compatible with arduino leonardo, so the computing capability (16mhz@5v and 8mhz@3.3v) and power consumption is similar to each other.
+i love the idea, i'm so glad i pledged to ensure i grabbed some of these little guys. just a quick question from a beginning audrino tinkerer: what's their computing power like?
+thanks for your support @evaristo!  we couldn't do it without you.
+mmmmm cookies!!! another fine project you all!! this is going to be awesome like everything else you all make. :) roo proto makerspace
+@fransesco thanks for your support!  @smartjim blynk is cool, we will check it. and we will post a stretch goal list soon, stay tuned :-)
+would be cool if microduino mcookie could talk to blynk as the widget nature of this interface plays neatly with the modules of this project, maybe a future stretch goal?
+great to have something like littlebits for lego. would be great to have a block to interface the two also!!

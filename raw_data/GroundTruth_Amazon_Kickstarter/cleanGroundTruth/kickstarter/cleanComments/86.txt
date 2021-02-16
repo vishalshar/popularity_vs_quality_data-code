@@ -1,0 +1,113 @@
+hi richard, maria has sent you a personal email (today). please let us know if you haven't received it.
+hello there — when can i expect delivery? my father and friend are really keen to use them.
+hi hadleigh and backers. if your carabiner didn't work please follow the link below and we'll ship you a new one. thank you for your patients. https://podio.com/webforms/5451222/427774
+any news on the carabiner as mine doesn't clip in properly scared i might loose it!
+hi max. great to hear that you got it to work, and that you like it !!!
+hi. i received mine last monday (8/19). i have a samsung galaxy mini gt-s5570b and i wasn't using it because i won a new one. so, i decided to use it with vaavud. initially i couldn't install vaavud app because my smartphone was an android froyo (2.2.3) device. so, i updated it to android gingerbread (2.3.6). after that, i installed the app and it worked fine!!! the app seems to take a while to respond, but it's working fine. it's awesome!!! congratulations max
+hi andreas, yes - the updates that was just released are just in the "machine room", so now all the infrastructure is in place to plot wind readings on a map - also in the android app. and in addition, we get some raw data in from the magnetometer, that will help us confirm more android devices than the galaxy devices, and will help us analyze and pinpoint any issues we might come across but after a well deserved one week vacation, then thomas ambus, our cto, will get to work on the map and history features
+did you just update the app just for gps usage but no visual changes on the android app? o_o
+g'day peter - and thanks !!!  that quote might just end up on our website - hope you don't mind :-)
+so simple and beautiful , works like a dream . hope to see more people in australia buy this meter ! well done guys . what's your next kickstarter ? what the hell i will just give you the money now send it to me what ever it is lol .
+hi serge. thanks a lot!! hope it will serve you well on the swiss lakes and mountains :-)
+i wish all the kickstarter projects went this smooth!! got mine and it works great, thanks.
+hi mattias, we've tried to email you a couple of times, because we don't have any shipping address on you. could you please send any email to maria@vaavud.com thanks.
+hi mattias. sorry to hear that! we will check up on it first thing monday and make sure you get your wind meter. thanks a lot for your patience!!
+hi, i paid for "pledge 20£" but haven't got a wind meter. my friend who pledged later has though so i suspect something wrong. best mattias borg
+john, wx and ryan - thanks !! @ryan. great to hear that you made it work with the s2 without problems. and yes, more app functions are coming your way soon :-) regarding weendy, then we don't know the timing quite yet. probably around end of august
+received!!  tested today on samsung gs2. worked great, windspeeds only 2.9 m/s. langley, bc canada bring on more app functions. awesome job vaavud! how long until the weendy google app is up?
+received mine today in perfect condition! of course, on the first day the wind was virtually calm.
+12.4 mph in southern california. nice job!
+hey fredrick. thanks for the update - and the suggestion. we actually hadn't though of the pebble integration! but you are right - in the near term we have plenty of stuff on our plate. however, i added it as a feature request on vaavud.com/support. so who knows - with enough votes, it might actually happen at some point :-)
+received mine in wisconsin today, weather here is never predicable so i'm sure i can use it soon. also i don't know whether it has been suggested or not but it might be cool if a pebble app was created that could show the wind reading on the pebble smart watch while you hold the phone in the air. but i'm sure there is already plenty to do for you guys.
+hi herbert. thanks! and yes, we are working hard on the apps! :-)
+received mine today, works very good. nice packaging also. i hope you will add more functionality to the apps soon. good job!
+@james. thanks for posting the gizmodo link! regarding the map, then it will be there before too long. please see our last couple of updates here on kickstarter for a status on the software
+@peter. yes, they have been sent. please send us a not on hello@vaavud.com if you still haven't received it in a couple of days
+bit more press coverage - this time from gizmodo http://www.gizmodo.co.uk/2013/08/this-smart-mobile-wind-meter-contains-no-electronics/ this reminds me, where can we check the map for readings?
+i see someone in australia got there wind meter 3 days ago , i live in sydney and still not revived anything yet , have all your australian orders been sent ?
+whoooaa guys!!! so many positive comments - we are completely overwhelmed!! so happy that you like to product. just in case you experience any bugs, crashes etc. in the app, or anything else, then please send us a note on hello@vaavud.com so we can address it @maurio: we will have an sdk eventually. but you can actually get going even faster by using the ios url handling scheme (same as facebook does). send an email to thomas.ambus@vaavud.com to get a bit more info about this, and please also include a link to your app @terry: thanks for the note about the galaxy s. you are actually the first one to make that phone work with the vaavud wind meter. well done!! :-)
+just got mine in australia today. very happy!!! thanks for such a great kickstarter experience!!
+hi i recived mine today and i just put... gingerbread os ....on my.... samsung yp-g70 galaxy s wifi 5.0..i did have ...android 2.2–2.2.3 froyo.. so know i downloaded the app,,,and it works...but my 3.5 jackplug is on the bottom of my tablet,,and if i turn it upside down the app dose not... can this be fixed? thanks
+i just received my vaavud in italy. next update from fuerteventura :-)))) are you planning to release an sdk to use the vaaud in custom apps ?
+i recived mine today:-) arigatou gozaimasu!
+i just got my vaavud in belgium! i am very impressed with the build quality; when you pick it up, you feel that it's no toy but a decently made tool. i'm sooo glad i backed you guys. well done!
+my vaavud just arrived couple of minutes ago and it looks great. and as a nice bonus i'm on vacation this week and there also seems to be some actual wind here in helsinki today. so i'm off to do some measurements now!
+got mine in thailand. i couldn't be happier. thanks a lot, guys.
+mine arrived in the uk (just south of london) today (and before the other half's too *evil grin*) got a few seconds of playing with it in actual wind before the rain started, and a bit more playing with it by blowing into the cups... works perfectly, app is nice, clear and simple - love it!
+@clem. thanks !!! great that we will now have france on the map too!! :-)
+nice job vaavud team, i received the wind meter today in france and it's great.
+thanks gary!!! hearing things like this is exactly what keeps us going!!! :-)
+absolutely awesome! my wind meter came today and had a quick play with it. works great. app is slick. this has to be the fastest i have received a reward after backing a project on ks. great work by all at vaavud. keep it up. excellent!
+hey - thanks a lot for the comment. we are so glad to hear that you like the product, the quality etc. and yes, you can indeed get yourself all dizzy from testing it by blowing at it - we've been there many times :-) hope you get a chance to test it with some real wind soon !!
+i received my wind meter this morning and it's fantastic. the build quality is great and i can't wait to use it properly (there's not a breath if wind in london today and i've nearly hyperventilated from blowing it).  i've been really impressed with your whole kickstarter campaign, through to delivery. all the updates and photos have been interesting and made me look forward even more to my wind meters arrival and now i actually have it in my hand i'm even more impressed. thanks very much!!!
+@anders. please send an email to: maria@vaavud.com with your new address. thanks!
+i moved since inputting my data in the survey, who should i contact to make sure the meter is sent to the new address?
+@ richard. first of all, that is one h... of a jump!!! respect !! (to everyone else - check out the 15 sec video clip in the link below). and yes, you can get an extra by sending 40 eur to our paypal account  (shop@vaavud.com). thanks!
+ps - this is the kind of wind i like to measure: www.youtube.com/watch…
+hi guys, can i send you some money via paypal and get an additional vaavud? thanks so much, richard
+@hadleigh. shipping will start in week 30. regarding features, then we will post an update next week (week 28) with more info on the app itself
+what features will the app have when released? also shipping still on for mid july? thanks
+hi simon. thanks. i have changed your color choice to red
+oh excellent. i think it looks really stands out in the matte finish. so much so.... would it be possible to change my order from white to red? many thanks, simon
+hi simon. the original plan was to make the rotor in a glossy finish. but a glossy surface is extremely revealing, so even tiny imperfections in the mold etc. would stand out. so there would be a risk that a few small dents etc. would ruin the overall look&feel of the product. therefore we choose to go with a matte finish instead. but we are pretty sure that you will like it, also in the matte color !! :-)
+hi guys, been looking on your website at the models. is the red version going to look matt finish like it does on there or will it be a shiny version like you have shown before? many thanks, simon
+i got your request to download the testing application and have been trying to contact you via the google group, however none of my messages are appearing at all. how can i get in touch with you?
+@hadleigh. please read the last couple of updates + our the answer to the question you posted under update #11
+11 days till the end of june, will we be hitting the june delivery date or has it over run a little?
+any more progress updates? final model ready for production/in production already? a video of it in use maybe? screenshot of the app progressing? would be much appreciated!
+hi sebastian, when you say "no updates" what do you mean ?? we have posted 8 updates so far :-) we are planning to send update #9 later this week
+hi vaavud team! any news about wind meter? so far, no updates... thanks
+hi martin. please see the comment we just posted under the update. thanks!
+why do you allways have to asia to produce stuff. i know it is more expensive to produce in europe but people need you to do that, cause this are our jobs....
+hi jordy. we chose not to include it as a question, because it did not apply to that many backers afterall. so we will contact those who have pledged for multiple devices individually (have just not gotten around to it yet :-) ). sorry for being unclear about this!
+hi erik/thijs. thanks!  and cool product that you have also. totally agree that gopro type videos are so much more interesting when you can see a person in them! :-)
+i backed for 1 normal edition and 1 kickstarter green edition but where can i tell that in the survey?
+very cool guys looking forward to using the wind meter, will come in handy when using with my own kickstarter project: the 3rd person view camera mount (submitted under the name erik vonk) congratulations and hope to see it soon ;-) thijs vrij (aka erik vonk)
+hi min, thank you! but i am afraid you might have to look much further than v 2.0 for a wind powered charger from us :-) we are 100% focused on perfecting our offering within personal, smartphone enabled wind measurement
+congratulations vaavud! what a great device you have created! cant wait to see your 2.0 when it can charge the phone :-)
+hi david. thanks!  and we can hardly wait to get the devices out to all of you, and to see them in action around the world :-) we are also very happy to hear that you have checkked out weendy. we really love their design and usability, so we are also looking very much forward to the combination of their great user interface, and the precise wind readings that you get with the vaavud technology.
+fully funded! congratulations to the vaavud team for coming up with such a cool design :) can't wait to get my green one! will be so useful when i feel like getting the kite out to check wind conditions and i'll be using weendy now too!
+@ keely. thanks! would be awesome if you would send us a nice picture of vaavud in action with some balloons in the background :-)
+hi!  i just backed the project!  i'm a us hot air balloon pilot and this looks like a fun tool/toy.  can't wait to try it out.  i posted the project on my "female balloonists" facebook page too!...so women balloon pilots worldwide can check it out.  fun project!https://www.facebook.com/home.php#!/pages/female-balloonists/175726442442657
+awesome thanks! good to know about webshop as might be interested in more than 10. keep up the great work!
+@jeremy. nice idea :-) but probably relatively "niche", so we are afraid it will nto be something we will be able to do, due to the minimum order requirements we will have for each batch
+@ryan. regarding multiple devices, then kickstarter does not allow reward levels with multiple versions of the same product (even though you do see project offer it occasionally, without being banned). so the only way to do it currently is to pledge a higher amount, and then we sort it out when we do the backer survey after the campaign ends (i.e. if you pledge 70 gbp, then we will ensure that it means that you want two devices etc.). we are planning to make some discounts for clubs (e.g. a local windsurf club, paraglider club etc.) when we open our webshop. but that will be after the kickstarter campaign ends, and the discounts will then apply if a club places an order for 10 devices or more
+glow in the dark would be amazing!
+i agree about keeping focused on the task at hand. is there a possibility of making a tier for multiple wind meters for a good deal. maybe two three maybe four?
+@jordy - if that's the definition of nuts, then we think everyone should be a bit nuts :-) and yes, if you pledge 75 gbp, then yo can have both (kickstarter prohibits making a reward tier for this, but it is perfectly fine to do it by just increasing your pledge). we will make a note of this on your "backer profile" in our admin section. and you are correct about the colour. the standard version will be red/black like the picture you have seen. we will have more on this in an update soon
+@ryan. thanks for the kind words! regarding charging, then this is not something we will be looking into in any foreseeable future - this would be an entire project in itself. we are spending all of our resources on delivering a great wind meter, and on building relevant digital services around this.
+yes me again, which colour does the normal one get? white? because on your site i also saw a red one.
+because i am nuts i want the normal edition and the kickstarter green edition is that possible if i pledge £75 for the kickstarter edition?
+this is a great project! cool idea and good job with kickstarter. for future versions would it be possible to have a adjustable plug in adapter to plug it into the power port and charge battery in windy areas?
+@mihnea. thanks! yes, we will look into adding other parameters, like pressure and temperature, but it is still  bit too early for us to put a time line on this
+@sgllama. we will look further into this as soon as we can, but it will be a while before we will have the ressources to do so
+firstly, i would like congratulate you on an awesome idea and i can't wait to get mine! did you guys think to tap into the barometer functionality that the nexus 4 has? it'd be great to be able to post wind speed as well as barometric pressure at the same time - basically create a mini-weatherstation using your phone!
+following om from what aditya said a few days ago, i'm also very interested in using this with a dev board such as arduino. attached to one of those it would be possible to do things such as a scient project to monitor wind changes at one location over a couple of hours.
+hi niclas. thanks for the suggestion! we will not be able to incorporate that in the current version, but it is definitely on our list for potential new features for a future version
+maybe you could incorporate a thermometer like this one too? http://www.kickstarter.com/projects/robocat/thermodo-the-tiny-thermometer-for-mobile-devices
+@john. great to hear that you like the idea! :-) and we are very happy about reaching the goal too. we are hard at work to speed things up as much as we possibly can, now that we know for sure that we will get the funding
+such a cool idea. it reminds me of getting my first iphone and realizing i could use it as a level. i'm surprised that this has not seen more action on kickstarter. i am really glad that the goal has been met.
+@wxman - thanks! we just posted a link to our kickstarter page on the storm chaser facebook page. hope the guys there will like it!
+@mark. yes - getting very close. thanks for cheering on us :-)
+@aditya - thanks a lot for your interest in our project! we might publish the algorithms at some point, but will not do so initially. our focus right now is on getting the core product ready to ship in june, and currently we do not have resources to handle the questions and feedback, that will inevitably follow from opening up to other platforms. but it is definitely on our list of possible next steps. would be cool to see our product in action in combination with ardunio etc.  - or even lego mindstorms. but realistically we would not expect this to happen before sometime in 2014
+this is a great idea. just found it and am getting one! as a meteorologist, this product is a great idea for those who send in their weather observations. getting real time wind information, especially during severe weather here in the us, is critical in getting out accurate warnings. the developers should also promote their product product to storm chasers and other groups. their official facebook page is https://www.facebook.com/stormchasers
+almost there! good work vaavud!
+i was just wondering that will it be possible to use it with anything other than smartphones like a combination of magnetometer and dev-boards like android ioio/arduino. will you be putting the algorithms in public? anyways best wishes for your awesome project.
+@xiao. thanks a lot - and a happy easter to you too!
+just kick start my 1st project by backing vaavud. hope your project is going well and have a very happy easter holiday! cheers ;)
+@ jason. that's a fair concern! but no, the pin does not rotate in the phone jack. the plastic pin is of the exact same shape and dimensions as a standard headphone jack stick the rotor does not contain bearings, but is designed to have only a very small contact area between the mowing parts, and the interior will be made in a teflon filled plastic material, so everything will run smoothly
+just to make sure, the wind sensor doesn't rotate within the headphone jack itself, correct?  you have an external bearing on the shaft to do the turning right?  otherwise i would think it could do quite some damage to a 3.5mm port.
+@andreas. thanks :-)  regarding the distance, then it really depends on where the magnetometer is located within the phone (which is different from iphone 4 to 5). but for practical purposes the distance can not be more than a few centimeters. so, it will still work if you have the phone in a case, but it does not really mean that you can mount the wind meter remotely. we have a few ides for other form factors of the device, where it can have a longer range, and e.g. be mounted on a building or a pole etc. but those will stay in the drawer until we are fully up and running with the device v 1.0, which is the one you see here on kickstarter :-)
+i had a similar idea using a reed-relais and the headphone-jack... but your idea is way better! what's the minimum distance between iphone and windmeter - how far can they be seperated until signal detection doesn't work anymore?
+@yvan. thanks! and great input regarding twine. it has a magnetic sensor built in, so in principle it should be possible - but it depends a bit on which specific sensor they have used. but definitely worth looking into. we will add it to our list
+hey ! excellent idea !! i was thinking it would be great if this could also work connected to a twine !! what to you think  ?
+@jan, simon and sven - thanks a lot for your encouragement!
+great idea/product!  as a kitesurfer i'm really looking forward to it!
+i will be using it for sailing and also on the farm for sprayer.
+as a semi avid stunt and powerkite enthusiast, i am really looking forward to it. as someone being employed in the renewable energy sector you have my professional interest. all in all looking forward to the finished product. just hoping it will work with my new mobile after switching from an s2 to an htc ;)  held og lykke
+@rafal - yes it does actually work with ipad also. so far we have confirmed that it works with ipad 3 (wifi edition) and ipad 2 (wifi + gsm edition) we know that some sailors use ipads for navigation - just out of curiosity,  is this also your intended use, or do you have other use cases in mind? thanks!
+@andy - we plan to do this down the road, but we can not be specific about timing just yet. priority 1, 2 and 3 for the foreseeable future is to get everything together so we can deliver to all our kickstarter backers :-) but would love to hear your thoughts about which application(s) you might like to integrate our functionalities with!
+@mark - thanks !!
+awesome product! i fly stunt kites and i have been looking for a wind meter ever since i broke my ultralight by flying it in too high of wind.  best of luck!
+can you provide a library for android (or even sample code) so that it can be integrated into other applications? you'd get a big hug if you did :d
+hi, great project!! you wrote ios - so will it work with ipad?

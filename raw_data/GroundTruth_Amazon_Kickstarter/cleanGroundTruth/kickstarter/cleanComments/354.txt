@@ -1,0 +1,321 @@
+i have got anything. what's going on?
+my city is not under evac. any more, can i get my reward delivered now?
+this doesn't work  hasn't worked since i got it.. and no instructions anyway..given up
+still nothing and no response to my comment asking for a refund over a month ago...starting to think i've been conned!
+and one year later, still nothing~ :(
+i didn't receive anything... can i have a refund asap please?
+i never received anything.  very disappointing. any update creators?
+@jerome, &creator posted a while ago that you can calibrate each unit by long pressing on the temperature in the graph mode (top center in the ios app). you'll need to have the unit temperature stabilized at a known temperature (25c is recommended).
+i did receive my reward a while ago. not exactly enchanted by the packaging which looks nothing like the campaign data, and the devices are not factory-calibrated and not showing the same temperatures (got the 5x thermocos reward) with as much as 2°c span across my fleet. i guess they are not factory-calibrated. but it's something i can live with, given how i use the devices. for those who would like to read the temperatures without using the app, i wrote a piece of code that does it (https://gist.github.com/zougloub/cb28428946807992fe0328fb08e6b889, using the bluez stack only). reading doesn't seem super reliable, but i don't know what to expect from ble devices in general. ksolution, how about putting the firmware on github or something, so that someone else could improve it?
+never received anything here �
+me neither ;-(
+i didn't get mine too. what's going on??
+yet to receive mine too. what's going on? 6 months without an update....
+yet to receive mine, but has anyone been able to get these to talk to openhab or windows directly?
+i requested 2 thermocos btw through private message if that is relevant, maybe you marked it not to process automatically with the rest or something
+hello, if i did not receive anything yet, i mean anything at all (not even a message about shipping), ... is it ok (meaning shipment is still not finished), or is something wrong? if wrong, please look into it and ship as soon as possible, kinda waiting for it for a (long long) while :|
+@dmitry popov: long press on the temperature at the graph screen, you will see calibration function. thanks a lot for all your support! please contact us at support@ksolution.org for questions.
+i have not received shipping notice or anything yet
+to solve all problems below - please, add calibration value for each thermoco in mobile app
+not a single one of the items functioned as expected & they are ignoring me - i am sad.
+i still have not received anything, despite ksolution having sent a message saying it was shipped out in april!
+@pilar,  there are two springy tabs in the top of the battery holder that can be pushed down towards the circuit board.  doing so helps keep the battery in place.  i've even used this method when i only had a cr2025 battery on hand, which are thinner than the cr2032s
+so i need to sent my faulty items back to usa from the uk before i can get replacements, who pays the postage?
+@craig, i have similar problems, connection/disconnection, with different devices (ios and android). and i think the only reason is that the battery doesn't fit propery. if i manage to put the battery in the right place (little bit outside of the battery holder) and i don't move the unit  at all, it just works fine for days, and connects to all devices. but as soon as i move the unit it stops working and i have to fit the battery again.
+@richard i found a similar app for ios. i ended up turning off my apple tv, rebooting my phone, etc and finally picked up a signal. however, it seems the battery connection is very touchy. i had to find the exact battery placement to keep it going, and after multiple attempts was finally able to get the unit back in the case without it cutting out. for the price i still like this project, but clearly it could use some improving. best of luck to the creators.
+@craig.  if you're on android try 'bluetooth le scanner' from the play store. it'll confirm that your phone/tablet is blutooth le enabled and find all nearby devices - see if your thermoco shows up.  there may be a similar app for ios..
+got mine yesterday and can't connect to any of my family's devices. new battery, inserted properly, bluetooth on, but nothing. i can connect to other peripherals. any suggestions?
+it will be fine if app can store acquired data to sd/google cloud...
+i'm echoing some of the sentiments already mentioned, but figured i'd chime in and add to the crowd: i'm a little disappointed to be perfectly honest.  i mean, it works more or less as advertised, but the app is kind of simplistic and not much to look at, but oddly enough, i think what bothers me more is the case.. the one in the picture isn't what i got..  it came with the one that's on the ksolution site: http://www.ksolution.org/outdoor/images/thermoco225.jpg which, well... comparatively is pretty ugly.  i'm tempted to remove the sticker entirely and spraypaint the whole thing black since i've just got them hiding in various places.  the lack of integration or compatibility with anything other than the thermoco app is sort of a bummer too.  maybe in version 2?  i guess i can't complain too much, they weren't exactly wallet busters.
+in a future update i would like a bigger numbers and a digital track, not only a graphic
+got mine. though customs and extra vat taxes was a bit of a drag. all three seem to work ok although receiving a signal is hard sometimes, e.g. through a freezer door. design is quite cheap looking.
+i received my 5 (italy) some days ago.  they work all and shows the same temp (diff max 0,1 °c). plastic enclosures needs a small coin to be opened (like 1€ cent) and feel frail. for the money, i'm quite satisfied. thanks
+got them function is good look and feel cheap. why not make some new cases and send out to your backers if availabe. would put one in my car and office... with the look of the ks project.
+received mine a few days ago (italy) just confirming what others said: functionality is good, but build quality is really below standard. plastic case is way too big respect to the campaign photos and logo, well it's just a small piece of printed paper glued on top of the case. but the unit works as advised so nothing to complain: i hope ksolution could learn from the problems encountered in this development and make a better product in future. thank you anyway for delivering a good, functioning product and for shipping with a fully working tracking number: i really appreciate all this efforts and if some money from development was "diverted" into shipping i'm fine with the final result.
+got mine today. i agree with the other backers -- all units do work, though build quality somewhat disappointing. so far have been getting 1-1.5 deg variances; would like to request a calibration function in the next app update. cheers.
+got it 3 days ago and it works aus expected for now.  precision is appropriate - so all positive from a technical point of view. negative: this is not coin sized - significantly thicker than shown in the campaign and really looks a bit cheap.  but this is what one has to expect at this price tag. so bottom line: all ok. will maybe get more if i would know where :-)
+i have not received my product!!!!!!
+are you going to answer any of the questions posted here? my units still don't work....they don't even connect with app at all......
+i could't open a case with a coin,tell me how to open easily
+i could't open a case with a coin,tell me how to open easily
+initial tests complete. temps are within 1°c of each other. one device took much longer to adapt to the temperature. of note: battery had to be inserted with the positive side towards the retaining clip. no major issues.
+received. two of three devices show similar temperature one ca. 0.8 different. tested in fridge, freezer and warm room... fast test did not impress.. all values seem to be wrong. fx. 5 instead of 3,  -13c instead of -18 and 29 instead of ca. 26c. and the app is not very good, but acceptable. not always receiving graph....
+received in uk today...working as expected. many thanks!
+in canada - received product on june 20th. waiting for batteries to conduct tests. can confirm other comments regarding size (diameter of coin, thickness of 3-4). can confirm sticker logo (but irrelevant to me).
+and not even remotely accurate, out by 7c after sittingbin the same area for 24 hours.
+arrived yesterday, look nothing like the sample still shown on the website.    cheap printed sticker and much thicker.   "coin size"  hardly,  no where i have been has coins this thick!.   looks cheap and nasty.   app will not run on my tablet.   disapointed.
+arrived mine yo méxico, works as expected  !
+i received mine yesterday and well they work but i have to agree with brandon about some things: bad: 1. product is nothing like originally shown and with a homemade sticker... makes it look cheesy. and you keep showing the original design for any new customers. 2. the app picks up every bluetooth device humanly possible and there is no way to remove non thermoco devices from your list, this has to be fixed!!! 3. very thick compared to what was shown. good: all 5 i got shows exactly same temperature lying next to each other so this is positive.
+got mine - not really happy.  1. product is nothing like originally shown 2. product looks cheap and the sticker was done by a 5 yr old 3. the app picks up every bluetooth device humanly possible and there is no way to remove non thermoco devices from your list 4. due to the cheap manufacturing these are not subtle in any way. can't be stuck to glass, etc. 5. discs are prob 2-4 times thicker than the original design. overall this is a kickstarter project but i would rate this in the bottom 20% of backed projects i have been a part of from initial campaign to final product.
+i received mine yesterday in canada. so far the three of them are providing pretty close to the same readings - fluctuating between 0.15c and 0.30c differential temperature. i'm looking forward to putting them through their paces. i agree with other backers - the cases are much cheaper looking than what the rendering led us to believe what they were going to be - and the sticker makes it even worse.
+got mine yesterday, in spain.battery doesn't fit properly. the device connects and disconnects all the time. it disconnects as soon as you are 2 meters away from your phone. the case is much bigger than it looked on the pics. you have to open the case to insert the battery. battery is not even included. the sticker with the logo is kind of a joke. what a cheesy ugly design! very disappointed with it :((
+received my 5 the other day but needed to order battery's from amazon, disappointed that only 2 work, that's 60% of my received items faulty very disappointing
+what this is! very cheesy
+got mine today on the west coast of canada in bc. not too impressed, pretty cheap, a sticker for logo, really?!?!? looks nothing like the pic on campaign page. you open it to put the battery in, that you have to supply - ridiculous, and everything falls out ! the 'seal' is a joke, looks like my cat chewed it up and spit it out after he found it in the dump. creators should be embarrassed. i guess there is one plus - it did get delivered.
+to all: creators reacted quickly to my comment via pm.  highly appreciated - i finally have a tracking number.
+i'm getting excited! mine have arrived in canada, cleared customs and are en route here - they're expected to arrive at my door early next week.
+received mine 2 days ago, living in austria. cheers!
+got mine yesterday, living in holland. cheers guy's !
+hello, are there any plans to update the app? any new features planned or enhancements?
+hi ! at the end of april you asked me about my phone number and after that i did not receive any notification on sending me a thermoco
+i received mine a few weeks ago, but they don't work.  i have one in the garage, the fridge,and one right next to me in the bedroom.   the app is super slow and only maybe one of the devices will connect to the app. what's the problem?  how can i fix this...?
+backer #356, california. i still have not received any shipping notices or items.
+yeah an update on when i can expect this item to show in my mailbox would be good!
+creators: please compile an update with the current status. i got nothing sofar - no shipping notification and no product. thanks
+@vanseveren i have it working with an android 6.0 phone the device is nice, but the app should be improved. it needs a time scale filter. add typical intervals like 1 day, 12 hours, 1 hour... and it would be more useful.
+what is going on i have left a comment and got no response
+je l'ai recu il y a plusieur jours, et ne fonctionne que sous android 5, sous android 6 impossible de se connecter dessus. pensez vous refaire l'application car elle n'est vraiment pas pratique didier
+i hate to say it guys (especially so late, bit i'm just now getting around to work t with it), but the quality of the external case is junk.  it both feels and looks cheap, with a cheap sticker that wouldnt peel off without a mess.   it's nowhere near as nice as the promotional materials made it out to be.  was this simply a cost cutting measure as you got into the project.  otherwise, the device appears to be working well.  just that one small aspect just kind of kills it.
+in canada. just received my tracking number.
+i have not received my product!
+got mine a couple weeks ago. one thing i've noticed so far: i exported a log of temperature measurements over the last week. a few days later i did it again. when i compare them, entries for the same date/time from the same coin don't line up with each other. it's as though it's lost the measurement offset, or missed measurements or something. in any case, it's telling me i can't trust the historical log, which was a powerful reason for this in the first place! works okay, as others have said the ui is rough, but i'm reasonably happy, just wary of accuracy of both the measurements (i don't have a reliable way to confirm that) and the log.
+i have not received my product
+i don't have recieved my coin here in italy. backer #523
+with kind regards from amsterdam: not a sign, not a coin, still waiting to see it roll to this spot in europe!
+battery in the first thermoco seems to be dead after only two weeks.
+contacted ksolution through kickstarter message system regarding delivery of my reward  (to uk).  got response within 24 hours reporting that item shipped and was given tracking number.  not tried the tracking number yet. asked about  api documentation and was told it should be released within the next week.
+i don't have recieved my coin here in thailand.
+uk based - no delivery or hint of a delivery on the way yet...
+looks nothing like the picture when pledged, has a paper sticker on it, which i'm sure will hold up great in a cooler or wet conditions ;). range is terrible. app only pics up one of the thermocoin
+i don't have recieved my coin here in spain.
+i don't have recieved my coin here in austria (backer 606). any update for me? thanks
+very fast support via mail! thank you for that.
+after several tries it works now. however design and especially the app is not very nice. are you willing to share the interface details so i can develop one by myself?
+another week has gone by and i'm still waiting for the remainder of my pledge. it's not that far to california.
+when can i receive mine to sweden?
+come on guys! no battery?! it's at least twice as thick as the image suggests.
+@micheal skeggs presumably because their units don't work as advertised. surely not that difficult to imagine??
+received today in australia, worked immediately with both android and ios. not sure why there are so many complaints here, it looks like the device does what was promised and was delivered pretty close to when expected. lots of buyers seem to need an update email every week to tell them nothing has changed. good work, thanks. my only suggestion is that the apps could use some work to make them more attractive and comply with the ui conventions, they are a bit rough.
+mine arrived 2 days ago to spain, not tested yet because i had to travel out. thanks.
+@thomas: 3 degrees celsius should be fine. enjoy! ;-) still very satisfied with my thermocos. range is not that great but enough to get readings from the garden and in the house.
+no tracking number, no email, no anything.  seems kind of flaky that you sent multiple emails for phone numbers and many of us reply and probably half of the backers have nothing at all and the ones that do a good chunk of them state that it does not live up to what was promised.  i get the feeling that many of us will be disappointed, burned or both.  bizarre when i can get a package from california to michigan in two days and it is five weeks since rewards have started to be shipped.....
+backer number 508, based in the uk. thermoco arrived today, popped a battery in and set it to task. data logging seems excellent, just what i wanted, you can save the historical data as a csv file. i'm aiming to use it to log the temperature changes during a 6 week trip in the states (departing next week), so will be intrigued to see what the battery life is like.
+tell me another battery brand that you indicate the use thermoco?
+five pcs arrived in germany today. put some book cover film onto the sticker side: now outdoor capable :) didn't know that it was this "warm" in my fridge :p - have to adjust for cold beer! great, this thermo-coins! excited, how long batteries will last... thanks and regards
+hi! i've received the device, put a battery in the right place, but it just doesn't work... could you please help me to solve the problem? thanks! cs
+backer 104
+still nothing here in the uk disappointed :(
+hello, just want to let you know that i received mine last week and it works very welk... great product!  br thomas
+backer 506 in fr, i still received no notice of the shipment. any news please ?
+3 weeks ago you said you were sending the remainder of my order... still waiting. so, what battery is used?
+i am backer nr 70, but i haven't seen anything yet. any update for delivery to the netherlands?
+got my three a few days ago. was shocked that the packaging was a static bag in an envelope and they didn't even come with batteries. they are very generic looking white plastic discs (nothing like the picture). i put a battery in all three and the temperatures vary by several degrees if they can stay on for more than 5 minutes. one constantly disappears from the app even though it's 2 ft away. i'd prefer if there was a generic document released that detailed the communication specs so we could write our own tracking apps. the one on the iphone is horrible. when i originally downloaded it i assumed it was just bad because they were still working on it. turns out i don't see much improvement since then. really bummed this wasn't at all what i expected.
+received mine today (hk)  extremely disappointed. not fit for purpose. rarely connects, doesn't stay connected.  very rarely shows a graph. doesn't record temp over time. doesn't work at all with the case closed. basically, it doesn't do anything it said it would do please arrange a replacement unit to be sent.
+i haven't received mine yet! uk
+received mine in germany yesterday. no problems with customs or anything. thanks! design is a little different from the pictures. but i don't care about that as long as it works great. and so far it does! :-) can you give us a little more information about the settings please?
+i received my order in new york friday 5/20. have to go find batteries next.
+nothing has arrived here in new zealand either!
+@david summergreene - i'm in sydney australia - no thermocos yet. provided my phone number on 27 april and since then, nothing.
+i'm in the uk and have not received an item yet. is there any update on the delivery date?
+has anyone in australia received their shipment yet?
+well, after running my three for the last five days, they seem to be working quite well. the range is pretty good as the one i have outside is still reporting temperatures and graphing them. i can get a reading from about 15 to 20 feet away, and that's going through three walls. my other two sensors are in the house, one in my bedroom and one in a hall closet. the only issue i have noticed is one of them gives a current reading but doesn't seem to graph the readings at all. anyone got an idea why that is? i don't see anything in the app settings that turn that feature off!
+can someone give a timeline of when these will be shipped internationally? we were asked for phone numbers nearly a month ago, and nothing since. if this has been properly certified as stated in the campaign, then there should be no problem shipping internationally (my company ships it equipment all round the world every day)
+mine status is at pre-shipment order, i think that might be a lot of bureocracy sending goods outside the us.
+hey! i was one of the first backers. i know i'm an international "custumer" but i still haven't recived any message about sending the product and so on... so what's happening with european orders.
+if the shipping company is the same as mine is usps, hope it helps.
+got the tracking number buy how to check ..! it is not a hyberlink!
+received three, good instructions. after finding suitable batteries they work as expected. one small thing: in the app there are "other" bluetooth devices detected but obviously can not be used in any way as they are not thermoco. please stop these devices from being visible in the app. great product.
+@creator, can you send me a shipping update? thank you!
+i got my shipping number, thanks
+hello, any chance i could get a shipping update?  thanks,
+thank you all for your inputs and supports! for international supporters: could you please provide your phone #? it is required for international shipping. @kris collins @leung kwan hon @john roberts @samrat baweja @sam @john dewispelaere @bichelot frederic@thomas thumm @doc tb @péter varga @volkov48: shipping updates have been sent to your box. @elles: instruction should have been included in each order. instructions can also be found here (at the end of the page): http://www.outdoor-apps.com/store.html @shaun quinn: "all 3 work great! very consistent readings between them", yes! we will consider cr2016. thank you!! @jose valenzuela: we have added it to the new version of the app. thanks a lot! @steven hoover: thank you so much for the information. battery losses capacity and voltage at very low or very high temp. and their low temp performance varies greatly. we have found duracell is good for freezer while sony is bad. duracell should be able to last 2 months in freezer (3 months in room temp). @sheri dieck: works in "incubator". we will put definitely humidity sensor in our list! thank you!
+someone outside usa have received yet?
+unbelievable.. just arrived and i am, i don't know what i am. firstly, no directions, so received three plastic cases with pasted on sticker saying thermoco on it, noting outdoor. nothing like picture. there are no directions with it, and most amazingly no batteries.  that fact that the creator hasnt packaged it just shows what little regard he has for product and for us. and that this was a ks sell, with idea of packagibg for future sales.  but no directions and no batteries completes the picture. three one inch across white cases .. a new low in ks for me. well, this is probably the end of my backing anything more save the few creators i have had good experiences with. white cases with no batteries and no directions.
+not received yet... :-(
+still nothing here and no answers to private message :-/
+i got mine this weekend! it's currently in the incubator with my fertile chicken eggs. seems to be tracking great. would definitely back again if they release one that also has a humidity sensor!
+didn't receive any of my five in germany by now... :( also no tracking number...
+shipping update????
+i am still awaiting my 10 themoco units. have they been shipped? tracking information? you can respond to jjdwjr@gmail.com i look forward to hearing from you.
+i haven't received it . help!
+any shipping update?
+also not received a tracking number.
+one more thing, they are reading quite well and seem to give me true temperatures. i love the graph that is created over time!! excellent work guys!!
+i got my three thermoco's up and running. they are working great. i'm not entirely sure why some people are having an issue with having it in the fridge. i put one in the freezer and i'm reading it in the next room about 12 feet away. i believe though that the cold is not good for the battery. i tested the voltage of a brand new cr2032 and it read 3.14 volts. after it being in the freezer and taking a couple of readings, the voltage tested at 2.74 volts after only 10 minutes. then i lost connectivity to the thermoco and had to replace the battery. that too is an issue. the thermoco's seem to have to have brand new, (or at least fully charged), batteries in order to connect to the app. i tried a couple of cr2032's with 2.97 volts and 2.94 volts and they wouldn't connect after several minutes. this leads me to believe that you will probably need to replace the battery after several days if you take a couple of readings each day. ill keep monitoring mine and report back. in the meantime i removed the one from the freezer and just try to use it as some sort of control in my experiments. i've currently got one thermoco outside and one inside my house.
+can we have the option to remove the demo coin?
+got mine yesterday, all 3 work great!  very consistent readings between them. like a few others said, it's not as thin as the pic looks.  the circuit board itself is wafer thin, but most of the bulk is coming from the cr2032 battery and the cage it slides into.  for v2, what if you guys used a thinner battery like a cr2016?  as far as reception in the fridge goes, i get the same thing. the problem is the fridge is a giant faraday cage, so the metal it blocks the signal from the thermoco.  i put it in a wine fridge that has a glass door though, and it reads fine.
+haven't received a tracking number yet
+i've not received a tracking number
+thank you all for your inputs! we have received lots of feedback and folks love our little gadget! we also received great suggestions and questions. new version of app will have new functionalities and performance improvement and is scheduled to release on the coming week. @bernd @rl: shipping updates have been sent to your box. we started international and domestic shipping at the same time, custom form for each international order took us lots of time. @james gerber: great to hear that "readings are very good across devices.". thank you for the great suggestion, we have put it in the to do list. @blongdon: "functionality wise it works great!". fantastic! thank you for your valuable inputs. notes have been taken. @odin of asgard: we are working on a detailed document, please email support team so you could get an update. basically, it is depending on your needs. for example, if they are in near range and you want your battery last longer, set the tx power to lower value. if you want to talk to a device which is far away, try higher tx power or higher advertising interval. @noel talcott: you might want to email support@ksolution.org for troubleshooting. @bill brown: we suggest that you try higher tx power. also please check the firmware on you smart phone/pad, ble (bluetooth low energy) performance with older version is not that good. newer version (for example android 6.0) has enhancement for it. @janet: battery is considered as hazardous by usps, has restrictions on shipping them. @doug: you might want to contact support@ksolution.org for troubleshooting.
+your disclaimer puts all the risks of this device performing as advertised on the user.  so far none of the disks seem to be reliably connect with the app.  the one i put in the refrigerator does not even show up as an active device.  so it looks like i may be  stuck with three disks that will not do anything useful.
+any instructions available for optimum use??  i have an app & a box of disks. that is the extent of information. please help us (me) out. thanks.
+it will only connect when right near the phone. will not connect when being right next to refridge. app is slow and most of the time won't connect at all. i'm very disappointed
+1- why not send us a battery? i would've loved to use this item right out of the package. after a week, i still haven't been able to get a battery for it. 2- your image of this product is misleading. the moment that i put this in a cooler, the paper's going to come right off. i would've much preferred the high tech image in the campaign ... you know, the one that i pledged for?
+app needs a way to display only thermo device (not all ble devices in range) and sort on name.  readings are very good across devices.  i have 4 sitting together on a counter and they read from 77.34 to 77.68.
+got mine a few days ago.  functionality wise it works great!  aesthetically it needs some work.   it's not that small...it a bit bigger than a quarter around and about 3 quarters stacked tall.  it has a cheap sticker that is already coming off after 3 days of handling it.  the kickstarter campaign showed what appeared to be a molded blueish color logo which i personally thought looked quite smart.  even if you made the sticker look like that it would be a step up.  also consider a moisture proof sticker.  all that to say i think it could look much better and the sticker on top ruins the "tech feel" of a cool bluetooth temp recording device".   of course beauty is in the eye of the beholder.  i have another device that reads but does not record temp(as well as a 3 axis accelerometer, speaker, and led light) that is about half the thickness and slightly smaller around.  it just looks more high tech. from a functionality perspective this thing is perfect and you guys did a great job delivering!  i would definitely encourage folks looking for the functionality this device provides to buy one.  hope the feedback helps for thermoco 2.0 based upon my initial reaction.  all in all nice work!
+haven't received a tracking number yet.
+why dont you ship international backers first, now we need to wait more than a month to receive the thermoco :(
+anyone else having a hard time having the app (android) pick up the units? i'm 6 inches away and my device isn't finding them.
+ok thank u
+@mary: cr2032 or br2032 depending on your needs. operation temperature range -20c~70c for cr2032; -30c~85c for br2032 thank you! please email support@ksolution.org if you have questions.
+i got mine today. do i have to go buy a certain battery now to make it work?
+@william willis: you can download the ios app from the app store, here is the link  thermoco by k solution: https://appsto.re/us/bowj_.i . for android devices, you can download it from the google play store (https://play.google.com/store/apps/details…) for free. @doug: please contact support@ksolution.org for troubleshooting. thank you!
+received mine last night. having trouble connecting to them today.
+hey guys. i can't find the thermoco app in the appstore. any ideas where i can find it for ipad? i've typed in "thermoco" with all variations of capitalis/non-capitals, as well as searched through the endless thermometer apps. still nowhere to be found. i've received my product but the app is a no-show.
+@daniel @sam @michael kowalski @claude theoret @kevin coughlan: message has been sent to your box regarding your inquiry. thank you all.
+international shipping has been started. thank you all for your support.
+hi guys, any news on the shipments to europe? thanks daniel
+i haven't got mine too! any tracking number please!!
+also haven't received my order.
+i haven't received mine yet either, can you please let us know how shipping is progressing so we can have some idea of when to expect it.
+will you provide us with shipping confirmation numbers when our orders ship?
+i have just notice that you have responded 3 days ago, good , but did you start shipping to canada
+hi, have you start shipping to canada, i have send you my phone number twice,  a response will be appreciated .
+@daniel, yes. we have received your phone number.  thanks. @dan @elles @mattew: thanks a lot for your patient! we did not realize that shipping is such a big project, some of the packages are still in processing. our tracking shows that some packages have arrived at the destination. thank you all for your support!
+has anyone received their product yet? i am still patiently waiting for mine. survey was completed within 10 minutes of receiving it.
+haven't received mine yet either.. patiently waiting, but think i should mention
+i filled out the survey, am domestic, haven't received the thermoco yet. should i be concerned?
+hi guys, did you receive my phone number? thanks
+hi claude, we have received your message.  thanks a lot!
+hi,  i have send my phone # number twice but no response ???
+phone # is only required for international shipping. if your address is in us, please ignore. thank you.
+got an email about phone #.  thing is, i'm in the us, and not international.  do you still need phone #?
+quick update: about shipping: most of them have been shipped using kraft bubble mailer and white box for package. some are still in processing. about android app: it will display both c and f in graph for real devices. will add the feature as suggested. thank you all!
+sent my phone number with private message. when do you ship? can't wait.
+why do you need my phone number for international shipping? are you going to send thermoco in a text?
+hello, i have found using the demo device in android app, if temp is changed to c while viewing the list of devices the graph still shows temp in f. is there a way to change the temp to c in the graph also?
+hello, can a temp high/low alarm be set in the (android) app?
+will you sent a tracking code when it's shipped, or will it ship without a tracking code with normal mail? any update on the shipping status?
+when the order is shipped what will be the shipper info on the package? i'd like to give our shipping/ receiving department a heads up as to what to look for. thanks, john dewispelaere
+thank you! @john: you can download the ios app from the app store, here is the link   thermoco by k solution: https://appsto.re/us/bowj_.i @nehc: it is water resistance. you can use a clear wrap to be secure.
+just wondering about the ios app.  there is nothing in the app store?
+in app you mention aquarium. can you explain, please? as i remember it is not waterproof or is it?
+quick update: android app has been released to google play store. product is ready for shipping. will send out update this week. thank you all for your support.
+hi hows it looking for april deliveries?
++1 on the status of the android app. i'm getting 10 thermocos, that will be just pretty little white coin-like nothings if i don't get the app for android.
+i would also like an update on the android app. thanks
+great to see the survey and hear hardware is complete. could you advise where i can get the android application?
+also just filled the survey, wanted to make sure you still know my pledge is for 2 thermocos. thank you and good luck with your projects in the future :)
+is it possible to increase my pledge by another five pieces?
+now that shipping is ahead: please keep in mind that european backers don't have to deal with customs if the value of the sending is below 22 eur. looking forward to receive my thermocos.
+just completed the survey. note that i added funds to receive 6 thermocos. thanks
+great. survey sent!
+thank you all for your support. shipping survey has been sent out. hardware is completed. we are on track within this month for delivery.
+i didnt see any photo or video about production after funded, is it really on track within this month for delivery or just only send out survey?
+thanks for your team to work hard on the android app. please update the production status for the hardware also. thanks
+great news, thanks
+awesome!
+@all: shipping is this month. we are currently adding new features to android app. thank you all for your support!
+hi! any updates?  shipping?  android app? thank u
+...and an update on the android app,too......
+i missed it when you added the 10 pledge to the options....can i add more to my order at the kick-starter price before you ship my units to me?  thanks!
+nice, but is there a android app.
+good news, cheers!
+nice, so shipping will be upcoming fast, but, about the android app? any news?
+thank you! we will send out an update this week.
+@creator, do you expect to start shipping this week?  there's 10 days left in march.  if not, how about an update with a revised schedule?
+we have not start shipping yet. will send out update when shipping starts.
+hi,any shipping date ?
+hello, did you start shipping?
+you should send out an update for it instead of  here ;)
+thank you all for your support! android app is on final test stage.
+quick update: we are currently on production test run stage.
+how's it going, dudes?
+@creator, is it on track for mar shipping? are you already send out the survey or i missed something? thanks
+any update? ...please.
+can you provide us with a beta or something for the android app (and the ijunk one too, why not)?
+so looking forward to this product, i've been telling everyone i know in the construction business about thermoco.
+yes, march for shipping. thank you!
+march?
+any words when our products will be shipping?
+any more thoughts on creating an ifttt channel if you are launching an api?
+waiting for the update!, amaze us haha, by the way, any news of the android app and the api for the pc?
+thank you all for your support! we are working on one and will send out an update this week.
+still no update? when can we expect to see one?
+so excited about this item, i will be using it to monitor the temp of my insulin that i carry with me every day. with this i will no longer live in wonder if the insulin has got too hot and is no longer fit for use. thanks for developing, if you need a tester for the device and the android app let me know! thanks, shannon
+i can not wait to try it!
+ok, looking
+nice, loocking forward to it.
+thank you all for your support! we will have an update for the production sent out next week.
+i would like to know more update for the production. do you have any photos or videos for the production?
+hi, why don't i receive update at my email, just like the awk-105 projet.
+this is freaking awesome. i'm having data-overdose chills, and don't even have the thermocos yet. this is going to be sweet.
+thank you all so much for your support! we made it!  for timely response, please email us at support@ksolution.org. @sean: we plan to start shipping by march. @imran: android version should be online in a couple of weeks.
+hello! what is your schedule for shipping out the devices, now that the iphone app is complete? thanks!
+this would really make managing our fridge a lot easier! i can't wait!
+congratulations and good luck !!!! looking forward to receiving the thermoco.
+eagerly waiting
+bravo from france ^^
+nice!, congrats!
+congrats!
+grtz guys
+any word on the android app? saw your update on ios so thats cool. also can i double my pledge to get 10?
+looking forward to using these with my homey...
+hi,  is there an api or is the communication in an open format?  also, does the app have alarms for a temp range ?  thanks!
+@ksolution thank you. nice, pledge changed to 10. all questions answered.
+@bernd: we are currently focusing on the production. for timely response, please email us at support@ksolution.org. @fufu: battery life: 1-2 month with cr2032 and room temperature. thanks a lot for your suggestion. @jose: there is no limit for how many you can add. there are different apps for iphone/ ipad and android tablet /phone since they are based on different system, but they have the same functionalities. yes, you can name each thermoco individually in the app with the name i wish. i have created  a 10 thermoco reward. thank you all for your support and suggestions!
+where are you guys? campaign is almost over.
+could you make a version that takes aa batteries?
+what is the battery life?
+what is the maximum amount of thermocos i can add to my app? can i have the same app in various devices by just logging in (android phone + android tablet + ipad)? can i name each thermoco individually in the app with the name i wish? can you do a 10 thermoco pledge?
+would a 10 pack be totally out the park? or a 6-7 pack? i dont need 20
+yes i would like that, but i can understand if they dont want to risk it. but yeah, that would be great
+maybe the creators could specify the value of the sending a little lower and label as a gift to avoid import fees for european backers. this would be awesome!
+hello, i would like to ask, is it possible to preorder 2 thermocos? currently i have the 9$ tier (= one). can i add another 9$ to my current pledge and specify in some survey that i pledged for two? if i bought three i would very likely pay additional import fees and taxes (quite a lot compared to the original price), plus i don't really need more than the two. thanks for the info, ladty
+@creator, would it be possible for you all to create a windows application for it? that way, you could have a bluetooth module on a pc, say with a good antenna to pick up all of the thermoco, and be able to monitor it from a pc/laptop instead. this could come in handy for home monitoring, and leaving the application run on a home server. that way, when away, you can monitor by remote desktoping to your pc. and even from there, you could develop the application to send email alerts, etc.
+just curious, are the loggers going to be tagged with a serial number? and is there going to be some kind of guaranty in case of failure?
+thanks for all your support! @bernd: thank you! we are data junkies too. like to monitor data around us, cars performance, sun, moon, wind. @colin: 0.3c is accuracy, 0.01 is resolution. @elles: we are adding export function to the app, so you could export it to your computer and print. @rl: here is the link: https://youtu.be/g-dggxvfi3o thanks to all for your support!
+awesome device! just watched the youtube video. i'm a data junkie and really look forward to receive my 5 pack.
+@creator, you stated early in the campaign that the device will only have an accuracy of 0.3c, so in the app, why show the precision to 0.01c.  that seems like un-necessary overkill.
+is there a way to print out the temperatures collected  with a date stamp?  and does it go to my computer to be stored and printed out?
+where's the link? cant find at project page and updates. i need to search from internet by myself?
+happy new year and thanks for all your support and suggestions! @leo: here are the dimensions: circuit board: Ø27x6.5mm; case: Ø34x8.5mm @rl: we have uploaded working prototype video at youtube. @alejandro: thanks for your suggestion, we will see what we can do for it.
+@creator, on dec 18 you promised will upload more working prototype video, but after three updates still nothing about the video. if you dont have working prototype right now please just let me know. thanks
+i wish to know what are the exact dimensions so i can design a small stand to get the thermoco isolated by the bearig surface. thanks
+is there a way to put an option of reward for the 5 thermocos for them to come with a nist calibration certificate in the 2 °c, 5 °c and 8 °c temperature points? i think it will be a more accurate form to assure the specifications, and a more tentative reward for the people pledging to use them as a temperature recorder for the industry.
+yes, you will be able to export data via the app.
+oh, sorry, just read about your open api. thank you.
+wil we be able to export data via file or api? it will give a lot of value for quantified selfs.
+is the required battery included?
+would it be possible for you all to create a windows application for it? that way, you could have a bluetooth module on a pc, say with a good antenna to pick up all of the thermoco, and be able to monitor it from a pc/laptop instead. this could come in handy for home monitoring, and leaving the application run on a home server. that way, when away, you can monitor by remote desktoping to your pc. and even from there, you could develop the application to send email alerts, etc.
+also, is there a way in the app that we can print the data collected?
+is there a way you guys could incorporate a switch somewhere so it can be switched off when it is not being used? that way the battery is not being drained when you are not using it.
+thanks for all your support and suggestions!  @mark, alban, marcelo: we still in the process to optimize battery life. @alban: we suggest using rechargeable battery. @marcelo: the initial estimate is based on calculations and update is based on more real test. we still in the process to optimize battery life. it is complicated and we have to consider many things: for example, we can make thermoco broadcasting with longer interval, but we found iphone won't be able to reliably discover the device. we can also put the device in longer sleep but only to certain extent. also we can't turn off the radio completely which makes the device not discoverable. we will try our best to optimize battery life while maintaining good usability. we also want to provide honest update to make sure our backers are well informed. i appreciate your understanding.
+if we need to change the battery every month, i am not interested anymore, i pledge for 20 pcs, means i need 240 battery every year + time to change them...
+on your campaign, on the faq section you gave a life span of 3 month, now 1. what did change.? can you turn off the thermoco with the phone app to use it when it is convenient in order to save battery? and if so, how long does the battery last on off?  does have the thermoco some consumption when off?
+1-2 months is quite too often. any solution for it to last atleast 4? maybe 6 months?
+preliminary spec update: battery type: cr2032 or br2032 operation temperture range: -20c~70c for cr2032; -30c~85c for br2032 battery life: 1-2 month with cr2032 and room temperature temperature resolution: 0.0625c temperature acuracy: 0.3c record time: 3~10days varies due to data compression rate record interval: 1 minute, 5 minutes and 10 minutes. configurable via app. live temperature refresh rate: 1 second moisture-proof casing with o-ring
+thank you for all your support. we made it! @bernd: thank you! :) @crispin: we added 5 and 10 minutes interval and it could be set via the app. from our testing, it won't save much battery since the cpu need to be awaken periodically for housekeeping. thermoco broadcasts the temprature data. it also allows app to connect for fast update, which will burn much more power. when not connected, thermoco broadcasts continuously so the iphone/gphone could find it, which consumes battery. it can't trigger devices such as air conditioner. @marcelo: we recommend using a clean wrap. @alban: we are contacting manufacturers.
+congrats!!
+hello! if the sample interval was extended (e.g. once every 5 mins instead of 1 min) would this extend battery life? if so could this be set via the app? if not, maybe the thermoco only broadcasts when triggered by the app instead of continuously? (you may already be doing that last suggestion.) basically just trying to see if there's any way to get more than 3 months. also, can this be linked to ifttt to trigger air conditioning, curtains closing, etc, if temperature hits certain thresholds? thanks!
+can the thermococo be waterproof (i mean to control pool temperature)?
+can we have different colors ? like black
+thank you all for your support! @jon: yes, it could be under the rain, @ciba: operation temperture range: -20c~70c for cr2032; -30c~85c for br2032 . so no problem for beer mash temprature. we do not recommend to throw it into beer, recommend using a cleanwrap. @alex: we have created a new reward for 20. @macello: that is really a great suggestion. thank you! we will put it on our to do list. @rl: we are working on new videos. will update later. happy holidays!
+looks like creator not focus here, but if possible please upload more working prototype video?
+hi.  i would like to monitor the temperature of my daughter, but i'm at work. what to do?  she has a tablet with bluetuch to read the thermoco temperature and sends it to a website through tablet wi-fi, with the registration (user and pass). i can see this at work, updating the temperature.  let me know if i was clear in my suggestion. congratulations.
+how about for more than 5 like 10-20
+hey. i was thinking of using thermoco for controling my beer mash temperature ( lets say 64-68°c) - but that's not the point. will i be able to just throw it in or will i have to make it waterproof (cleanwrap) - or will it be that good to withstand higher temp. water!?
+in another comment you said it is moisture proof. is that mean it could be under the rain?
+@bernd: yes, you can easily name them and switch between in the app. @jon: yes, it can be used in a car to see the temperature.
+@izwan: currently we have not develop app for pc yet.
+if i have five thermocos can i name them and switch between them in the app easily?
+it can be use in a car to see outside temperature?
+aside from using phone to monitor the temp, can we use pc to monitor it as well?
+that is great!
+android app is done. we are testing it.
+any update in more than 5  in a pledge?
+any news on the android app?
+@ingo: we will release open api, data can be read from many smart devices including the devices you mentioned.
+will there be any other way to read the data, other than from a smartphone? will an api be published so that a rpi with ble or a arduino with ble can query it?
+thank you all for your support! we are adding high and low alarms in the apps. we are working on more updates.
+high and low alarms...yes, very useful
+what i meant was a sampling time longer than 1 minute...5 min would be perfect but user adjustable would be ideal.
+hello. i would also really appreciate a temperature alert warming. i hope to see this feature avaiable =)
+has any work been done on the android app? if yes, can we see some screenshots or a video?
+i just pledged for 5 thermocos but would really like 6. if i increase my pledge by $9 can i receive 6 please? also, i agree, having a sampling time longer than 5 min would be perfect. could it be user adjustable?
+the temp warning is a major thing its needed please add to app if its not on there
+i just backed the product. this product might also be used as as a medication tracker. for example insulin for diabetic must be stored within a consistent temprature range. there was an indiegogo project called insulin tracker which proposed a similar sensor for that goal.  see https://www.indiegogo.com/projects/insulin-angel-the-smart-medication-tracker/x/8100088#/ or http://www.insulinangel.com/ unfortuately they are not able to deliver their product yet. two suggestions: - can you add an alarm in the app if the temperature is outside a specified range? (e.g. you should take action to safeguard the medication because the temprature is too high or low). - please add an option to be able to use a 5 or 10 minute recording interval. that would probably increase battery life in the fridge. two remarks to improve your presence on kickstarter: - the video does not have sound - the device looks very big on the thumbnail of the video. please consider showing the coin as well
+@alex: we will add this option. thanks!
+@neomod: it is moisture proof, it is ok to use it in fridge. thanks.
+also, how can i back to receive two thermocos?  can i double my pledge to receive the second as an add-on?
+very cool - i just have a few questions: how accurate compared to other digital or analog thermometers?   what is the margin of error? can the sensor be mounted via magnet or adhesive (included on the sensor)?
+also would you do a discount on 10/20 thermoco?
+what about closed space obv like a fridge its closed in so what would be the distance then?
+hi, just a curiosity: is it waterproof? since i'm planning to use it in my fridge it would be nice not to worry about. thank you for your time.
+@alex: it communicates with the phone via bluetooth low energy protocol. the max distance is 100 meters in open space. @pavel: we will try to add this option. thanks. data in the unit will be lost when the battery is drained. @mark: we have tested in our fridge and it works fine. thanks a lot for the great suggestions, we are working on them.
+how does it communicate with the phone and whats the max distance between the thermometer and the phone to get realtime updates
+thanks for info, seems reasonable for most uses. i would suggest a possibility to switch to a long-term mode, that would sample every 5 or 10 minutes, but could be used for longer periods, up to battery life. btw are the collected data kept when the battery is drained?
+hei, i just pledged 86 dollars for 10 pcs. will it be able to send real time reading inside a refrigerator? how will it send the signal through the metal body of a fridge? also i suggest giving more information on your kickstarter page and maybe a better introduction video? this way you can attract more backers? it also reassure the would be backers that this is legit. and that you care about your product. presentation is very important. let us know if you need help about anything. -mark
+preliminary spec: battery type: cr2032 or br2032 operation temperture range: -20c~70c for cr2032; -30c~85c for br2032 battery life: 3 month with cr2032 and room temperature temperature resolution: 0.0625c temperature acuracy: 0.3c record time: 3~10days varies due to data compression rate record interval: 1 minute live temperature refresh rate: 1 second
+what rage of temperatures can this device accurately discern?
+hi, creator. what is the number of records and sampling rate, how long history can thermoco remember? how long will the battery last? thnx.

@@ -1,0 +1,636 @@
+mine has never worked well for data transfer to a pc so i've just never bothered.  as mentioned, i have pc, so there's usb a plenty. as a high speed charger mine is still going strong and it has several 6-10' lighting and other usb cables running to various points of the room
+backed the first octofire project. died in less than a year. now this one already has a dead port on it. can't say the design with the cords going in all directions makes much sense either now that i've been using it for awhile, it just makes a big mess that is difficult to manage. definitely won't be backing the next one they come out with.
+@creator.  disappointed with the output power for my android devices.  even mogics bagel usb produce higher power.
+i've both the original octofire charger and octofire hub. i find the charging high amp devices much faster on the charger than the hub. cables are the same. all samsung original micro usb cables. any ideas? also, the hub is not very stable under windows 10. frequent disconnection of all usb 3.0 devices. on the mac ok. stable for months.
+as with turaj pilehvar below from last year, i'm finally utilizing (or trying to) my octofire and it makes a very flaky usb 3.0 connection with my computer when trying to sync iphones. no sync will complete as itunes says the phone has been disconnected shortly after the sync starts. i have now used it with 2 computers (brand new one with same result) what can be done about this?
+@evan @iiya : our support team will contact you soon.
+@llya i noticed the same thing. i have to unplug ang plug the usb cable from computer too to restart my octofire. i have to do it everytime, because if i don't, i can't charge my devices.
+interesting, it seems that after a pc restart the hub reduces the power it sends to the charging ports to 0.5a. taking out the ac power reduces it even more to 0.1a. plugging the usb cable from computer to the hub out and then back in seems to restart the hub and solves the problem so that my n5 can draw 1.5a again (right after pc restart it's limited to 0.5a)
+@creator  we won't hold our breath.  seems like it's been weeks since your support team has responded to anyone on the comments section here.
+@mark @turaj @sultan our support team will contact you soon.
+hello skiva. please do not ignore my message. i need a replacement. waited more than 6 months till it arrived and i got a defect. i have no time to rip you off. i just want what i paid for working!!!
+@creator still no word from your team about my non functional hub.  i was not impressed when i got an email about all of your black friday deals (including the defective hub) when you can't even get your support team to help with existing units...
+@creator  i still haven't heard back from your support team...
+please reply to my email. no response more than a week
+all the connection i received was for android not what i requested
+@haroldo our support team will contact you shortly and update you on the request.
+i didn't received any traking information, and i'm still waiting for my product. need more informations.
+@vincent@mark our support team will contact you shortly and update you on the request.
+do you have any tracking information, coz i haven't received anything yet
+wow ... after waiting more than half a year i got a defective product. and no, don't tell me i need to re-plug the cables and ac plug. the free usb 3 cables worked when i plugged them to my pc the skiva light just turns on but they do not charge. no ports do!
+@rick, thanks for your support and understanding. we are glad to know that the product met your expectations. our support team will contact you shortly and update you on the request.
+love it.....except for one thing.....how can i turn the lamps off......it's like having a night light on that i really want to turn off. thank you!
+@brian our support team will contact you shortly and update you on the request.
+my unit is not charging anything or transferring any data. the light is on and the power adapter is plugged in as is the usb3 connector. nothing charges when plugged in. i'm hoping i got a defective unit with the comments below being so positive. please help!
+@turaj thanks for your feedback, our support team will contact you shortly and assist you with the issue
+anyone else having issues with the iphone 6 plus syncing over the octofire?  when mine is plugged in, it connects and disconnects every 5 seconds.  the issue does not occur when i connect directly to my pc.
+@andi thanks for your support and understanding. we are glad to know that the product met your expectations.
+got mine.... tested and work as expected without flaw. no heat at all... thank you...
+@li-chi ku thanks for your support and understanding. we are glad to know that the product met your expectations.  @lightasafeder we understand your concern, our fulfillment team has contacted the shipping forwarders and we will get back to you as soon as we get any update. @phil thanks for your support and understanding. thanks a lot for writing a detailed and informative review about octofire-hub. @syd z thanks for your support and understanding. we hope the product met your expectations.
+i didn't receive the tracking information but have received the octofire package itself today in taiwan. it works perfect as a charger and a usb 3.0 hub in my preliminary test. thank you skiva team for the hard work. if one day you have a product for usb 3.1 type c please do let us know. : )
+support team never contacted me to resolve my issue. still was not able to receive my item despite it says that item has arrived since october 2 in country of destination. im sure this is not an issue with the customs as i've been shipping stuff with no issues at all. rs258139114nl
+i just received mine. i will provide an update after testing it thoroughly.
+hi. i haven't received a tracking number. thanks.
+all received now - usps still showing as "printing packing label".  cables now connected to hub :)
+@teetach@simon our support team will contact you shortly and update you on the request.
+does anyone still not receive the tracking number?
+yeah - might want to get them to actually contact me...
+@steffen our support team will contact you shortly and update you on the request.
+so are you shipping mine anytime soon?
+@lightasafeder @simon @myron our support team will contact you shortly and update you on the request.
+ok - i am having the same issue with an ipad 2 - now i understand why (sort of).  i ordered some short lightning cables from skia a week ago and to my huge surprise - a shipping label has been created and nothing shipped...
+tracking says item has arrived since oct 2 in country of destination but never got it delivered rs258139114nl
+connected to my mac i'm seeing the same thing as @tony leung with an ipad 2 saying "not charging". newer devices connected via lightning port seem to charge at full speed. one thing i noticed in system information is that my mac sees octofire as a usb 2.0 hub when connected to iphones and ipads. i think when it is connected to the ipad 2 it only wants to charge at 500 ma max power for usb 2.0, thus the reason it says not charging despite the hub being capable of a lot more. i saw the same thing on the usb 3.0 hub i was using before, although that hub didn't say it was capable of charging at higher power.
+woah! copy huge files (1-2gb each) is blazingly fast between my 4 hard drives using this hub. previously 4 hard drives were connected to an prolink usb 3.0 powered hub and got around 50-60mb/sec. now, min 70-100mb/sec. i'm amazed.
+@patrice our support team will contact you shortly and update you on the request.
+http://www.skivatech.com/register i cannot find the device in the drop down in the page to register for free extended warranty.
+@chris  5.5 amps at 19v is the output rating of the power adapter. please be assured that the total output of the octofire-hub is 19.2 amps / 96 watts (2.4a / 5v per port), when used it with the provided 105watt (19v / 5.5a) power adapter. @shreyes  thanks for your support and understanding. we are glad to know that the product met your expectations. we will make sure that shipping forwarders take extra precautions to avoid any damage to the package in future. @lester thanks a lot for writing a detailed and informative review about octofire-hub. @tony leung we understand your concern, please try using the octofire-hub unit with the provided power adapter. if the issue still persists, please contact our support team at support@skivatech.com and we will try to resolve the issue. @tony hedberg @eric our support team will contact you shortly and update you on the request. @sekijyra@noman@aaron@jakary thanks for your support and understanding. we are glad to know that the product met your expectations.
+hi, received my charger today and i thought it packed something like 16 amps, but it only support 5.5 amps??? that is not even close to 2.4 amps per port....  was that documented somewhere?
+my package arrived yesterday very badly packed. the plastic packing mould was flimsy and was not supporting the product at all, the box was bent out of shape, but thankfully the product was fine. product is good will give reviews after a week's usage.
+i received mine two weeks back. i have posted a few photos https://lesterchan.net/blog/2015/10/06/octofire-96w19-2a-8-port-usb-3-0-hubcharger/ if you are interested =)
+here is my situation.   the octofire charges ipad 3 when usb is not connected to my mac pro 2008 (lightning symbol).   when usb is connected, it drops down to trickle charge as indicated by "not charging" on the ipad 3 (no lightning symbol). my mac pro 3 will charge the ipad if connected directly (lightning symbol).  so it seems to rapid charge when not used as a usb hub but slow charge if used as a usb hub. do i have a bad unit or is this what everyone else is seeing? thanks.
+got mine!  working nicely, charges my phone nice and fast.  two questions:  can i use this to power things like a chromecast and firetv stick?  since devices like those are powered through usb chargers like a phone, without the charging part.  would free up some outlets for sure, having everything go into one rather then each using it's own.  and the other thing being: is there a way to dim or turn off the bright white light on top?  while i love the look of it, it keeps a room lit up quite a bit at night.
+received my hub yesterday, everything works as expected, thank you skiva job well done
+got my octofire today, so far charging 6 devices and seems fine. will review it with pics by this weekend. good work skiva.
+i receaved it today. it work perfectly. thanx
+received my octofire 8 port hub today :) had to pay yet another 20$ for customs and transportation. also my promised 8 x 0.5 ft micro-usb cables was missing :(
+received mine earlier this week. now using as hub for my 4 hard drives. so far so good. i've another spare for traveling use. previously i bought the original octofire for my room. been using daily as charger for all my devices. reliable.
+@hmanny@azlan@simon@shreyas@alfi our support team will contact you shortly and update you on the request.
+still not receiving the tracking number!!!
+hi, been using mine for 2 days, i have downloaded an app (ampere) to measure amp on both my galaxy note 4 and galaxy tab s. surprisingly reading measured are very low. below are the details: with blue cable connected to macbook air: 1) galaxy note 4, reading between minimum as low as 10ma to maximum 1150 ma. average is at range around 180ma. 2) galaxy tab s, reading between minimum as low as -340ma to maximum -720 ma discharging state. average is at range around -190ma. with blue cable un-plugged: 1) galaxy note 4, reading between minimum as low as 420ma to maximum 730ma, few of sample reading. average is at range around 180ma. 2) galaxy tab s, reading between minimum as low as 10ma to maximum 910 ma charging state, average is at range around 560ma. this is very bad, my understanding it should be 2.4 amps per port? test done using samsung original cable. please advice. thank you.
+@shreyes - have you tried to track the item through the shipping website?  i got a message with no link to the courier company so found the courier company name and checked their website.  i found nothing.  i then found an email from skiva hat had the link to the actual courier website and tracking worked fine. just working out how fast the ipad charges - it seems slow but i was quite impatient.  i just ordered two shorter lightning cables from skiva as well - here's hoping they ship sooner ;)
+hi my tracking id is rs306657062nl on postnl, it's been 2 weeks and there is no update on my package. what's happening ?
+i just want to ask. why my galaxy tab shown not properly charge (mean lightning with cross in the middle). but with my tab original charging station there was nothing wrong. , i already tried what its written on the manual and still not working. but my friend ipad was properly charge (got lightning icon) , overall its descent but curious about my tab problem charging
+although now i need some shorter lightning cables...
+ok - it is here and working exactly as planned.  only one usb port on the computer is in use and i have two idevices connected and charging/synching ok.  it is exactly what i have been looking for.  i have another usb hub connected to it with headphones being charged - again all ok.  good work - just some poor comms about the length of the delay.  bring your a game next time and we can talk.
+@hoe@simon@tmh@david@diederik  thanks for your support and understanding. our support team will contact you shortly and update you on the request.
+ignore the tracking mail. i received without any mail. just want say the hub is slow for charge ipad.
+well that is exceptionally disappointing.  the ac/dc power unit was never mentioned or shown that i recall.  thankfully this was always aimed as a home product but none the less quite disappointing.
+diedrik-  agree with your comments, mine finally arrived, and very well made, but i think for travel i will still take the wonderful skiva 4 port charger, which is one brick and a power cord.  i think skiva should have shown the separate power supply in the photo above, i may have had second thoughts........... still, this is a quality 8 port usb dock.  just a bit too big to travel with
+@diederik - what do you mean "what a huge power supply"?  is that a good or a bad thing?
+still waiting to hear anything as to a tracking number.  any chance of getting one at some point?
+i received mine. first impression is good but really ... what a huge power supply!
+tracking number doesn't seem to be active.  i get this message: 没有查询到这个运单。请致电我公司查询进一步信息 which i think translates to: no inquiry into this waybill . please call our inquiry further information
+@niek@simon@apit@sheldon@dominic@chris@kyrie thanks for your support and understanding. we appreciate your feedback as it helps us to improve our products and provide better service to our customers. we hope the product meets your expectation.
+received mine in the netherlands. i totally agree with @simon granville by the way.
+interesting that the unit is for sale on teh skiva website for $79.99 rather than the originally planned $149.99
+tracking number received so hope to get my unit soon.  i will be judging skiva on the product more than the kickstarter campaign in the long run.  looking forward to setting the unit up early next week (the courier however has a pretty poor website - that defaults to chinese every time it refreshes...)
+will we be receiving tracking number?
+i've posted a comment requesting for an update on september 17th, and i've not gotten any response whatsoever. again, please update me "on my shipment to uae. please update asap. thanks."
+asked for updates a couple of days ago but received my set today. guess it was already on it's way when i asked.
+looks like i finally got mine.  the product is great, works as designed and advertised, and has a great place in my living room for all of our devices. that being said, i will never back anything from skiva again because of their lack of transparency and ambiguous updates.  i don't care that it was delayed, because that happens with things like this.  what i care about is that they seemed like they refused to give any good information, refused to help their backers, and refused to provide decent customer service like a good company should.  i pay for not only the product, but the customer service as well.  i feel as though i paid for the service that i did not receive.
+omg! i just received an email with tracking no. and it arrived in the warehouse in my district already! i am so excited! i hope i can get the hub before mid autumn festival holiday so i don't need to wait an extra few days.
+@nigel@richard@simon@skipper@healthcliffe@rl our support team will contact you shortly and update you on the request.
+just receive my octofire without any email tracking info, lucky i at home during the delivery.
+tell me, how can you be selling these on your website, but not able to fulfil your kickstarter pledges? where is my product?
+an update would be nice!
+i got the standard "we will ship within the week response".  i amhoping they stick to that.
+notice the standard "our support team will contact you shortly and update you on the request " answer. not that it ever happens.  what i really like is the dick who finally gets one then criticizes the rest of us poor saps who sit with empty promises. what a deal we got!
+guys. can you please post an update? we're some months late and it's a couple of months since your last update posted on here. would just like an estimate on when we you think we can expect shipping and when to expect delivery. thanks.
+please check pm
+@skiva, awaiting your reply for my problem.
+@james@vynsnt@tc@ben@sippakorn@simon@paul@gordy@aaron our support team will contact you shortly and update you on the request.
+can we all get a brief update? it's been about two months since you've updated us all. just wanting to see what to expect for this coming month.  thanks
+hi. i am still waiting for my product. please advise on expected delivery.
+please keep me in the loop too. i haven't got any tracking info at all. thank you.
+just like many others, i would like to know when will octo fire be shipped ?
+when is this going to ship?? haven't received anything in months
+it would be good to get an update on when my package will ship - i have been a staunch supporter during the campaign and production so let's get some action.
+please update me on the status of my shipment.  i did not get  survey
+whent will i receive my shipping notification? no update for months.
+i haven't gotten any survey or anything. an update would be appreciated.
+@robert@chatchawan@tim@dominic our support team will contact you shortly and update you on the request.
+whent can i receive my shipping notification? no update for months.
+@skiva technologies, i still have not received my tracking and shipping information for my double pack:  2 x octofire 8 port usb 3.0 hub/charger. any update would be really appreciated... thanks! :)
+i use my quad power pack regularly, but want my octo.  please provide an update on shipping soon
+no news on my end yet. appreciate any updates from your side.
+with a black* connecting wire - my bad
+got my 4 x octofire set today - ripped one open. packaging seems decent in a white printed carton. the octofire sits nicely in a blister pack sleeve (paper thin transparent plastic sleeve like inside biscuit packets). i (thankfully) got the right charger for my region - as someone mentioned before there were 2 additional small micro usb cables included. a user manual and a small folded 2 pg booklet with a "happy/not happy" question and an offer for refund in case you're not" - a nice gesture imho - but one of the sides was printed upside down (was it intentional? looks weird) the unit itself is very light, i expected it to be heavier but i guess thats a good thing. clean finish, ran the wire along the wall to my desk and when you switch it on, the logo on top glows to give you a good indication that its working. the connector cable to the pc is a bright blue though - considering that i'd rather hide the wiring or make it conspicuous (why i loved that the octofire was all black), i found it strange they couldn't match it with a blue connecting wire, but then again its a small pain point - overall i'm happy with the unit so far, a job well done guys! congrats, but just some critical feedback - you have got to improve your communication and have more updates to your backers in the future.
+just received my tracking info!! i'm very excited to receive this. thanks for keeping going despite the complainers whinging about time and missing the point of kickstarter altogether.
+@matt@fransicco@patrick@regina@eric@mihaela@aaron our support team will contact you shortly and update you on the request.
+@skiva technologies i wish to confirm that you have received my survey and has the octofire been shipped yet? cheers.
+received mine last week.  haven't had a chance to try it out yet but the packaging looks like it is ready for store shelves (maybe they should have worried less on packaging and more on getting these out). i'll let everybody know how it performs as soon as i have a chance. apparently complaining magically gets you your unit.
+hi @creators, i still have not received my tracking and shipping information for my double pack:  2 x octofire 8 port usb 3.0 hub/charger. an update would be great... thanks.
+shipping info and tracking number please. thanks.
+super early bird backer here can i get the tracking number. thanks.
+i still haven't received any emails from you. could you update me on my shipment?
+thanks for update. may i know when u will send the tracking number to me?
+@brian@abdul@bill our support team will contact you shortly and update you on the request.
+double pack:  2 x octofire 8 port usb 3.0 hub/charger when can i expect mine? i have heard nothing from yall since june please update as this is uncopastic
+@creator.  i am super early bird backer but yet to receive any shipping notification.  is it due to ac plug is using uk?
+how about me?
+@kirpa@christine@scott@robert our support team will contact you shortly and update you on the request.
+still waiting on shipping notice myself as well.... local friend has already received theirs :( .
+@skiva - received my tracking mail 2 days ago, tracking on the couriers site says that the number is still invalid. what gives? usually takes about 12 odd hours for the tracking to go live but it still isn't recognizing the shipment tracking - can you please check if the shipment has, a) actually gone/left? b) you have provided the correct tracking number @others - any reviews of the octofire from those who claim to have received it would be great - like someone else mentioned, an unboxing, etc. would really give some relief to the rest of us waiting for ours
+still waiting for a shipment notice, please update us? thanks~
+this is turning out to be a disappointment.
+still waiting for an update...
+@shreyas@chai@matt@skipper@leslie our support team will contact you shortly and update you on the request.
+hi evan do you know what is the url of the courier company ?
+i have been waiting patiently for too long. please provide me with the shipping details. thanks~
+shreyes shiv : wait few hours and it will appear. i had the same thing than you yesterday, and this morning the number was ok.
+my unit is working well... except that, when i plug in my ipad 3rd gen, the ipad says it's not charging.  it's actually just such a low amperage of power, it charges, but really slow!  i contacted support... after a long delay, they want me to send the hub back and they'll send me another hub... so, i'll have to pay postage for that and be without a hub for... a while? anyone else have problems charging devices?
+hi skiva, i received a mail from you saying that the package has been sent via nlrpost. i looked it up and could'nt find it it. can you please provide me with a url of the courier company.
+i think we've been played for fools. this bunch is a joke.
+"so that undoubtedly clears up a lot of the answers and gives us a concrete estimate on everything, right??? or does it just repeat what was already said a bunch of times and give me no real bearing on what to expect and help nobody?" seems to be the case...  it is hard to stay positive and optimistic that we are not just being swept under the rug here.....      i have not heard anything at all leading me to believe that i will receive mine soon......
+just got my tracking number for my 4 units of octofire, the tracking number isn't live yet, but its something =). any reviews of the octofire so far from people who have received it? build quality, output, charging, no dead units (hopefully), etc. etc.? will help the rest of us know what to expect and if its worth the wait or not...
+@chris our support team will contact you shortly and update you on the request.
+@sven@gregoire@noman@francisco our support team will contact you shortly and update you on the request.
+now wait guys....i did get an extremely "helpful" email from support. "we understand your concern regarding the delay in shipment. we have processed all the orders in batches. the time taken for the delivery of the product depends on the shipping company and shipping address. we assure you that we will share the tracking details of the shipment within couple of weeks. thanks for being patience with us. we appreciate your generosity." so that undoubtedly clears up a lot of the answers and gives us a concrete estimate on everything, right???  or does it just repeat what was already said a bunch of times and give me no real bearing on what to expect and help nobody?
+deer skiva,   i am happy that you took some of my suggestions to heart and have released a 7 port stand version of a charging station as per my suggestion.  well, actually my suggestion was a change in cap to the octofire that would allow for a stand, but clearly close enough. i am saddened though by the fact that it has been available since august 6, and "on sale" at the same price as the octofire ever since. is there any way that you could sweeten my deal by adding a  standcharger 7-port multi usb charging station  [model no.: ac121] for my contribution in your product line and my patience in receiving the multiple octofire 8 order in place? thank you for your consideration.
+skiva, this is it, please get me a refund at the earliest.
+so this is what i received from them today.  still not an answer and still not acceptable.  if it is truly within a couple of weeks they should be able to provide a ship date. hello francisco, we understand that had been a delay, but we assure you that you would receiving the product within a couple of weeks. we respect our backers and their views, we survive with their support. we appreciate your patience and understanding.
+i also would like to know a date when my package will be shipped. atleast write an update so that everyone knows what exactly you guys are doing!
+@francisco@chris@guilherme@shreyas our support team will contact you shortly and update you on the request.
+how do i get a refund?  second kickstarted of yours i've backed.  very happy with the first one.  now i'm not. no communication after missing your timeline by 5 months is unacceptable. i either want my money back or if you like i can come by and pick mine up. but no matter what i expect an answer more detailed than "our support team will contact you shortly" that is also unacceptable.
+skiva, your support team (if any) has never made any contact yet. also it is not understandable why some has got and any not. also no one has shared any pics and reviews anywhere of what they got/unboxing etc. please reply in detail what is going on and definite answer, now your kind of vague response is getting on our nerves. why you are not sure who is shipping firm, how many batches and what is interval between shipping. from your responses it looks like you mailed a dozen or so devices may be hand made to some backers just to gain time.
+i am also in the same boat as so many other people.  no real updates other than "shortly", which really tells all of us absolutely nothing.  i understand these kind of projects can have difficulties, but the complete lack of transparency and continuous vague updates will really make me think twice backing any project by these guys again. i just want to know when my product will get to me.  if it is delayed, thats okay, i just want a date, even if it is a guess.
+if possible, i would love to know where is my product, or at least my money =)
+i would like to know a date when my package will be shipped. atleast write an update so that everyone knows what exactly you guys are doing.
+@david@justin our support team will contact you shortly and update you on the request.
+i would also like some idea of when this is going to ship and arrive
+i would also like a shipping date for my items if possible
+@jeff our support team will contact you shortly and update you on the request.
+can you please provide an update?
+@bryant@diogo@noman our support team will contact you shortly and update you on the request.
+will greatly appreciate if you can provide an estimated date where all the backers will get the confirmation email with tracking details.
+shortly is not a date guys
+skiva, please clarify, "we have process" or "we have already processed"???
+@simon our support team will contact you shortly and update you on the request.
+@bill@bryant we understand the importance of frequent updates. we respect our backers and their views, we survive with their support. please be assured that we have process all the orders. you will receive confirmation email with tracking details shortly.
+@waled our support team will contact you shortly and update you on the request.
+i have not got any device even tired of you returned my money and do not want your apparatus
+i have not received any confirmation email. is there any status update on this as what i can see was update dated july 21, 2015.
+@skiva does this comment "please be assured that we have process all the orders." mean that all orders have been assigned to a delivery company?
+i have not received confirmation?
+@steffen@diogo@hmanny@noman we understand the importance of frequent updates. we respect our backers and their views, we survive with their support. please be assured that we have process all the orders. you will receive confirmation email with tracking details shortly.
+@colby our support team will contact you shortly and update you on the request.
+i got mine. it arrived sept3rd, i picked it up yesterday. had 2 usb-micro short cables in addition to the usb b one. i'd agree that i would prefer the led to be dimmer, but that's a design choice and not a major concern. tape does solve much of the issue. as there are many air-flow ports there is much light leakage on the sides too, taping the top wouldn't stop that. i hope in their rev2 of the product they'd consider the light leakage as an issue for their customers. all in all though, i think i'm satisfied. i'll try to get it loaded out and see how good it works in a few days, but so far it charges my largest tablet fine.
+any update, or info about shipping?
+octofire, my last post was august 25 and today is sep 10. you are not keeping up promises and i am still doubtful it will show someday in my mail. if you really are serious, provide complete details on shipper, tracking and shipping method. i will not take the pill anymore. deliver it next week or consider never shipped.
+and mid-september is coming, how about the shipment? any update?
+hi  still not receive the item !!!
+i've not gotten any update on my shipment to uae. please update asap. thanks.
+@ishan our support team will contact you shortly and update you on the request.
+@chris our support will contact you shortly.
+had an address change but can't find a link to update my address.  how do i change it so i get my package when it ships?
+got mine a few days back. only one issue, there should be an option to turn the led lights off.  i have to put something on top and side to block the light in order to sleep :(
+@xobb@aaron@kipra@lightasafeder we assure you that all the orders will be fulfilled shortly. the time taken for the delivery of the product depends on the shipping company and shipping address.
+i agree that you guys should consider a list of order batches. i was expecting this item a while ago and would like to know roughly what batch number i'll be in to get a better idea of timeline. just so i see something is happening.
+still waiting for the shipping info.
+please provide information on how many of the backers orders have been shipped so far and how many are being dispatched daily so everyone has a clear estimate on when to expect theirs. if you also indicate (transparently) the mode of shipping being used, economy/post/express/etc. it will certainly help us get an idea on when to expect our octofires.
+did not receive any shipping number. any updates???
+@vynsnt we are processing the orders in batches. please be assured you will receive confirmation email with tracking number at the earliest.
+@fred  our support will contact you shortly.
+hi skiva, still have not received my item. please advise on expected delivery. looking forward to your prompt reply. thank you.
+i received my unit.....however there were no 3 foot lighting cables as requested..please advise.
+@rl@myron@joseph we do understand the importance of frequent updates. we are processing the orders in batches.  please be assured you will receive confirmation email with tracking number at the earliest.
+@matt  we are glad to know that you have received the product. we hope that the product met your expectations. please feel free to contact us if you need any assistance
+hey, there seem to be a lot of miffed people on here in the comments section and i can't imagine the pm's you guys must be getting. is it possible to put out a new update with how production and shipping is going?
+i just want to make sure that my pledge didn't get missed. i haven't heard anything and others claim to have received their units.
+backer #22, still awaiting my tracking number
+received in san francisco bay area.
+@kenneth  our support will contact you shortly.
+@simon@biadro thank you for your support.
+@leslie@jakary@thierry@chris@stan we respect our backers and their views, we survive with their support. we strive to make great products and make sure to back them up with world class customer service. the octofire unit that is available on our website (for 50$ retail price) is skiva powerflow octofire (ac109) 8 port usb charger. it does have hub functionality and does not support usb 3.0.the product that you guys have backed us for is octofire 8 port usb 3.0 hub (ac112) with rapid charging (96 watts). they are two different products. we are processing the orders in batches. you will receive confirmation email with the tracking number  within a couple of weeks.
+biadro - there is no point explaining that - people don't bother to read the comments that have explained this multiple times.
+i guess we're all feeling kind of ripped off!! any response, skiva?    any thoughts?   any anything?
+skiva, how about you deliver this way overdue product before you make any attempts to sell me anything else. time to focus on the people who have already funded your product and waited far to long for delivery
+that octofire on sale for $39.99 through their email/on their website  is there previous model ac109.(2.1 amps, 84 watts) we have/are getting the upgraded model ac112 ( usb 3.0 ports, 2.4 amps, 96 watts, smart detection, 5gbps data transfer) i was almost offended also......
+today on your website; "octofire - $49.99 - in stock" !!!!!!!!!!!!! we were fools to believe in your promisses. we paid more for less service... it's not the way to say thank you to your backers.
+i think exactly the same thing: "how can it be that this can be bought online and we (your original supporters) are all out here waiting for ours. we helped you fund this octofire..... please honor your commitments."
+gotta tell you, i feel a little jipped. i got an email saying i can purchase the octofire 8 port usb 3 hub for $40, but i supported the kickstarter campaign for $74 in february. it even say the regular retail price is only $50. i was under the impression that if i helped you acquire the volume sales that you need to take the product to production, that i was offered sort of a discount, not more than the regular retail price.
+how can it be that this can be bought online and we (your original supporters) are all out here waiting for ours.  we helped you fund this octofire.....   please honor your commitments.
+how can i get a refund, i couldn't wait any longer and had to go purchase an alternative product yesterday. thanks
+7months later and still only one thing is certain- you have my money and i have empty promises
+out of interest how many units have shipped?
+@diogo we are processing the orders in batches. we are expecting to complete shipment of all orders in next 2 - 3 weeks.
+so mid-august is gone, any update?
+perfect timing - just before the long weekend so i can get more sorting done in the study to find a home for thsi!
+@norman @joshua @kappuchino we are processing the orders in batches. we are expecting to complete shipment of all orders in next 2 - 3 weeks. we appreciate your patience and understanding.
+have not heard about shipping or anything for a month ... can you specify when it will finally arrive in germany? thanks
+we still have no clear answer why some people got octofire if it is yet not shipped and why skiva is not giving a definite date or time frame for shipping? siva tech, please avoid any suspense and use of word "shortly", if you are waiting for reply from shipping company, do you have handed over pledges to them for shipment? please come up with definite and clear answer and not like you are buying more time.
+any updates as far as timeline for full delivery?
+@ kenneth please be assured that we will process all the orders at the earliest. you will receive confirmation email with tracking details shortly.
+@ rl @ aaron cheah please be assured that we will process all the orders at the earliest. you will receive confirmation email with tracking details shortly.
+@ xobb we take immense care to maintain high quality standards by multiple checks to make the product durable. we provide 1 year warranty with our product with all required support and take the responsibility for performance of the product. we will resolve the issue at the earliest.
+i ordered 2 back in february but haven't seen a thing. is there any update on when they will ship?
+@ turaj we apologize for the inconvenience caused to you. our support team will contact you shortly and resolve the issue for you.
+@ marvin our support team will contact you shortly and update you on the request.
+still awaiting email with tracking number.
+any news for mine?
+since we've already got someone having issues with this thing, what's the malfunction policy for this?
+if you haven't sent my order yet. is it still possible to change it from 1 octofire incl cables --> 2 octofire without cables? i have enough cables now. thank you
+got mine this week and i'm having an issue with it already.  device manager shows (unknown usb device) and (device descriptor request / port reset failed).  anyone else having this problem?
+backer #22, hope will get mine soon :)
+@douglas@noman we assure you that all the orders will be fulfilled shortly. the time taken for the delivery of the product depends on the shipping company and shipping address. we will send confirmation email with tracking number shortly with you.
+i am very disappointed that i have not received my order. would someone please tell me what is going on. you took my money, where is my order ? please respond.  douglasfturner@gmail.com
+hi skiva team, how can joe get one if product is not shipped yet???
+great to know that the product is out there!  can't wait for mine!
+@joe we are glad to know that you have received the product. we hope that the product  met your expectations. please feel free to contact us if you need any assistance.
+just receive the octofire. i'm one of the initial backers and located in canada.
+@rl @justin @simon we assure you that all the orders will be fulfilled shortly. the time taken for the delivery of the product depends on the shipping company and shipping address. we will send confirmation email with tracking number once the shipment is done so that you can check the status.
+hong kong backer #22, hope to get mine soon.
+@simon, i am also in aus, backer number 567 and i am waiting on 20 of the little blighters for several clients
+great news - i think.  backer 425 here but in oz so i am not sure the implication of that.
+@ simon we will be sending orders as per backer id’s and based on the location as we need to use different shipping company based on the shipping country
+@apit  thank you for your support and understanding.
+@noman @chris : we do understand the importance of frequent updates. we do not want provide any wrong estimated time and keep you waited. so, we waited to post update till we had everything ready.  we appreciate your patience and understanding.
+@skiva technologies "you can except the tracking details in next 2-3 weeks." i think it was this that most people were exceptionally frustrated over.  with continual requests for a timeline, the most anyone saw was some form of "soon", which seemed an awful lot like hand waving the questions away, and made a lot of people (including me) nervous that you seemed unwilling to give any time estimates.  it appears that it was pretty much the lack of openness and transparency that got to a lot of people. thank you now for providing us with an estimate for beginning shipping.  i am positive that just having a number to tie to it will ease a lot of people's worries.  please let us know if there are any more delays and by how much.  this would keep at least me in an understanding state.
+dear skiva team, thanks for positive update. we are backers because we trust you and your words. i take back what has offended you most but we reserve our right of comment and ask when and if timelines and commitments becoming bleak. i will wait for tracking details and hats off to you in anticipation.
+i think people do not understood the meaning behind crowd funding. you are not purchasing from amazon.com or even ebay. it is through good faith that the creators of the projects to provide the backers with the first release of the product they are creating. delays occur with crowd funding  projects. it is inevitable. i've even had a project that i backed that failed the final inspection and had to restart almost from the beginning but the backers were more than patient enough to wait a little longer. it's best to have a working product than a product that would break after one use. as to skiva, they have kept their words. i still have the use of their smartquad (you can search with ks) and still works great. the octofire would definitely be an upgrade to what i need and personally i am looking forward to testing it out. if anyone intends to constantly complain, you may want to take a look a couple of projects that the creators bailed out on their backers (air umbrella or the mutator:mute your iphone). both most likely have a class action lawsuit on this hands at the moment for scamming people.
+i wonder what order the items wil be shipped out - backer number order?  whiny complaining backer order?  reverse whiny complaining backer order?
+thanks for the upadte skiva.  looking forward to getting this in the next month (factoring in delivery times to oz). my desk has a spot ready for next to my tardis usb hub!
+nice threat norman.  sarcasm.
+@ aaron @ ramis @ marcel @ noman we respect our backers and their views, we survive with their support. we strive to make great products and make sure to back them up with world class customer service. we would have completed the project by now if we have not faced any issues during production. we are taking time to fulfil the project as we do not want to compromise on the quality. we always want to give best product to our customer. we do understand your concern about the information sent regarding other products. we had a different team which worked on other product and were able to complete it ahead of timeline. we will have the product ready for shipment shortly. shipment will be done in batches and you will receive confirmation email once product is shipped. you can except the tracking details in next 2-3 weeks. we appreciate your patience and understanding.
+@ramis actualy this is what kickstarter is about - https://www.kickstarter.com/hello…
+backers beware! http://www.forbes.com/sites/abigailtracy/2015/06/30/kickstarter-campaigns-ftc-consumer-complaints/
+dear skiva, hope you have received units by now and printing shipping labels. if this is the case as of now, please post a detail update with final shipment details. ramos is true and thanks to him of better perspective. if otherwise, by tuesday i would request a refund and will dissect this kickstarted project on my blog and enlist skiva octofire in "hall of shame" etc like "http://hackaday.com/2015/08/14/where-are-they-now-terrible-kickstarters/". if you have no respect for backers, and playing with our precious money, we have every right to blacklist skiva and all its products by writing to consumer rights protection agencies, amazon whereever it is marketed. please explain immediately with definite and finite timelines for delivery (a weeks time at most) and do not try our patience.
+simon if you are smart enough, then you understand that the whole idea of kickstarted is to help bright people to bring great products to folks who are ready to support them. when a bright team starts they have difficulties almost always because they facing a lot of unknown, and backers are ready to support and wait for bright new idea of brilliant people who respects their backers.... which is not a case for skiva in any of those aspects, it is a established company which has production line in that area. when such a charmless people using my money to promote other products ( with establish production line with the same kind of products) and not delivering what i paid for, using my email and updates to promote other stuff i am not interested in, without asking my permission. it is not kickstarter anymore it is lack of shame. look to the last update no dates, no detailed progress report, no pictures , i am sorry there are pictures of product i am not interested in. that's why skiva is worst company i ever have dialed with, that's why i do not want to support such a company! when it is a kickstarter spirit and people making all the affords to fulfill promises and respect backer i am ready to wait for such people but when you are not respected by the company with product line i have a right to ask for my money back! ok?!...
+@skiva - you keep referencing shortly in all of your replies on when this will ship.  while i don't need a date i think you would make a lot of people happier if you gave a timeframe.  are we talking 1-2, 3-5 weeks?  as i stated i am not frustrated with the delays in the project.  that is what happens sometimes and especially on crowdfunding sites like kickstarter, but communication could be better.  also, you released your last update and there was very little info about our actual product and just you pushing another product.  i think it would be best to do that via e-mail and keep us updated on our product.
+@simon  thank you for your support.
+@ chazz : the octofire unit available on our website (in stock) is skiva powerflow octofire (16.8 amps / 84watt / fastest speed) 8 port usb charger. it is first version of octofire. you have backed us for octofire 8 port usb 3.0 hub with rapid charging (96 watts). octofire and octofire hub are two different products
+chazzwilliams - it isn't the same product.  it is just the 8 port charger rather than this product.  that was the product launched previously on kickstarter - https://www.kickstarter.com/projects/853175871/octofire-8-port-168-amps-84w-turbo-smart-usb-charg… to those saying that you have the right to sayy whatever you want - that is correct you can say what you want - you aren't entitled to a refund though.  you can ask for whatever you want  but that is not how kickstarter works.
+on your website skiva has this same unit for sale with the "in stock" label; yet as an early backer, i still have not received my unit. this makes no sense. explain please.
+@ diogo mattos @ justin simmonds @ apit c l @ tonia dimbo @ noman a. shah we are almost done with the production work. we are expecting to receive the units shortly and will start shipment as soon as we receive them.
+dear skiva tech, please confirm if you can deliver the product by next couple of weeks or else i request refund. thanks
+it's just poor consumer service for a company to be pushing a new product to support on people who have yet to receive the other product in which they have supported.  i can understand where those who are requesting refunds are coming from.   however, we are made aware of the risk that we may not get the products on time and i believe not at all under the disclosure on the website.   i understand they wanted to market and raise funds for their new venture but for those who are waiting on what they pledged for, the company should only be sending us information regarding when we will be receiving our product. i'm thinking the company expect they could probably turn a quick profit by retrofitting some of the older models with some newer parts and that didn't work.  so that's what is causing our delay.
+it's just about mid-august and no update. any word?
+diogo, according to the comment on the latest update, mid-august.
+any deadline to shipping?
+good job remis. we do have a right to speak our mind when we've been treated like this.
+@ ramis we respect each and every backer views and opinions. every backer is important and plays a vital role in the success of the project. we can understand your concern. we have posted update # 5 to provide latest updates on progress of the project. the product is in the final stage of production and we will start shipment at the earliest. our support team will contact you and help you further.
+those "idea defenders" could mind your own business?!.... if person spent his own money it is his right to express complain if he is not satisfied  with the way he is been treated !... until now i have not heard nothing then bla, bla, bla... nothing specific, no photos - just couple words on a project i backed and then whole list of propaganda on a new project they launched before fulfilling commitments they have. and for that reason i do not want to support such a people who have no respect to backers. that's why i want my money back.... and i still do....
+@ jd marsters thank you for backing us on new project. we have updated your backer id on our records and also sent an email to you with the details.
+@ raghu we can understand your concern. the production work is almost done, please check our latest update # 5 for more details. we will be posting the next update before we start the shipment.
+i backed the other project but i've no idea what my backer number is, they don't seem to show up until the campaign funding period closes. any suggestions? (i've just put it as 'backed but don't know id' for now)
+@john sloan - wholeheartedly agree.  the creators deliver based on the funds provided through kickstarter - decisions are based on what funds are received - not on what funds are left after people change their minds.
+raghu - was this not enough? https://www.kickstarter.com/projects/853175871/octofire-8-port-usb-30-hub-with-rapid-charging-96/posts/1300240  four days ago.
+dear skiva team, could you pls. post the production update, we are waiting for so long to see the product and you have taken the shipping address means its ready to ship so can we have the final product at a glance as its almost passed 3 months from the shipping date and a new project is started in ks and no regular updates for this product
+@ john sloan thank you for your support and understanding. we hope our product meets your expectations.
+@ sonia thank you for the help.
+@ shreyes you can mention na or none in the field not applicable to you and submit the survey.
+@ jung our support team will contact you shortly to help you with the issue.
+i don't know my whereabouts during august (eta). i specifically have to know exact time arrival, because i would be moving around countries.
+@shreyes shiv -- just put 'none' or 'n/a' in any field that you don't have an answer for -- all the ks survey-forms require something in every field & sometimes the question just doesn't apply to a particular backer.
+i encourage the creators not to refund anyone's contributions. kickstarter is not a discount pre-order online mall. it is for companies to raise funds to complete a project. founders get to ride along, to enjoy and suffer each eventuality. at the end of the ride, whenever that happens, founders may receive something. that is it. if one is not comfortable with this type of situation, then don't contribute.
+in the case i have not pledged  'energyskin iphone 6 ' what do i enter in the backer id? it is not allowing me to proceed further with out an input in the backer id section
+@ steve if you have pledged for our 'energyskin iphone 6 wireless charging dock with 3000mah case' project, you can provide that backer id in the survey form to get complementary cables.
+i did not put in the backer id. it seemed to be asking for an id of the new iphone 6 product.  can you add my backer id to my order  #573  thanks
+@ daniel @ simon thank you for your support and understanding.
+@ paul @ marco when you pledge for a product and back it, a backer id is assigned to you. you need to provide the backer id in the survey form for '8 units of short microusb cables'.
+@ mark please be assured about the quality of the octofire hub. as informed in the update, product is going through multiple tests to maintain high quality standards. our support will contact you and assist you with smartquad issue.
+@ aaron @ ramis @ antonia @ 丁上鈞 we would like to inform that production work for octofire hub is almost done. please check our latest update for more details.  we do understand the importance of frequent updates. we have sent survey forms for the shipping information. we assure you that the orders will be fulfilled at the earliest.
+why are people asking for refunds when the product is close to ready?
+@ramis where are the similar products?  companys develop new products all the time while previous products are being produced. if you are not willing to wait for something to be finished properly then kickstarter (crowdfunding) is not for you.
+read the email guys.
+what is energy backer id?
+what is energy backer id?
+i hope the octofire 2 is durable. my 4 port skiva charger suddenly stopped working
+please cancel my pledge and refund me
+please cancel my pledge and refund me
+please cancel my pledge and refund me
+an update would be good - we had the last update on 6 june with informal updates in the comments.
+i could understand that you do some efforts to make it happen, but i can not wait forever...  and it seems to me that you are interested more in launching new projects then fulfilling your commitments. thats why i want a refund, and i still do. there are similar products on the market even for less. if you do not care to publish an update for your bakers, but launching new campaigns (apple mfi certified 3000mah iphone 6 battery case with wireless charging dock. optional apple watch charging stand included.), i do not want to support such a project.
+some update would be nice. for now, my original octofire still serving me well. backed 2 units of new model to replace my existing usb 3.0 hub at home and also spare charger when travelling. great companion for surface pro too.
+@ penguwin thank you for your support and understanding. we assure you that our product will meet your expectations as our first octofire campaign.
+@ jung @ ramis we apologize for the inconvenience caused to you. we are striving hard to complete the production work at the earliest. at the same time, we do not want to compromise on the quality of the product. that is the reason, it is taking time for us to complete the project. we hope you understand.
+those "experienced" in the ways of kickstarter know that delays on top of even more delays are simply the way most kickstarter projects go... check my profile, i've done more than my fair share of projects. out of all the kickstarters i've participated in, maybe 1 or 2 shipped on time... delays are just that common here. there is some good news tho for those willing to wait... i also backed skiva's original octofire campaign and have been so pleased with their first creation that i purchased a second one from amazon. i have been using both on a daily basis for quite some time now and have not had a single issue with them... they work beautifully for me. for what its worth... if this octofire is anything like the first one, it should be worth the wait. just my .02...
+more then a month passed without any solid updates, or any reliable dates.... i want a refund ! thanks
+i'm done with waitings refund my money back
+@ paul our support will contact you shortly.
+@ simon we assure you about the product performance, it will meet your expectations.
+please cancel my pledge and refund me
+please cancel my pledge and refund me
+@creator - i am not concerned at all.  i want a good product that meets your specs and does the job it says it will do.  it isn't like this is a replacement kidney i am waiting for.  keep plugging away and i hope in the background you are planning your next cool new thing i can look at!
+@ ramis @ simon we can understand your concern. we are working hard to complete the production work. we are in the final stage of production. we are expecting to complete production work soon and will start shipment after that.
+the latest timeline update was third week of july: https://www.kickstarter.com/projects/853175871/octofire-8-port-usb-30-hub-with-rapid-charging-96/posts/1255367 there was a four week delay announced on 20 april to end may so in the end it will be maybe three months late - that is early by kickstarter standards...
+last update was about a month ago.... you answered to my post about good news saying: "we are glad to inform that work is progressing as per the plan" - plan was getting it in april!!! and there is no updates still...
+@ simon we are working hard to complete production work at the earliest. we will update you on the status shortly.
+i just tidied my study and the final piece of the puzzle will be the octofire!  i am excited!
+@ turaj we are working hard to complete production work as soon as possible. we will update you shortly on the status.
+@ sohan we will send a survey to provide shipping address & phone number once the production work is completed. you can provide your new shipping address in the survey.
+hi,  i need to update the delivery address due to moving house. how can i do that with you? cheers,  sohan
+can't help but lol at all the people confusing the original octofire on amazon with the hub here.  can't wait for this one to start shipping.
+@ ramis we appreciate your patience and understanding.
+@ ramis we are glad to inform that work is progressing as per the plan, we are expecting to complete production work by 3rd week of july. we will post an update shortly.
+and is there any good news/updates? any development or progress? or will it be continuously postponed:  april passed then may, now june is almost over.  hope to hear some good news anywhere soon. thanks
+@ gary @ nick you have backed us for octofire 8 port usb 3.0 hub (usb 3.0 / 2.4 amps / 96 watt) version which is under production. the one available on amazon at special discount price is different from octofire hub, it is octofire 8 port usb charger (16.8 amps / 84watt / fastest speed) multi port usb wall charger.
+i noticed this as well, is it a different item than the one listed on amazon? i think it's a little odd that backers that have been waiting for months are put aside for retailers... (if that's what's happened)
+why are you selling this item for 39.99 $ father's day promotion on amazon, when we your kickstarter backers, pledged more than 60$ and we have not yet received our reward, but amazon offer 1 day delivery service, and state the item is in stock? not sure this is the best way to your show your appreciation to all of your backers? i would of at least expected that we would all have received our rewards before you begin selling this product to regular consumers. and why such a huge price drop for a new product that has not even been released yet?
+@ maarten we are expecting to complete production work by 3rd week of july. we will start shipment as soon as production work is done. please check update # 4 for more details.
+when do you guys think you will start shipping? regards
+@ apit please check our update # 4 for project status. we assure you that there will be regular updates on the status of the project from hereafter.
+agree with aaron. though i don't expect a daily progress update, a biweekly would suffice.
+@ aaron we will post an update shortly and share the status of the project. we appreciate your patience and understanding.
+@skiva - i feel another updated would be good to help us all understand where the project is at.  as in everything communication is key and being in the dark is no fun.  you can see we are all excited about the product and just want it in our hands.  if things are delayed, that is ok but let us know what is happening and caused the delay.  don't need all the details but we would all like a high level overview of what is going on with the project.
+@ marcus @ aaron we have not started shipment of octofire unit. we will send survey forms shortly and shipment will be done after that.
+hey creator, still haven't received my octofire. have you started delivering them to australia? sincerely marcus
+when will u ship to international backers?
+@ jon our support team has sent email to you, you can reply back to that email and provide shipping address.
+hi, i changed residential addresses since i last logged in here (i think). i took part in the initial kickstarting :p what's the email as address so i can email you guys?
+@ hendra yes, octofire hub is fcc, ce, rohs certified.
+@ nate octofire hub is available on our website only for pre-order. shipment of octofire hub is not yet started. we will fulfill kickstarter orders first.
+@ brian @ aileen @ ramis we will post an update shortly on the production and shipping status. we appreciate your patience and understanding.
+i agree well past the shipping time and no update?
+so why when i click"get yours now!" it says on your website "in stock" yet i have yet to receive then one i backed. seems like you collected all of our supporting money and pushed us aside to go after everyone else's money now.
+hi skiva! any updates with production?
+estimate shipping date was april, we passed through may already basically, hard to be supportive when you kept in a dark.... an update about the situation and struggles you facing would have a better acceptance then a silence and dark. we are not just a customers we a group united by your idea to support you. please treat us as your supporters  have a good one, success to everyone
+@creator, will the product have all security certifcates? such fcc, ce, rohs?? due to custom's clearance .. thanks
+@ paul we are working hard to complete the project at the earliest. we will send survey to provide shipping address shortly. we appreciate your patience and understanding.
+i order it because i want it for my summer job if you have not just cancel it
+@ simon @ chatchawan we will send the survey form shortly. we appreciate your patience and understanding.
+it would be good to get a quick update on surveys etc.  nothing received here as yet.  need to start clearing a space on the desk this devices (and chucking out other things).
+creator said the survey will be sent shorty around may 19. i still did not get the survey yet. just want to check if anyone already got the survey.
+@ fabrizio our support team will contact you and help you with the issue.
+is it possible for you to send me the eu ac plug instead of the us ac plug? thank you vero much
+@ raffael we will send a survey form to provide shipping address and other information. it will be sent shortly.
+hi when do we have to send the mailing address for receiving the units?
+@ chris we will send survey forms shortly to provide shipping address and other information.
+hi where/when do we have to send the mailing address for receiving the units?
+@ michael @ aaron we will post an update shortly on the status of octofire hub.
+@ rl @ ryan @ robert @ryan  @ colby  @ bill you have backed us for octofire 8 port usb 3.0 hub (usb 3.0 / 2.4 amps / 96 watt) version. the one available on amazon at special discount price is first version, skiva powerflow octofire (16.8 amps / 84watt / fastest speed) 8 port usb charger. they are two different products. we will post an update shortly on the status of octofire hub. please feel free to contact us if you have any queries.
+lol i feel a lot better now.  didn't realize this was a 2nd gen product.
+yeah this one appears to have no data transfer capability (so not even 2.0) at all. it doesn't technically say it does, but man it sure looks like it would. that is sure a tricky advertisement, especially for us as ours are looking basically the same. thanks for spotting that rl.
+ah.  there is the rub.  usb 3.0 is a lot faster.
+they selling on amazon is their last year model (usb 2.0 / 2.1 amps / 84 watt) https://www.kickstarter.com/projects/853175871/octofire-8-port-168-amps-84w-turbo-smart-usb-charg we pledged is (usb 3.0 / 2.4 amps / 96 watt)
+colby, he is talking about feedback on products like this that they are selling on amazon. http://www.amazon.com/gp/product/b00ksysnys. our product is an upgrade form this but i dont feel the upgrade justifies the jump from $30 to $66?
+"we are getting positive feedback from our customers and kickstarter backers on amazon, for the recently launched kickstarter funded products. based on the demand from many backers, we are pleased to announce that we are running heavy discount for kickstarter funded products on amazon for limited period of time." ...positive feedback... i don't intend to be mean, but seriously how can you have feedback when the unit's haven't been shipped yet? i think we're in need of an explanation to satisfy our concerns. where are the units coming from and are they representative of our future ones? why are there comments from months ago when we still haven't received any. please describe the process you are using so we don't feel like we're getting completely ripped off.
+no kidding.  what is going on with amazon being only 29 and mine being 69 and not  receicing yet?
+wtf.  $29 for a slightly less wattage hub when i haven't received mine yet to even???  i could buy today and have it wednesday!  or i can wait how long for mine to come?
+@robert b dalton, i just saw that e-mail and thought the same thing.  but if you look it is a different model.  it is a 8 port 84 watt and this is a 8 port 96 watt
+i think it's pretty bs that you guys are sending out emails selling the same octofire i paid $69 for at the price of $29 on amazon...and i haven't even gotten the one i pledged for yet.
+would like to see a proper update status :-)
+@creator, how could you ensure the device protection (the phones, computer, etc) in case of sudden death of the electricity? we learned, 'don't pull up usb stick during data transfer/read!' it might damage the usb stick and the connected device. furthermore it will corrupt the data.
+no updates? i backed 2 units of octofire hub.
+@ andi we will post an update shortly regarding project status.
+1 month notice.....
+@ ramis thank you. we will post an update shortly regarding project status.
+hey guys, hoje you are on track,  keep us posted! have a good one  success!
+@ scott thank you for your support. we hope our product meets your expectations.
+@ ramis we will post an update shortly on the production status. once the production work is completely, we will send survey forms for shipping details. we appreciate your patience and understanding.
+hi skiva, looking forward to testing this out. having 2 ipads 2 iphones is a nightmare to charge. keep up the good work. to everyone else, the product will be ready when it's ready. no need meow to go and rush them :)
+hi there, according to schedule posted in campaign dates should be: on 04/14 you will be packing and start shipping on 04/20, how far you are out from your promises, and when we getting updates on production line? and how about promised survey for shipping? thanks
+@ dann product is in final stage of production. we will post update soon regarding the status.
+hi...just wondering when will i receive and test your product?
+@ david currently, the product is under production. once the production work is completed, we will send the survey for shipping details. we appreciate your patience and understanding.
+anyone ever get that survey they mentioned back on the 31st?  he mentioned back on the 1st that they were sending them soon but i've never got anything.
+@ aaron we will post an update shortly about the progress in the production work.
+@skiva technologies any updates on getting your molds back and other status of other products you have on order?  looking forward to this product.  can't wait to get it!!!!
+@ turaj octofire hub will work as the octofire unit. we are sure, you will be happy with the performance of the product.
+if the hub works nearly as well as the original octofire then i will be a very happy backer.  can't wait.
+@ casper @ aaron @ jung we did not send the survey forms as of now. we will send them shortly.
+i have also not seen any survey.  have they gone out yet?
+agreed with @casper i don't remember receiving any e-mails about the survey
+wanted to know if i missed the survey. i don't see it in the first fifty or so comments, so i wanted to ask.
+@ elles we do not want to upset or cause any inconvenience to our backers. every backer is important for us and plays vital role in making our project successful. we are providing adapter of our backer's choice and also extra cables. we are trying our best to satisfy all our backers. we hope our product meets your expectations and will make you happy with its performance.
+to reply to your comment to me of february 26... you are adding insult to injury.  you came up with addition of shipping two cables after "valuable " feedback of backers like me????  gosh golly gee, you are giving them to every one, so you are once again  doing nothing to equal what you have done extra only for your non us/canadian backers.    you have rewarded your non us/canadian with a specific plug to get more backing,    your last minute offering kept many people in this, but has disgusted others, and since most of your backers are in the us, doesn't bode well for the future.   and you make me laugh at the soporific of throwing in 2 small cords...
+@ alvyn our support team will contact you and will help you with the issue.
+@skiva would you mind checking my payment to see if there is double payment? i could only check my statement on the 14th march or later to see the transaction goes through.
+@ aaron yes, things are going well as per the schedule. we are sure that we will be able to deliver the product on time.
+is the delivery for next month still on track? i backed 2 hubs without any cables.
+@ alvyn please contact us after confirming with the bank to resolve the issue.
+@skiva i might be charged twice when i just pledged for one. i might be wrong but the amount looks about right. i will get back to you once i confirm with the bank.
+@colby, @skiva, thank you very much. looks like i was right to pledge for two octofire8 with rapid switching, and not to pledge for the cable after all :) great job on answering comments.
+@ colby thank you for the explanation.
+@ gregoire there is no advantage on using fast usb charger cable with our hub, as octofire hub is providing the maximum current possible for the device using the normal cable. further, octofire hub has advantage of doing automatic switching when it is connected to pc (no need to manually turn on/off switch to enable data function). even in data mode, octofire hub allows charging faster than normal rate (up to 1.5a).
+@noman, if you're talking about the ac adapter directly, you'd need to compare the voltage, current, and polarity of your laptop and the ac adapter - they'd all need to be correct (and fits of course). if you were talking about the octofire output, it is being rated at 12w (5v 2.4a) each port - which as skiva techs mentioned likely won't work for laptops. @gregoire. this is an interesting point. i don't think it will help, however i don't think it'll help because it's already going to be operating as well as it can. those 'fast charger' devices utilize a usb protocol to guarantee older usb ports are configured to output the maximum current. as these are designed for power charging with newer usb ics, it shouldn't affect the performance (it's already the best i can be). i will let the skiva techs chime in though, as they obviously have a better idea on the architecture being implemented.
+@ noman laptop requires much higher voltage to charge than the octofire hub provides. so, you will not be able to charge laptop with octofire hub.
+dear skiva, could you comment on your expectations of the fast usb charger cable on the octo?  https://www.kickstarter.com/projects/andyfei/smart-and-secure-fast-charge-usb-cable-and-adapter.
+dear skiva tech, thanks for very useful project. i have noticed that octofire 8 port usb 3.0 hub with rapid charging is 96w/19.2a and so it can also act as universal laptop charger if a suitable set of connectors and switching is provided ??? it will help us carry one item less in bag (i plan to travel with it).
+@adrian we recommend you to change your reward level from 'super early birds ($59)' to 'cables pack-2 ($115)' if you want to get cables along with octofire-hub. you can do so by accessing “manage your current pledge” button.  however you can also order the cables directly from following link: http://www.skivatech.com/cables.html
+@marv we recommend you to check the demo video of the real prototype product for verifying the distance between two usb ports (18.5mm center to center). however we will still consider your feedback for having extra space between the ports in the next version.
+@elles sorry for not replying you earlier. we came up with the decision of shipping 2 cables along with octofire-hub after the valuable feedback from backers like you. thank you for all the support.
+@abdul yes, we can ship uk plug even if your destination address is usa. you will get the option to select the plug style during the survey.
+@mischa thanks for the motivation and support.
+@ebrahim yes, you can connect external hard drives to the octofire 3.0 usb hub. as far as extra cables are concerned, we request you to directly order it from the following link for the octofire-hub multi-packs: http://www.skivatech.com/cables.html
+hi there! how much should i add to get from my actual super early bird package to the cable pack 2?
+early bird freeing up at 10 ct or 8 mins $59
+well, i think i am out. early bird freeing up soon. i like the idea but placing the two usb ports on each side directly to each other without any space inbetween, is a serious design flaw. if i use it with anything else but a cable, like an usb drive, it will block the port next to it.  so depending how you use it, the 8-port hub could become only a 4-port hub. not to mention that the photoshopped graphics clearly suggest a wide space between the ports. i think that is misleading.
+@creator, thank you for responding to every one else but i.  certainly makes me feel as if i am one of your valued supporters in the 19 hours to go... @abdul... hi... yes i will second your wow. on the last minute offering.. and the stay...glad you are getting the uk plug which you didn't expect.  enjoy... marie-a  and i will slog on....
+wow.  last minute offering. glad i stay.  @creator.  i hope you ship me uk based plug even though destination address is usa.
+very good to see that skiva tech. is listening to the backers and taking action! keep up the good work.
+another question can i connect my external hard drive to octofire 8 usb 3.0? thanx
+i backed for 2 octofire 8 port usb 3.0 hub with rapid charging (96 watts) how much should i add to get 8 or 16 micro usb & lightning cables?
+@creator @ gregoire ... i think a 'replaceable or updatable' device cover will be also fine :-d it means if the user want to have shelf then they can 'screw up' the 'standard' cover and replace it with the one with shelf.
+@ gregoire your ideas are really good. we will definitely consider it. as far as short cables are concerned (we believe you meant 0.5 ft and not 0.5 inch), please check out following link if it helps: http://skivatech.com/cb105
+@ hendra there are no screw holes to mount octofire hub on a wall. but as suggested by gregoire, we will consider it in the next version.
+it is possible to mount it on the wall??
+@emanuel thanks for the valuable suggestion, we will consider it in the next version.
+idea for a seperate project: something that would phisically fit on top of the octo, and act as a storage shelf for a few devices..  would allow for a number (4 or 5) of those devices to be charged to fit in a tighter physical space. something that would look good enough for a kitchen or inside a bed room. /_/_/_/.  could have a hook on the side for a watch. the goal of the octo:  charge more faster and enable faster usb 3. the goal of octo shelf: reduce the charging physical footprint in the house.   additional benefit: sells extre 0.5 inch cables... wonder where i could find some of those (insert sales pitch here)
+i would like to see something like this that can be used as a 13 to 17 inch laptop stand and have 9 usb ports
+i am  glad for all the non north american residents who have gotten a plug... but if each backer plays vital role in the success of a project, what are the options you are considering and doing  for your backers who are in north america?   there are 44 hours to go... less than 2 days... please elucidate...your stretch goal is not for probably 50% of your backers.... thanks
+@ marie @ simon  each backer plays vital role in success of a project. we are considering other options for backers like you who do not need international plug. we will let you know once things are finalized. thank you for your support and understanding.
+@ mischa we are confident that we will reach the stretch goal with all your support and participation.
+@ kirpa @ colby the final selection of stretch goal was based on the number of votes we received from backers . we are confident that we will reach the stretch goal with all your support and participation.
+@ xobb we are working on your request, our testing team will test the devices you have mentioned and will update you shortly.
+if anything, i'd really appreciate if you guys could test some handheld game console compatibility (psp/vita and the [3]ds family) as well as some bluetooth devices. it'd be nice to know it won't fry them.
+it would have been less confusing if they didn't even provide a cable... let the backers get their own c5 cable to connect to the c6 port on the ac unit. uk - c5 connector us - c5 connector anything - c5 connector they all will work for this unit, and they are all changeable at any time. the ac unit they are using will work essentially everywhere in the world, you just need a cable with a c5 connector on the end. this is my last attempt to try explaining it..
+like they have never heard of a universal power adapter eu us uk plug (plus optional universal usb port - works in more than 150 countries)?
+i mean, how difficult is it to supply backers with the right mains plugs for their countries?
+i backed out of their first project once i found out that they have no plans for a uk plug. it seems these cats have not yet learned their lesson. i am only considering this project as a useful present for my usa-based sister and her brood.
+yup i'm also confused. but then again i'm confused by all the confusion. the ac converter contains a c6 plug. wherever you are you can buy a cable that plugs from your national wall port to a c6 plug and it will power this device. so the 100k stretch goal is skiva buying you your $3 cable rather than you having to get one if you're outside of north america. not the best stretch goal i've ever seen, but the product will be nice.
+@creator - tbh, i really like the project and the idea and support that minimum stretch goals to give you the ability to provide either additional options or features is fair enough. but i havent personally come across any project asking for 5x their goal for international plugs in all the 150+ projects i've seen through - have you considered the likelihood that the reduced momentum in your funding is also because potential international backers dont already see it available??
+what, no international plug included? are you really going to charge early backers about 15% extra for an international plug? well, lets see if we reach the strech goal, otherwise i might back out as well.
+whats the computer in the picture i would like to purchase it
+similarly marie-andree - micro us cables are no use to me as i have more of them than i need already.
+i don't really care since north american will not benefit at all from it.
+@ aodhagan @ kirpa singh @ folk @ mark  @marie-andree @ rl @ simon we are confident that we will reach the stretch goal with all your support and participation.
+@ elles we are sorry for the delayed response. each backer plays vital role in success of a project. we are considering other options for backers like you who do not need international plug. we will let you know once things are finalized. thank you for your support and understanding.
+@ gregoire there are no screw holes to mount octofire hub underneath a table or on a wall. thank you for your suggestion, we will consider it.
+@kirpa - as i posted below an international plug would cost you $10 at most so if you want this you can get it with an additional $10 payment outside of ks.
+to be honest though international plugs should just come as standard. that is doesn't is probably turning any international kickstarters off. that it is as a reward for 100k (5 times your target) seems a bit much. like the product but reconsidering my pledge.
+vote: ac plug of choice
+on february 11 i wrote  to you  below to question your use of the words stretch goal in announcing the new international plug you are going to give us.  i noted that the plug i would get is still the same plug i was pledging for originally.  so no stretch goal for any of the north americans who have brought you over your minimum goal.  we are more than 60% of the people who have pledged.  it is now the 20th of february  and you haven't answered me.  so you are not giving stretch goals to any of us?  it is probably a moot point, but don't you think you owe your backers in na an explanation?   while of course i am glad for the others, some thing should be done for us. you are just giving us what we already had.  please respond, i am being respectful and considerate.
+!!! i'm glad i visited back here. i assumed with the current trend in ks projects that an international adapter was a given!! it doesn't look like its going too reach $100k - looks like a killer project but i'm mostly going to back out before the campaign ends in that case :(
+thank you. i must have thought it was a junk mail and deleted it. i'm glad i did not miss out on the octofire. looking forward to seeing this project to its completion.
+i did not see any clear underside picture... are there screw holes to mount this underneath a table or on a wall like there would be for a power bar? could you recommend a vertical holder for devices similar to http://imshopping.rediff.com/imgshop/450-450/shopping/pixs/3777/m/multi_mat3._dashboard-car-cell-phone-mobile-mount-stand-holder-anti-slip-pad-soft-mat.jpg to partner with the octo and save space?
+@ apit thank you for your support. we are glad to know that you are happy with our smartquad performance. we have sent notification about octofire hub project to all our backers.
+omg. i just realized after backing this project, i backed their previous project, the smartquad and loving every minute of it and i bring it with me everywhere i go. i only realized this when i saw the name of the company. i wished i got an early notification of the octofire 8.
+why is it a stretch goal to support 95% of the earths population? this doen't make any sense. i've backed for $1 just to wait and see if we reach $100k and if we do, i will back for one device.
+@huang mu-ti  octofire hub will work like any other hub with the additional functionality of charging at maximum speed. so you should be able to transfer data among phones using octofire-hub via pc.
+@abdul sorry for the delayed response. we are checking with the team about samsung galaxy note 10.1 and we will get back to you soon.
+@li-chi ku thanks for the suggestion. we will consider it.
+@hendra sorry for the late response. yes, octofire-hub can be used for for usb-mouse + usb keyboard + usb memory stick + wacom bamboo + charging simultaneously.
+@creator.  can you kindly check my galaxy note 10.1 2014 power issue?  i don't really need the usb hub functionality and if it doesn't solve my tablet issue, i don't see the point of getting this octofire 2.
+lol, $100k for a stretch goal is too ... stretched :p and usb cables are better rewards than ac plug of choice.
+surely stretch goals are there to increase participation and the "reward" for existing backers is potentially a bonus.  how does providing something to someone else turn you off?  personally i think this is a great stretch goals and wil encourage me to participate and share with friends as we don't use the us plug.  however if we don't achieve the stretch i still get what i was originally offered $66 for the octo fire hub.
+... or no stretch goal for 50-60% of backers if we reach it ...
+no stretch goal really either for canadians. us plug is the one we also use. so no stretch goal for any backers if we don't reach 100k, or no strech goal if we reach it! that is a weird one, to say the least!
+first stretch goal at 100,000?  and the first stretch goal is plug of choice?  well, i live in the us and the plug you were going to use was the american plug,so the first stretch goal means nothing to me.  it was what i was getting any way.  if this is to spur me on or keep me, so far it doesn't.  i could care less about stretch goals in general but this one is a slap.  and turns me off...
+first stretch goal 100k? really? please forget my voted!!
+with the goal at $ 20k, i feel the first stretch goal at $100k is too far. it should have been at a lower target, something like $40k or $50k.
+international adaptor...  i get  my plug of choice any which way since you use american plug,,,!
+ac plug of choice
+(i'd rather have the usb 3.1 port though.)
+vote: microusb cables
+@creator.  sorry forget the link https://www.kickstarter.com/projects/853175871/octofire-8-port-usb-30-hub-with-rapid-charging-96/comments…
+@creator.  this comment by you stated the difference between the original and new octofire is able to do data transfer and slight difference in outlook. i don't see how this can help in my case as my galaxy note 10.1 2014 receive less power as compared to original samsung charger when using the original octofire.
+how long will take the 'stretch' vote? and when will u proclaim the result?
+vote: ac plug of choice
+vote: microusb cables
+can two android phone or ios devices transfer data? reply me here and send me a message, thanks.
+i just bought 10 lmfaoooooo
+usb 3.1 please :)
+vote: microusb cables
+make on of the ports usb 3.1 (connect type c) everyone who wants this please vote :)
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote: ac plug choise
+vote ac choice
+please cee7/4.
+vote: ac plug choise
+vote: option 2 micro usb cables
+vote:  ac plug of choice
+make it backers choice what stretch goal they want. make the stretch goal at $50k or $60k. usb micro cables
+vote: microusb cables
+vote: international adapter
+i just thought i'd put my 2c in.  - data transfer = peripheral will work. - car charger is 12vdc not 100-240vac, more than a simple cable will be needed. - ac adapter is removable, you can simply replace it with any cable that fits in your national outlet. a c5 cable is very common at any store that sells cables (google is your friend). this will work with a car adapter directly into the unit (no ac adapter) except, you'd need one that outputs 5v & 20a (~100w). perhaps one exists, but i haven't seen one - i'm no auto expert however.
+vote: microusb cables
+may i suggest another stretch goal reward: car charger supply cord? for using the car charger as the power source.
+vote: ac plug of choice
+vote:  ac plug of choice
+volt: ac plug choice
+hello, could the device be used not only for charging and data transfer? it means .. could we use the hub e.g. for usb-mouse + usb keyboard + usb memory stick + wacom bamboo + charging simultaneous?
+vote: microusb cables
+vote: microusb cables
+micro usb cables
+vote: micro usb cables
+vote: micro usb cables
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote:  ac plug of choice
+volt: ac plug of choice
+vote:  ac plug of choice
+vote:  ac plug of choice
+micro usb cables
+vote: ac plug of choice
+vote: international adapter
+ac plug of choice  (but please for europe the cee7/16 and not the cee7/4 that you show on the image)
+vote:  ac plug of choice
+"vote:  ac plug of choice"
+vote: microusb cables
+micro usb  cables need lower stretch goal, please please please, like 50 k or 60 k
+vote: microusb cables
+vote: ac plug of choice
+vote: ac plug of choice.
+vote: microusb cables
+vote: microusb cables
+"vote: microusb cables"
+vote:  ac plug of choice
+vote: ac plug of choice fixed ac plug should be safety than using adapter at home. and i trust any hotels can provide a adapter when i travel.
+with the c6 inlet (c5 cable, c6 inlet - but i digress), i'm not sure what all the complaining is. go buy a $3 cable with your national plug and it will work. not too difficult and definitely nothing really to worry about. i'd prefer c14, but c6 will do nicely - as i simply don't have a massive stack of those lying around as most people in north america does with c14, but whatever.
+@douglas hub works with both windows and mac os x
+vote: microusb cables
+@carsten @colby we do not have permanently attached cable. we have c5 inlet on the ac adapter. so you can easily replace the ac cable easily.
+what computers and operating systems are required ? thanks doug douglasfturner@gmail.com
+please, no permanently connected cable. can we have a ac adapter witha c14 inlet. similar to the smartquad 4-port (9.6 amps / 48w) travel usb charger. thank you
+vote:  ac plug of choice
+"vote:  ac plug of choice"
+vote: international adapter
+please make stretch goal at $50,000 micro usb cables
+so... just to put this out there. does the in-line ac adapter have a c14 inlet or a permanently connected cable? the c14 inlet port would solve all the concerns being discussed.
+vote: microusb cables
+vote: ac plug of choice
+ac plug of choice
+i know a lot of people do not back this project because of the us plug.
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote: microusb cables
+vote: microusb cables
+vote: microusb cables
+vote: microusb cables
+ac plug of choice
+vote:  ac plug of choice (even though i'm in the us and thus will have the plug i need, i think this is best over all . . . except for those who travel.)
+vote : ac plug of choice
+vote: microusb cables
+3
+vote: international adapter
+vote:  ac plug of choice
+vote: ac plug of choice
+should make at $50,000 stretch goal micro usb cables
+vote:  ac plug of choice
+vote: ac plug of choice
+vote: microusb cables
+vote:  ac plug of choice
+vote: microusb cables
+vote: microusb cables
+vote: microusb cables.
+vote:  ac plug of choice
+vote: international adapter
+vote: ac plug of choice
+vote: international adapter
+vote: international adapter
+"vote:  ac plug of choice"
+vote: microusb cables.
+vote: microusb cables
+vote ac plug choice
+vote: microusb cables
+vote: international adapter
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote: ac plug of choice
+vote: microusb cables
+microusb cables
+vote: microusb cables
+vote: microusb cables
+vote: ac plug of choice
+vote: microusb cables
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote: international adapter
+vote: international adapter
+vote: microusb cables
+vote:  ac plug of choice
+vote:  ac plug of choice
+vote: ac plug of choice
+vote: international adapter
+vote: 1
+vote: international adapter
+@arman if you want to get two units of octofire-hub, there is already a 'double pack' available for $128. please change your reward level to double pack.
+i pledged $132 for 2 x $66 units. please confirm. thanks.
+ok - clarified on the skiva website that there is a transformer/adapter box but the us c5 cable goes into that so an easy and cheap replacement.
+interesting product.  i have an imac which has only four usb ports plus two thunderbolt connectors.  i use the thunderbolt for my two external hard drives and the usb for iphone/ipad sync/charge as i havent found a decent alternative powered usb hub that will let me sync and charge my ipad through to the imac - hopefully this product should address that.  in terms of the cable from the mains outlet to teh device itself - is my understanding correct that you are shipping with a us plug and c5 coupler at the end?  there is no transformer or adapter connected to the octofire hub?  would i be correct then that if outside the us - i.e. in the uk or oz you could just replace the cable with something like this- http://www.ebay.com.au/itm/like/251275575230… ?
+@ simon we are considering your suggestion and will get back with possible options in a week or so.
+@colby we are happy to let you know that we are still keeping same design of in-line cable for this product.
+@ william we considered adding cables to the multipack octofire offerings but number of combinations are many. we suggest you check out usb cables directly from following link: http://www.skivatech.com/cables/usb-cables.html
+@ hoe we are using a standard connector for ac input cable. it is http://en.wikipedia.org/wiki/iec_60320 (type c5), sometimes also called clover connector. it is a very common connector for laptop power supplies. you can easily get another cable with your choice of ac plug and replace it.
+i'm curious if this model is keeping with the ac inline adapter from the last design or if it will be a wall wart design? this is sort of important for me. ideally it'll the adapter would be integrated in the design, but i understand the space/complexity argument for these, the wall wart however would be a deal breaker for me. in-line (yay) or wallwart (nay).
+i would really like this to come with a uk style plug add an option or things just get a bit messy. any chance you can allow the purchasing of the cables by adding an amount on top of the existing pledges?
+i would really like this to come with a uk style plug add an option or things just get a bit messy. any chance you can allow the purchasing of the cables by adding an amount on top of the existing pledges?
+hope you will make the cords as an available package for the multi-pack investors.
+hi, i hope can make the adapter like ipad charger. then we can choose which plug type we want in travel.
+@mikhail thanks for the valuable suggestions. we will consider it in the next version.
+@marlena the original octofire is only meant for charging purpose. you will be able to do the data transfer and charging simultaneously with octofire-hub. the only difference in this new design of octofire-hub is that we have 2 usb ports on front 4 sides of the octagon unlike earlier octofire design in which there was one usb port on 8 sides of the octagon. in the existing octofire-hub design, the distance between two usb ports is 18.5 mm (center to center). currently we are sticking to black color for octofire-hub and we will send an update for the 'stretch goals' in a week or so.
+hello, as a happy original octofile backer i can suggest several important things: - there must be galvanic protection between each usb port. thats the point of active usb hub. it must be as much robust as possible and sustain damage only by one port at a time, not entire hub; - there should be a lot of space between usb ports. i would like to suggest vertical placement of sub ports, instead of horizontal, but it seems too late to change design; - nice to have feature is to have an indication of each ports output power to see if device is ready to go or still charging;
+@skiva: thanks for the exact answers!
+okay, so if i understand this correctly, this will allow me to download information from various sources such as flash drives and external drives while charging my wireless headphones and ipad 2. would my original octofire do that? i don't have a need for an additional charger (my original octofire does great for that), but something that charges and can transfer data to my computer for multiple devices at once that is useful. i am concerned about the new design, though. is there enough space to fit two oversized items (such as the receiver for my wireless headphones . . . which will not be hooked up to this . . . unless it would still work like that . . . and my wifi receiver) next to each other. it appears that to flash drives would have no problem fitting next to each other. my computer has eight usb ports and it often seems like that's not enough. my mouse, keyboard, printer, wifi, headphones, and the external drive i almost always have connected to it take up seven of those (the headphones take two one for a receiver and one for a charger), so if i could use this to transfer some of those off, it would give me a little more wiggle room. my original octofire (purple, because that's my second favorite color and you didn't make my first) always has cords hooked up to let it charge my (flip) phone, ipad 2, keyboard for my ipad, and ipod (v.1). i love it. on the note of color, do you plan to make multiple colors when this explodes and you start multiplying your original goal? if you do, please make blue one of the options. it's the favorite color of myself, my sisters, and my mom. i will totally take another purple one, if you go with the original colors for stretch goals (again, assuming you do additional colors or even do stretch goals), but it would be cool to have octofires in my top two colors.
+@mark we are working on the stretch goals. we will send an update in a week or so.
+@zack we will try to our best to ship it by april.
+@abdul @diederik sorry but octofire-hub will come with a 3-pin us style ac plug. we recommend you to get international adapter to use octofire-hub.
+by the way, are there any possible add-ons for early birds if the campaign reaches more than its intended goal?
+glad to see this project. i use my quad charger all the time. just make sure you do ship in april because i'll need it the first weekend in may.
+@jonathan octofire-hub can provide the 5v dc output on each port. thanks for the usb 3.1 suggestion and we will consider it in our future version.  as far as built-in battery pack is concerned, currently we don't have any plan to add the battery inside octofire-hub. however we are already doing couple of high capacity battery packs: http://www.skivatech.com/power.html…
+@mark we have covered most of the feedback and fixes suggested by kickstarter backers from our previous projects. we are sure that you won't be disappointed with octofire-hub.
+so there is no possibility for a eu style of ac plug?
+@marv 1. the distance between two usb ports is 18.5 mm (center to center). 2. currently the power efficiency is in the range of 84% to 94%. we will be able to provide exact number after fine tuning. 3. we will take the unit back if noise is unacceptable by any backer. we are confident that there will be no audible noise.
+@creator.  thanks for the getting to me on my device. can you show the picture of the plug? i may not be able to get the uk based plug here in singapore.
+first what voltages does the power supply output? 5v,12v,18v or etc?  since the usb 3.1 specs are nearly done will there be a usb 3.1 version in the future?  have you ever considered making a unit with a built-in battery pack for travel?  i usually have to carry a separate battery pack on the go and one less thing to carry around would be great.
+been waiting for this to be in ks again even though i bought the 4 port charger. i hope there won't be problems like its first model which im expecting you to have made improvements and fixes for sure for this model
+@hoe it will ship with us style ac plug.
+@abdul we are using different technology for detection this time. we will try to check your specific device and get back to you. in general we cover samsung proprietary signalling method for charging so we think charging should happen at the same speed but we will investigate further into this and get back.
+hmmm. any previous backers very? reading comments from the older ks doesn't inspire much confidence.
+thanks for the quick reply. i can accept that my design opinion isn't that of the majority ;)  i would use it on my own desk with mostly my own devices, hence me saying "different devces" and not just smartphones and tablets. now regarding the questions:  1. usb ports distance: i still need to know the exact distance between the two ports on one side to compare it to what i have here. since this is a hub, we would use it not just with usb cables but also other directly attached devices like usb drives etc., which can block the port next to it if it is designed without much space between them. so i need to know if that could be a problem with the octofire hub. 2. power consumption: what garrick and i mean mean is more related to the power efficiency. if the power draw of the connected devices is very low, we don't want the octofire and its power supply to draw much more power. let's say the connected devices take only 10 watts, what is the actual power usage at my power outlet? i don't want it to use a multiple of the power needed by the connected devices. therefore please explain in more detail how the power draw of octofire and its power supply relate to the power draw of the connected devices. 3. noise: of course there are other devices out there that make annoying noises. but technically these could always be avoided and are usually the result of the manufacturer simply being cheap and trying to save a few pennies on manufacturing and quality control. i would be using this on my own desk and i need to know that i would not hear the hub in front of me or the power supply under my desk at any time. noise perception is a subjective issue (db/sone, frequency) therefore what one person might not hear within 1 feet, others can hear at a disctance of >4 feet. the hub itself is not a overly complicated product, so choosing the electronic parts properly and choosing a power supply manufacturer to avoid annoying noises during use could be easily done.  in your other campaign you referred people complaining about buzzing noise to your customer support, implying that this would not be normal and reason for echange/refund. in this campaign you seem to imply that we would have to accept the noise however low it might be. so what is your exact warranty policy regarding unwanted noise?
+how about the adapter plug type?
+@creator.  is this using the same smart charge technology of smartquad? then, i will see the same issue of my galaxy note 10.1 2014 receive less power than the original samsung charger.
+@garrick @marv -yes, octofire-hub comes with a internationally compatible power adapter (100 - 240v). -the power consumption in the idle mode is very low and it comes out to be in the range of 0.1w to 0.5w. when we talk about the power consumption for 1/2/3/4/5/6/7/8 devices, it will vary for different connected devices like ipad may be drawing higher current than iphone even when they are almost fully charged. -small amount of inaudible noise (say at 1 feet away) of buzzing is common in power electronics. but we are trying to get the noise as low as possible for this product.
+hello. can you tell us more about the power supply? for example:  - is it multivoltage for international use?  - power consumption when in standby / low use for only one or two devices?  - noise from the psu? thanks.
+@marv the only difference in this new design of octofire-hub is that we have 2 usb ports on front 4 sides of the octagon unlike earlier octofire design in which there was one usb port on 8 sides of the octagon. we have considered both the scenarios in which 8 phones and 8 ipads are connected: 1) in first scenario, the 8 phones can come pretty close to each other and can create a semi-circle with short cables. 2) in second scenario, the 8 ipads can make almost a circle with the flexible cables. so yes, the two ports are quite close on each side. but based on the feedback we got last time about stacking up the ports on one side, we believe that such a design could have created a mess. the new design is a much better combination to give peace in terms of using octofire-hub in different situations.
+a few more questions: what is the exact power consumption of the hub/power brick in idle mode and when charging 1/2/3/4/5/6/7/8 devices? can you confirm that the hub and power brick are dead silent in all use cases? some comments in your previous campaign mention buzzing noises.
+i have to say the original design with 8 ports in all directions or at least not all at the front section seems much better. i guess most people won't use it for 8 phones/tablets, but for different devices of which many would not be located in front of the hub. in my opinion the current design actually increases cable mess vs. the previous design. also, how much space is there between each two adjacent usb ports?
+@huang yes, the lightning cable is mfi certified. please check following links for more details: http://skivatech.com/cb104 http://skivatech.com/cb105
+@patrice actually its discounted shipping for canada. thank you for pointing out the issue on video. we will fix the video shortly.
+is the lightning cable mfi certified ?
+hi! good product! didn't the video say free canada shipping? cause i was charged for it...

@@ -1,0 +1,233 @@
+hello elysia, we would like to help out in anyway especially with our initial supporters. you shouldn't be having any issues with your roadie, so please reach out to us directly at support@bandindustries.com and please provide us with more information regarding the issues you have been facing and we can sort them out.
+hi, i've never had mine working properly either - i actually wrote it off to poor design, but i can see there is a list of similar complaints as i happened to be looking around kickstarter today. do you offer refunds/exchanges for the initial backers?
+hello @jordan, please reach out to us at support@bandindustries.com and the support people will work to help you out resolve your roadie issue. thank you!
+i have the same problem as below.  i've reset multiple times and i still cannot get he roadie to turn anymore.
+hi mohd, just replied to you by email. if you didn't get it, could you please email us at support@bandindustries.com. thanks!
+my roadie doesn't rotate when its suppose to - even when you can hear the motor turning but the turner doesn't rotate. i've reset many times but still the same. anyway you can show me how to overcome this problem via video tutorial on youtube?
+hello kenneth, when this happens all you need to do is reset roadie and everything will be back to normal. to reset roadie you have to insert a pin in the reset hole as shown in this picture:  https://bandindustries.zendesk.com/hc/en-us/article_attachments/200514582/img_2556.jpg
+i used my roadie to wind some strings and now it won't stop turning. i've tried both tapping and holding every button, but it just goes and goes. i guess it will run out of battery eventually, but any ideas on how to fix this?
+masayoshi, we will follow up by email with you.
+hey guys still haven't received my roadie
+hello backers. whoever still didn't receive his roadie, please contact us support@bandindustries.com for a faster response time.
+hey there, i also still haven't received my roadie tuner. :/
+hello ahmad, we will follow up with you by message to resolve your issue.
+hey guys still haven't received my roadie it's been long!!!
+hi guys, still haven't received my roadie :(  how to do?
+thank you mark, we appreciate the feedback. please let us know if you have any questions! don't hesitate to reach out to support@bandindustries.com
+thank you!  i got my roadie last week and it works great.  it really makes it easy to go between different tunings. thanks again.
+i'm checking the tuning with a korg clip on tuner and simultaneously the tuner in the guitar toolkit app for iphone.  the korg and the tuner app appear to give exactly the same readings with the roadie being the one that's off.  glad to hear about the sequential tuning feature.  that's a great way to solve the problem!!
+hey jack, thanks for the feedback. could you please let us know what tuner do you use for reference? regarding the auto-detect feature, due to the way this feature works sometimes it's hard for the app to differentiate strings that are close together (like the a and d strings when d is slightly detuned). we came up with a new feature that we will release in the upcoming update, it will allow you to sequentially tune the strings. will let you know when it's out.
+just tried the latest version of the app on an iphone 6.  changed the settings to highest accuracy.  tuned every string twice.  on my martin hd 28, low e is still about 12 cents flat.  every other string is flat about 5 cents.  the guitar was no more than a foot from the speaker on the phone.  not sure what else i should/could be doing to improve the accuracy.  i also have a persistent problem with the autosensing function of the tuner.  when i go to the d string, the tuner thinks it is on the a string and detunes the string.  as a result, i have to manually select the string to be tuned.  would love to sort these issues out....
+got mine in the uk.  love it and working well so far..  good work guys!
+@david i will follow up with you to see what might be the issue and resolve it. @venugopal your tracking number shows that the item was delivered successfully. i will follow up with you by email to see what the issue might be.
+my tracking number is rf261625955sg and was shipped on 2014-09-17. i didn't receive it yet.
+got my roadie a few weeks ago. finally got around to unboxing it yesterday. needed to re-string, so i used the auto-winder function before pairing (light was flashing blue during unwinding/winding). downloaded the app. turned on the the roadie. solid red light. reset button turns it off, but when it powers back up, still solid red. let the battery drain all the way. charged it. powered on. still solid red. can't do a thing with it now. totally bricked. sigh.
+hello ben, yes the roadies already started arriving to the us, i will follow up with you by email.
+just checking in to see if the roadies are supposed to be in the us yet?  i got a "shipping soon" alert in september, but to date still haven't seen anything yet.
+great to hear hannes that roadie started arriving in austria!  please let us know if you have any questions and check our support page for further info:  www.roadietuner.com/support
+got mine today (austria) - seems to work well so far!
+@nick sure! i will follow up with you by email.  thank you @damon for the tip. this indeed requires some improvement, we will be working on limiting the amount of rotation on the calibration in order to ensure no string is snapped.  @jack, thank you for your constant feedback. could you please let us know what kind of guitar are you tuning, and which tuner are you using as reference in your measurements? yes the issue is not related to the detected frequencies as much as it is related to allowing roadie more time to bring the string to a more precise frequency. as mentioned we will be increasing the accuracy vs speed range of the tuning in order to allocate an option for improved accuracy.   it's great how kickstarter allow us to open such a discussion channel in order to get direct feedback from you our customers and improve. and it's a great thing that we can push app updates as we go so you witness improvements on the spot!
+love mine, works very well, but the 1/4 adaptor came apart. can you send me a new adaptor? thanks, nick
+hello!  good work on the roadie, the device is brilliant, and the app is coming along nicely.  i've tried out my roadie on an old gibson, where it did a very good job, then more daringly on a new esteve classical.  the calibration of the low e was troublesome, as the roadie began winding on too much, causing more strain than is wise - i quickly removed the unit and unwound.  only way i found to get a successful calibration and tuning was to loosen off the strings before beginning.   roadie tuned it well after that. please consider an option in the app to make the calibration more delicate, or provide a limiting value on the number of rotations allowed before user is alerted? cheers, damon
+i have re-tuned my strings a second time to see if it makes any difference, particularly since the low e can be so easily affected by changing the tension in the other strings.  unfortunately, it didn't change my results.  the readings i posted yesterday were after the second tuning.  the good news is that the d and g strings seem to tune almost perfectly.  the low e is off the most and the a, b and high e are off more than acceptable but not as badly.  i tried to see if it mattered how close the guitar was to the microphone but that doesn't seem to make any difference that i could see. i know nothing about programming but if there was a way to key the tuning off the d and g strings, that might improve the accuracy on the other strings.  i don't know if your software compares the tuning to that of adjacent strings but if that was possible to do it might also help improve the accuracy. i really like the product concept and am glad to hear you think you know how to improve the accuracy.  let us know if we can help at all. jack
+@tmr designs and @remlam we are glad to hear that you received your roadies already. please let us know any feedback / questions you have once you try your roadies we would love to hear from you.
+got my roadie tuner in the mail today.  only sent one which is what i pledged for.  with the comments i have read below so far i will wait a few weeks until the bugs are worked out before downloading the app and attempting to use it.
+roadie has made it to the depths of northern england.  yet to collect and try but looking forward to it.. cheers guys!
+apart from the auto tune feature.... i meant to add
+i love mine thx!!
+hello jack,  i find it useful sometimes to tune the same string twice with roadie (the 2nd tuning would be much faster) but it would double confirm that the desired accuracy is achieved. this is of course not an official solution, but would love to see if this might work for you. we are indeed still working on the accuracy and improving on it and creating more options for users to choose between speed and accuracy, but we will need a couple of weeks to roll these out. as our main focus right now is urgent bug fixes. thank you for understanding, and for always providing constructive comments.
+saw that the app had been updated so eagerly grabbed my guitar to see if the accuracy would improve.  sadly, it did not.  if anything, it got worse.  low e was off 12 cents and b was off 7 cents.  everything else was plus or minus 3 cents.  hopefully there will be a better solution soon.  would it be possible to tune the strings and then tell roadie to remember that tuning?  it would be extremely useful if i could tune it accurately on my own and then have the roadie remember the tuning.  maybe that would help with accuracy?
+i got my roadie in the mail yesterday. unfortunately i tore my left biceps tendon six weeks ago. patiently waiting to heal so i can start using it!
+@eric, great! we would love to have your feedback, let us know if you have any questions.  @art, i am following up with you by email hopefully we will be able to resolve all issues.
+well i did receive a response.  moving on to the next problems now.   hopefully it will work out.
+just picked up my roadie from the post office! this is going to be a long 4 hours of work before i can try it out!
+hello @et, we are sorry for this. i will follow up with you by email.
+my roadie wouldn't turn on despite reseting and being fully charged. i'm a little disappointed. do i have to wait another month for a replacement now?
+roadie made it to raleigh, nc! my wife is excited to start using it. thanks.
+@max this is a bug that we are currently resolving, not a major issue, we will roll out an app update to resolve it very soon. @james,@ daniel and @art i will follow up with you personally to resolve all your issues.
+hi, my roadie will not pair with my motox running 4.4.2.   i have restarted both.   bottom of the screen the motox sees the roadie pairing blinks but nothing happens.    help please.
+guys, my rosie (61 of 100) was doa. please get in touch with me and let me know how to get a replacement. thanks, dan
+you answered on 11/30/13 that roadie would work with a mandolin, but the tuning pegs on a mandolin are too small for roadie to grab. any suggestions?
+just picked up roadie from the mail room in mass. seems likes it's gonna be a great device. the only thing is i get there "this roadie is not authentic! please contact..." just wondering if there is a fix for this. did a hard reset a few times, nada.
+@jack, thank you for the feedback, we are indeed improving more on the accuracy, and we will be releasing more app updates soon to resolve this matter. regarding speed, could you please redo the calibration on the strings in question and let us know if you notice improvement on the speed. generally the speed of the tuning is highly dependent on how well the string is calibrated.
+hello all, thank you for all the messages! it means the world to us to hear back from you. @thepopoption i would love  to hear more about what happened in the bouzouki case and the audio jack. i am sure we can find solutions to any issue that came up. i will follow up with you by message.
+got my roadie yesterday! i created 3 instrument profiles, (1 strat, 1 jackson, and a line 6 acoustic) all of which worked pretty well. it was when i went to create a custom instrument for my bouzouki that things didn't go so well. i was able to tune the first two pairs of strings ok but the roadie did not respond when i got to the second two pairs. the roadie hardware is working fine and it is connected. not sure what is up. i just gave up on it. on another note, the 1/4 inch to mini jack that comes with the roadie isn't up to the standard of the roadie itself. on mine at least, when you plug your instrument cable in, it clicks in to the quarter inch jack but then it freely spins around the cable causing all kinds of issues with the input. overall i'm very happy that you folks brought this to market and i'm looking forward to improvements! thanks!
+georgia out for delivery today!
+nyc here....just arrived!
+got mine and tried it today. very cool gadget.  as another poster said, the accuracy isn't great.  i slid the accuracy slide all the way to the right and my low e was off 8 cents when i compared it to a known good tuner.  also, several strings seemed to take a long time to tune.  using it on a martin hd-28 so i know it's not the guitar's fault.  hoping app upgrades will improve on the speed and performance.  i rate it fun for now but not accurate enough for anyone who is a serious player (which i am not).
+arrived yesterday in atlanta, ga.  can't wait to give it to my guitarist buddy (luckily i don't follow the practice of waiting until the birthday occurs... otherwise he'd have to wait until it's too late -- he's playing the gig at his birthday because he wants to -- but he wants to pick up the guitar and have it ready to rock).
+hey john, thank you for your message and for the tutorial tip. i will follow up with you by email regarding the issue you are facing.
+sorry for all the posts, side note to my problem when i click wind/unwind from the app that works fine, but when i select my guitar then i get that this is not an authentic roadie error message. hope that helps, seems like an app issue.
+sorry i meant to say android 4.4.2 and my phone has bluetooth 4.0. also your manual says http://www.roadietuner.com/tutorial/ that is incorrect since its now http://www.roadietuner.com/support/ you might want to do a rule to forward that url to support on your server.
+just picked up my roadie from the post office in connecticut. i have android 4.2.2 lg optimus pro g from at&t. i have latest roadie app installed and this thing is throwing an error "this roadie is not authentic! please contact band@bandindustries.com" i just sent an email hopefully will get a response. oh ya btw first time i turned on the roadie it was stuck with red light had to hard reset. so far not pleased, hopefully simple issue and quick fix.
+hello ben, yes i confirmed you ordered two units the second is on the way i will follow up with you by message.
+hey there, got my roadie today. but was supposed to have gotten two. can you check to make sure another is on the way? thanks.
+great! @kip, @matt, @don it's awesome to hear that roadie is reaching it's destinations! please let us know if you have any questions or feedback we would love to hear from you.
+my roadie arrived today (oct 2, 2014) in the bay area. box was dinged in one corner, but the contents were fine. after installing the app, powered up the roadie and the phone saw it. now to get some strings so i can tune my guitar.
+roadie arrived in san francisco bay area.  charging it up and seeing if it will work ;-)
+just a quick post - roadie has made it to new england! got mine today and looking good so far.
+hey, can you resend my tracking number please? thanks
+hello rick, great to hear that you got your roadie! you can improve the accuracy of your roadie by moving the accuracy slider on the app to the right as shown in the following slide: http://app-tutorial.roadietuner.com/#/11 please let us know if this helps.  the app is undergoing constant improvements on the performance side also. hopefully in future updates you will notice further improvements on accuracy.
+got my roadie today and used it to tune my taylor acoustic. works well, but noticed that the accuracy of the tuning is not as good as my $14 micro tuner on the headstock. it's off by between 2-4 cents, and not consistently. my ear and checking against hand tuning methods validates that it's off. any chance that you guys will work on a firmware or app update that will improve the accuracy?
+hey @ben i will follow up for your case by email.
+that's great to know! so here's the thing. when i try to wind/unwind the app indicates that a roadie is not connected by showing the 'get a roadie' screen. thoughts?
+hello ben, its great to know that you received your shipment. you don't need to pair roadie to be able to use it. simply turn your roadie on, and launch the app and it will automatically connect.  check our support page for more info: http://www.roadietuner.com/support/
+hey guys just got the roadie, looks great! got the android app installed but when i go to pair via the bluetooth settings screen the device shows 'pairing...' for a while then doesn't pair. i'm on a nexus 5 w/l preview
+hi !! it's okay with another computer.......$ sorry....
+hello dominique i will follow up with you on this case by email.
+hi, i want to order another one and i receive a message: your card was declined. ?? what's append ? dom
+@marsha @adam, it seems that singpost website is working again. but for us orders all its showing is that its dispatched to the us already. i will let you know as soon as i have further news i am following up on this. in all cases don't worry, roadies are definitely on  their way.
+like most, the tracking number gives no info.
+@band -- that's so funny! my autocorrect changed roadie to mogees, another ks campaign. no idea why, but i don't want you to think i flipped out!
+@mogees, thanks for the info. as long as you're aware, that's all i care about. i was worried that my roadie might be taking a free trip around the world -- like a vacation, lol. i didn't even think that there might be a hold up. when i punched in my tracking number during the first few days, all seemed normal because singapore mail said they were awaiting/processing information and such. and a few days later, their website kept showing all kinds of errors every time i tracked from any device/app -- and i never saw that happen. so maybe they've coincidentally had an issue on their servers. it's a bummer that your #1 fan didn't get her roadie first (kidding!), but if you happen to hear of any news, do let us us-folk know! thanks! :-)
+john, i will respond to you by email with your tracking number.
+hey @marsha it seems the us shipment got delayed more than expected, even thou roadies already started arriving everywhere else in the world. i am following up with our fulfilment center to see why is the delay. will let you know when i have an update.
+i have yet to receive a shipping notice. it seems like that should have happened more than a week ago now, correct?
+anyone else having problems with tracking? it seems like singapore post's package tracking server has been down for days -- both on their website and ios app. as an alternative, i used the usps site since my package is coming to ny. however, when i punch in my tracking number directly through usps's site, there's no updated info their either and simply has the same message that was there days ago. i have no clue how close or far my package may be -- argh!! anyone know of another way to track?! i am trying to be home when it arrives in case a signature is required.
+got mine a couple of days ago here in the uk. just tried it out, i love it, what a fantastic piece of kit, now i need to get some fresh strings for my ukelele, which i have already added as an instrument. loving all the detuned settings in there by default.
+its great to see all the roadie starting to reach destination. please let us know your feedback and in order to make the best out of your roadies please check our support page: http://www.roadietuner.com/support/ @dominique i will follow up with you by email to see what is the problem in your case.
+hi, i don't create a new guitar with my ipad, i don't see "create instrument " !!! :-( dom
+mine arrived in the uk a couple of days ago. just opened it up today as only just got home. going to use it tonight. excited!
+i've dealt with "rf" tracking numbers before. it has not been a pleasant or happy experience at any time. the last things i had sent by singapore post took over 30 days to get here from initial shipping notice date. and, i've never seen updates when i have ordered stuff on ebay with "rf" tracking numbers. hoping this turns out better, ron brown
+i've got the same issue as bbk3e
+my tracking number doesn't really show any information. i think it used to, but singpost says to wait 24 hours or more for any information. usps just says it is in pre-shipment. i hope that means the hand-off happens soon!
+mine shipped on 9/15/2014, arrived in france on 9/23/2014, so hope to receive my roadie tuner in the us in next couple of weeks.
+just recieved mine in switzerland. box was sadly damaged during shipping but no damage to the roadie. tested it and it works great. well done!
+mine just arrived in london - this thing is awesome! thanks for delivering such a professional product (even down to the packaging!) - best kickstarter i've back yet!
+just got mine in the uk too. supposed to be a christmas gift for my son, but i may appropriate it... ;)
+just received mine in the uk.  great product - it works really well. thank you!
+great @edwin! this makes us really happy. in  case needed you can check our http://www.roadietuner.com/support it has tutorials that should walk you through the hardware and app.  let us know if you have any questions/recommendations.
+just got my roadie. quality is excellent. had a quick test with it an it works perfectly. great work guys!!
+@robby please give it some time, shipping might take 2 weeks and more for some places. @rene i will follow up with you on your particular case. no worries we take returns and ship replacements in case of defect.
+hi, mine shipped on the 19th, but i haven't received it yet either...
+i got my roadie today, sweden and it already break. i hear the motor running at full speed and it is turning around but with just the slightest force then it stop turning around, but the motor is still running at full speed.
+hello @daryl, the majority of roadies already shipped and started reaching their respective destinations. i will follow up privately with you regarding your case.
+has anyone received their roadie yet? i haven't received mine… weren't they suppose to be shipped by the end of august, it's sept 22 right now…
+thanks for the quick turnaround!
+@wibbelmann, the next update of the roadie app supports ios6.1. make sure your ipad has bluetooth 4.0 and you should be good to go.
+i have a problem with the app. i am told that i need ios 7.0 or higher, which does not operate on my ipad! solution available ( or refund) ?
+@michael roadie started shipping today and this process should take about a week minimum. when we receive the tracking numbers we will send them directly to our backers so you can track your shipment. we will publish an update soon about this.
+i have not received my roadie yet? please update the shipping status for all.
+hello cl, yes roadie tuner app is available in all countries you can find it here : https://itunes.apple.com/us/app/roadie-tuner/id710590602
+is the app available in different countries' stores (e.g german app store)?
+@george, roadie is only compatible with android devices running 4.3 or newer and equipped with bluetooth 4.0  i will follow up with you by email to see if this is your case.
+is there an apk available?
+unfortunately the android app is not compatible with my nexus 7, nexus 10 or my omate smartwatch... please fix!
+hello @alex, we are currently beta testing the android app on different platforms and it should be released in the coming week, as soon as we start shipping roadie.
+i saw that the app in the app store is already there since january. i was just wondering how the android app is evolving and whether to expect it when roadie officially launches?
+@creator, thanks! can't wait to get it!.
+hello augusto, as we have mentioned in this update roadie will be shipping from our warehouse out by the end of august. i hope this answers your question.
+please define soon (regarding the update)?...
+hey paul, we are glad to announce now that every is back on track. we will soon publish a new update with the details.
+thank you for the updates and info. i'd rather wait and receive a polished quality product than some shoddy ver 1.0. great catches on the qc!
+hey john, well everything is going according to plan now. we've got the finished samples from our tooling and its looking great. we already started with pcba. (check our facebook page www.facebook.com/roadietuner as we post brief updates every now and then). and expect a full detailed update in a week or two. roadie is still expected to ship by the end of august.
+what's the status? its been a little over two weeks now, just curious.
+thank you @chris very appreciated!
+hi there, i like when things are well done so take your time to keep to your standards. oh and i love the packaging, the way the guitar head turns around the box ! i can't wait to have my roadie tuner... good job guys ! chris
+ohhh i cant wait :-) send them out all ready will ya? ;-)
+@lawrance, we are psyched too to send you your roadie! unfortunately our updated shipment date is in late july, please refer to our latest update for more details: https://www.kickstarter.com/projects/roadietuner/roadie-tuner-the-ultimate-guitarist-tool/posts/814929 @bookseller, this is just a recommendation that will make the shipment process more reliable. please feel free to use which ever address you prefer.
+hooray!!! i am psyched. bring it on,june!!
+a quick question regarding the survey... i'm confused by the recommendation to use a work address for shipping. why?
+backerkit surveys went out.  nice
+hello mark, we will be sending out a new update this week. we are sorry we got delayed on our regular updates, and it's only because so many things are happening.
+any news?
+100! just because
+i was just kidding you, lol
+thanks craig! we are almost already working 24/7 but production depends on so many external factors like order lead time, tooling, factory set up , certification, etc. we have no control over the time needed for those factors, so even if we work for 24/7 it's impossible to ship in may.
+thanks for the update, very excited! is there away you can work 24/7 and ship in may?
+@scott, thank you for your message! that's really awesome that you rebuilt a clavinet.  you can definitely create a profile for the instrument on the app, and set the scale but we are not sure whether roadie in its current form will provide enough torque to tune the clavinet. unfortunately we don't have the resources to test this right now.
+i just rebuilt a hohner d6 clarinet and was thinking that the roadie would be the perfect clav tuner! all you'd need would be a different tuning-wrench head and the ability to cover the chromatic scale. as much as a boon roadie might be for a guitarist, it would be roughly 10 times more valuable to a clav player! :-)
+hello @mark, thank you so much for the comment. the full app will be available in the appstore and google play once we ship the product in june.
+i have downloaded the free tuner app from the apple app store... i was wondering if there was any way to download the full app with the alternative tunings? thanks! and i am very eagerly awaiting the arrival of this amazing product!
+@marcus no they haven't yet! we will wait until we are going to deliver to send them out, in case anybody changes their address.
+have the surveys gone out yet? i feel like i've missed it xd
+@aner, thank you for following up. i am currently writing our update, we were having some hectic time running our booth at namm. from now on we promise our updates will come bi-monthly so you can keep better track of the progress.
+any updates?
+@marsha, on the contrary we are glad you answered oskar, thank you! :) we did enjoy ces and now we are getting ready for the namm show (we are travelling tomorrow to anaheim). we will be sharing pictures and our experiences from both the ces and namm on our blog, we will let you know once its out.  all i can say now is that we are really happy and positive about the reaction that roadie has received at ces. check out this hands-on interview we did with digitaltrends: http://www.digitaltrends.com/cool-tech-videos/hands-roadie-fully-automatic-guitar-tuner/
+thanks for getting back to me and for your best wishes on the wedding! it's been hectic here, so i had to be certain that i didn't miss it. i am definitely a very patient person, so i'll happily wait for news about the cases for roadie. after all, if you rush the job, the cases will cost you more money, and the results won't turn out as nice! i hope you don't mind that i answered oskar for you. you had told me that you'd be shopping around for the cases when you would arrive in china, so i figured i'd pass along this information to him. :-) i also hope you enjoyed ces! i seems like lots of kickstarter campaigns that i backed went there. did you learn of any new technology innovations that you want to share with us? if you got to show roadie to the public, what did people think about it? if you took video and pictures, post it for your backers to see!
+sorry for the late reply, we just got back from the ces show and we are trying to catch up with the messages and emails. @marsha, congrats for your sister, we wish her all the happiness! we haven't sent out the backers surveys yet, we will be doing so in the coming week. don't worry on missing it, we will keep following up with you until you get back to us with a reply! :) as for the bags, it won't be until late march that we have an answer, i hope you can be patient with us!
+@oskar, i sure hope so! i think the company was going to china to see if they could get a more affordable price for cases -- and they said they'd try very hard to make it happen. they should be in china now, so i'm hoping we will have an answer soon!
+hey there is there any chance that we get the carrying case as well as we were so close to the stretch goal?
+@band -- did you guys send the backer surveys from kickstarter yet? my sister just got married this week, so i hope i didn't miss anything by accident. i'm just double checking -- been missing lots of stuff in the past few weeks, lol. being a maid of honor is hard work! ;-p thanks!
+dexter, moises and andrew, thank you so much for reaching out to us! we can't wait to send you a great roadie tuner that will be your companion (or your loved one's companion) in your musical journey!
+i'm glad i made it right before the cut.  this will be a birthday present for my wife to use on her electric guitar. it's expected to arrive in june and her b-day is at the start so i hope it ships sooner. either way, i know she will love it.
+congratulations on getting funded! can't wait for this to come in the mail. best of luck with putting everything together!
+oh man we were so close to 180k…. sad.
+@hadi! happy new year to you too! we can't wait to have roadie sent to you!  @cecil, you are awesome! thank you! 5 hours to go!!
+and then there were three!
+@band industries. thank you. just doubled my order! shoot. i may triple it before the day ends!
+happy new year to all. already looking forward for mid year to receive my roadie gadget.
+@cecil, you can order two roadies by pledging double the original pledge level. i.e. $158 (+ $30 if shipping internationally). same applies for 3 or more!
+how do we order more than one?
+@daren, no unfortunately roadie only works on instruments equipped with guitar like machine heads which is not the case for the sitar.
+i meant to ask earlier, can it also tune a sitar?
+hello brandon, unfortunately the current version of roadie tuner cannot tune a bass guitar, this has been answered in the faq previously:  http://www.kickstarter.com/projects/roadietuner/roadie-tuner-the-ultimate-guitarist-tool#project_faq_74692 the reason for this is not only the machine head but it is that the bass guitar has a much higher string gauge which means it requires higher force to tune. we are really sorry for the inconvenience.
+when i pledged for this it said it worked on any stringed instrument with guitar tuning pegs, but later i saw somewhere that sao it wouldn't work on a bass guitar? which is correct?   i play a 5-string bass with fairly small tuning pegs (not the giant ones like the p-bass has).  will this work for me?
+hello luke,  sorry for our late reply, we were weighting the feasibility of the idea of having a personally engraved roadie. unfortunately, this will require a lot of overhead in designing and managing the engraving on a case by case basis. as we don't want to take time away from our required work to meet our delivery deadline in june, i am afraid we will not be able to do the personal engraving. we are really sorry.
+hey guys, very much considering pledging for a roadie! i pledged a dollar so i could support and be apart of this awesome project, and also so i could ask you a question. have you thought about adding a higher pledge option for personally engraved roadie's? these things will be set down like guitar picks, and have a high chance of being lost by us irresponsible/forgetful musician folk. it would be pretty cool to lay claim to my roadie with the official etching of my name.
+thank you all for your comments. craig  you don't need to change the pledge level to get the leather pouch, in case we reach our 2nd stretch goal it would ship with every roadie.  as for your question regarding restringing, roadie will undergo a lot of heavy testing before the production run and we will make sure it is beefed up for the added demand!
+my dad will love this... shsss dont tell him. anyway i really hope you reach the next stretch goal as that will make the gift complete. :)
+just found out about this project and i couldn't back it fast enough. it's affordable and practical, i see this being an extrememly popular and useful tool. looking forward to getting my roadie!
+if you make the goal to make a unit that will restring your guitar, will this unit be beefed up for the added demand for wear that the unit will obviously be subject to?
+how can i change my pledge to get the leather pouch?  thanks, craig
+love the latest update, someones obviously a tenacious d fan...
+the prototypes look great! can hardly wait to get one in my hands!
+thank you all for the support, we wouldn't have made so far without your help!
+@caz draven, we are sorry we haven't replied to your comment on the update, it is difficult to keep track of all the places where comments can show up!  caz you don't need to worry we will be using artificial leather something that definitely will not be harming any animals whatsoever!
+mom  souad  great, second goal achieved congratulations again , proud of you guys
+great job hitting $120k. i knew it would! question time, i put a comment on the update mentioning the stretch goals but thought best to ask here too. instead of a leather bag to hold roadie, can an alternative be offered for people who don't like leather (me included) a leatherette case would be fine as there is no animal skin involved. :-) thanks
+just reached the $120k stretch goal!  all right!!!!
+caleb! thank you very much for your comment. we really appreciate all your support, we can't wait to send a roadie tuner your way!
+this is the first kickstarter project i've backed. an attendant at a music shop i teach at sent me a link, and it was an absolute no-brainer. i'm spreading it anywhere i can to hopefully push you guys over your stretch goals. what a sensational tool. i can't wait to start using this!!
+micheal and david, thank you!
+i'm just learning to play and i have alot of problems with tuning, so this will be a life saver. great idea
+genius idea!!!!
+way to go guys! support support support!
+@max , definitely! on the app you can create a custom instrument with any number of strings :) we would love for roadie to tune the loog guitar!
+i want to use it with this guitar. please include 3-string-presets http://www.kickstarter.com/projects/rafa/the-electric-loog-guitar
+@james sure, roadie tuner has been tested on many instruments that use guitar like tuning pegs such as the mandolin and the ukulele
+have you tried roadie on a mandolin?
+@sami chatila, you are an inspiration for all of this!
+oh we can comment here? kick ass project fellas! i'm glad to have been witness to the beginnings and proud to pledge in this massive undertaking!  good on you guys and keep it up! :)
+hey tmr designs! thank you so much! we are glad that you like what we are doing! this is how we started in this project , and after many many iterations we ended up with the current roadie. we hope to see and support your projects also one day!
+guys!!  this is the coolest product i've ever seen.  pledged!!  i used to think about a way to do this by hooking up individual servos to my machine heads and run it through a plc but you guys have totally blown this idea out of the water!!  nice one, good luck with it all!
+many thanks zada for your support!
+congratulations! best of luck for the next stage :)
+thank you for the support people!! we wouldn't have made it without u!
+congrats :d
+woohoo, congrats!!
+congratulations!:) funding goal achieved in less than 4 days!
+well, done! funded in 4 days
+today you will reach the 60, i'm sure  of it ! excited to see roadie brought to life !
+97% in 4 days !! what a great achievement! so happy for you guys :-)
+nicely said jan... 90% of the way to 665 tuned guitars!
+90% of the way to a tuned guitar...
+hey cixel, thank you for backing roadie. this is a good question. roadie is actually able to detect the pitch of a bass guitar, the main limitation is the actual torque (power) to turn the bass tuning pegs. we have tested many motors and had to make this sacrifice in version 1 of roadie for ergonomic reasons. we're looking forward to support the electric bass as soon as possible!
+what is the limitation on not being able to tune a bass presently? it would seem via the instrument adapter you should be able to detect the pitch.
+hey mahmoud, many thanks for your support.
+thank you stuart for your support! very appreciated.
+this looks awesome. all the best guys!! would love to see a windows phone app for this too, but hey, i can use my wife's ipad for a while ;)
+excellent work guys (bassam and hassane) !! best of luck :)
+hey jan, thank you for backing roadie and for your message. we hope roadie will save you a lot of time tuning your guitar and countless hours playing on an untuned instrument!
+glad you're considering the windows app in future. it'll be especially cool if you could get to it at some point, as such an app would also work on windows 8 desktops/laptops. congrats on how much backing you guys have already!
+this is so cool. as a total guitar noob, this make so much sense.
+hey ben, thank you for supporting roadie. glad you were able to get an early bird! to get a second one shipped to you, please add $79 on top of your pledge level amount. i wish we could offer more early bird roadies, they have gone so fast.. the regular ones are only $10 more and still $20 cheaper than the final price! happy guitar playing
+ben, i think you will need to create another account on kickstarter to make another purchase. that's what i did :)
+yay, finally a project i can get in at the early bird on!  looks like a great tool.  if we wanted to get two, can we just double our pledge level amount?  might need one for my son as well!
+thank you tamima, your support has been invaluable in roadie's development!
+thank you alec for your interest in roadie! its a pity that we cannot support all phones right now. hopefully in the future we will add support for windows mobile, then you will be able to directly purchase roadie from our website. stay tuned here eepurl.com/ezjl5 ps. note that if you have an ipod or ipad you can still use roadie!
+sooo extremely proud of you guys and soo excited to receive the roadie i just bought !! :)
+any chance you'll do a windows phone app as well?
+hey rana, thank you for testing out the earlier prototypes of roadie. we're confident you will love the latest version!
+i am lucky i had the chance to test roadie, one thing for sure, you will not regret buying it! very simple to use, perfectly accurate and very smart app.
+thank you lisa for your support. we're looking forward for your positive feedback in june!
+i absolutely love it! cant wait till i receive the actual product!
+thank you @new vintage amplifiers, we appreciate your support! your amplifiers look awesome!
+wow guys, this thing looks incredible--a guitar tech's dream come true.  best of luck with this!
+thank you for your support hassan!
+genius!
+thank you sarah for your beautiful comment. roadie's mission is get more awesome people like you to learn the guitar and to make learning it easier and even more fun!!
+i've always wanted to learn to play guitar. this is going to make it really easy as a beginner =) thanks for making this!
+great! thank you guys for all the support.
+awesome!
+you worked hard for this, good luck :-)

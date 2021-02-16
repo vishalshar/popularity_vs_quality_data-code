@@ -1,0 +1,112 @@
+anyone have success getting the moff to work with an android device?  i'm still sitting on a useless item that won't connect to any android phone i've tried to connect to.
+to back what j dubrow and keith laflam said.... would love to have an sdk to develop against.  android app would be great, sdk would super great!
+@j dubrow we're considering about some services for developers such as sdk. but unfortunately the plan is undecided. as for now, we have been collecting the idea to consider from developers.
+@keith laflam yes. we're preparing to launch our android app in near future. please look forward to using it.
+any chance you would considering releasing the protocol to the public domain so that we may create our own applications?
+great job with the band's. quick question? i have switched from apple to android any idea if you'll come out with a android app in near future?
+@georgia dabinett sorry for inconvenience. we'll send you the number via kickstarter message. please check it.
+recipient has not received.  can you provide tracking number?
+@james pollaro sorry for inconvenience this time. we've just sent you a message on kickstarter. please check it.
+@alok chaubey sorry for inconvenience. we've sent you a message on kickstarter. please check it.
+still have not received anything can you provide any tracking info please.
+i have not received mine till now do you have any tracking info
+@steven zachary sorry for the inconvenience... we really want to make our moff band much better. in order to solve the problem, we would like to know the details. we will send you message later. please keep in touch with us!
+@brandon griffin thank you for your sharing the wonderful movie! it is very cute!! it is so much pleasure for us! concerning the android version, we are still working on it. thank you for your patience. we will keep on upgrading our apps and plays!
+i gave up on the install of this.  it's sitting in a heap of unused junk.  i've done the install according to the video three times on two different devices with different ios installed. one an ipad 2 another an iphone 5.  the concept is cool, but i have to say the user design is atrocious.
+still looking for an android version but i managed to get it working on a gen 2 ipad.  here is a link to a vid of my kids loving these things.  we have been playing for almost an hour straight now...great stuff https://plus.google.com/u/0/+brandongriffin1983/videos
+just got mine today, can't use it though because i'm on too old of an iphone/ipad version.  any update on when android will be supported?   can't wait to use these, my children will love them.  i also add my vote to be able to hide certain sounds...gun fighting isn't appropriate for my 2 and 3 year olds.
+@ravipart lee @neil thank you for your comments. i think the function to hide the particular sounds will be important. we start to be considering it. thank you for your feedback. it's greatly appreciated.
+i'm going to second the request to hide the gun sounds.  it's really not appropriate for kids (at least in my household).
+@yusuke usui thank you!!!
+@takagi kensuke thank you for your comment and post!
+@katarina crea thank you for your comment and post! your video is so great! thank you! did you record with google glass? by the way, concerning the toy gun, let me explain. for all plays, we use the technology of "patter recognition". we registered the particular movement / position patterns when developed. moff band and the app will recognize your movements and positions, and will calculate whether they match the registered patterns. concerning the toy guns, i think, the range of our registered patterns is too small... we will deal with it. thank you for your comment! it is greatly helpful.
+@abdul halim mat ali thank you for your comment! and sorry for the inconvenience.concerning our android version, please kindly wait. we will do our best!
+@arckal thank you for your comment! have you already got our moff band? we hope you will enjoy with moff band. by the way, thank you for your questions! 1) does app allows you to customize sound? i.e. can we add out our own voice on some action?  as of now, unfortunately, not yet. however, in future, we want to do that. we think it will be helpful for kids' creativity. 2) how loud is action sound?  it depends on the situation. for the ordinary living room, it will be appropriate sound. 3) can more then one band connected to single ios device/app?  as of now, maximum is 2 moff bands can connect to single ios device. 2 people can enjoy with each band or 1 person can enjoy with 2 moff bands, such as drum play. please see the below play! http://youtu.be/1ay6nueql_k… (sorry for japanese title) 4) is there any lag between action and generated sound? honestly speaking, it is difficult to say there is not lag. however, when kids play, the lag seem small kids won't care about it.   5) is there any rationalization can be done on band, means it senses when you put-on then it welcomes you with your name, and when you take-off band it cheers you with message? thank you for your good idea! it's greatly helpful for us. we hope your kids and you will enjoy with our moff band. thank you!
+@johnbkk thank you for your comment! we hope you will enjoy with moff band 7.1 is related to bluetooth connection. sorry for inconvenience.
+i got mine. thank you !
+@peter lessels thank you for you comment! it is greatly helpful!
+@ravipart lee thank you for your comment! your suggestion is appreciated.
+arrived! fun!! https://plus.google.com/u/0/+takagikensuke/posts/n1illu2q8gm
+look i got my moff band  https://plus.google.com/101075367388701077847/posts/yuvni5ageep
+@creator.  just test moff, looks like the hardware is ok.  however, without android app, my daughter can't use it.  hoping for the android app to release soon.
+since i am waiting for mine, could you guys check and post here about: 1) does app allows you to customize sound? i.e. can we add out our own voice on some action? 2) how loud is action sound?  3) can more then one band connected to single ios device/app? 4) is there any lag between action and generated sound? 5) is there any rationalization can be done on band, means it senses when you put-on then it welcomes you with your name, and when you take-off band it cheers you with message? @creator, if #1, #3 and #5 are not there can we have it via ios app update in future?
+got mine today, bangkok, thailand. can't test it yet, since it requires 7.1 and i'm still on 7.0.4 (i hate to update). any special reason why 7.1 is required and not 7.0? anyway, i'll probably update to 8 soon.
+just got mine today. my kids are going to love it. big note: battery cover is opened clockwise. the three pins align with holes and then you may need to use something to (gently) pry off cover. when putting the battery in, slide it down into the side contact and make sure it is fully seated before closing the cover.
+got it today in sydney, australia. are we able to activate and deactivate some sounds in the next update? i personally don't like an idea of having gun sound.
+@sk thanks for your support!
+@johanna stein thank you for your comment. and sorry for the inconvenience. we've uploaded the tutorial video on youtube for moff band user. have you checked it already? if not yet, please check it and watch the part from 2:04. you can see how to open/close the battery cover. moffband user guide - how to setup moffband https://www.youtube.com/watch… if the problem do not solve, please do not hesitate to contact us. thanks.
+@margaret takaki thank you for your comment. and sorry for the inconvenience. we've uploaded the tutorial video on youtube for moff band user. have you checked it already? if not yet, please check it and watch the part from 2:04. you can see how to open/close the battery cover. moffband user guide - how to setup moffband https://www.youtube.com/watch… if the problem do not solve, please do not hesitate to contact us. thanks.
+@magaret takaki @johanna stein: turn the battery cover clockwise till the 3 metal legs of the battery cover are aligned with the 3 holes. then flip the device over and tap the battery cover slightly, the cover should drop if it's properly aligned. also, it's easier to insert strap after straightening it.
+got mine today in quebec, canada! i will test them as soon as i can
+got mine....guess what i'm doing tonight....
+i already tried a coin(s).  it appears that the cover is stuck.  help!  eagerly anticipating a response.
+i can't get the battery case open!  how do you unscrew it?
+how do you install the battery?????
+my moff just arrived. wow that's fast for the shipping. too bad, android support is only available dec 2014 or my daughter will be very excited to play with this.  only thing to do now is to check whether the hardware is ok.
+it's mid sept now.  any revised shipping date?
+@ben gonshaw thank you for your comment and question. actually, we've started work on android version. now, we are working on the roadmap. when this roadmap is ready, we will announce that for backers.thank you for your understanding and patience.
+congratulations on solving the design and manufacture issues.  really pleased about your meticulous attention to detail and the high standards you have for moff. i was wondering whether you have started work on an android version of the app yet, and if not when you think you might get started on building it?
+@georgia dabinett @arckal  thank you for your comment on our shipment.as of now, it's difficult to announce the specific date. but our shipment is scheduled to be the middle of september and be in progress.thank you for your patience!
+any shipping updates?
+any revised ship dates yet?
+hi there, you did say in the campaign that moff would work with android - how far away is that? cheers, mat.
+@creator.  oh no. iphone 4 is not supported.  can you support the well known android phone instead?
+@abdul halim mat ali oh...iphone4..  as we mentioned in our kickstarter project page before, moff band is compatible with just like below... ----------------  compatibility iphone4s, iphone5, iphone5s or ipod touch (over 5 generations) ipad (over 4 generations), ipad mini or ipad air ---------------- it's because of bluetooth low energy (ble, bluetooth4.0）.iphone4 is not equipped with ble. and the version is only over i0s7.1. can you get these ios devies? best reagards, moff team
+@creator. can i know which ios is compatible with? i have an iphone 4 which i have yet to upgrade to ios7 due to the battery issue reported.
+@mikael nordgren . lol imoff.
+@mikael nordgren @abdul halim mat ali  thank you for your comment! your feedback will be very helpful for us. we are always thinking of android and its importance.as of now, it's difficult to say the firm date. however, we recognize android support's importance. we wish we could do everything at the same time. we will do and introduce step by step. sorry for your patience. your kind understanding and feedback is highly appreciated. we will keep on updating info. best regards, moff team
+android support is a must, otherwise you can rename it to "imoff". please provide a firm date when you are supporting android as you are delaying the delivery by 2 months.
+@creator.  what do you mean you are not supporting android when you ship to us?  the statement is this comment stated you are going to support android.  https://www.facebook.com/groups/backershub/permalink/414432472029970/ please provide a firm date when you are supporting android as you are delaying the delivery by 2 months.
+@abdul halim mat aki thank you for your comment! now, we are making molds. when molds made, we can show you more pictures!
+any production pictures?
+@lilli and @maxi thank you for your comment! and sorry for our late update. now, we are doing our final check for the preparation of mold and the other mass production. in a few days, we will get the sample for this. when we get this sample, we will updates. best regards, moff team
+i'm very excited for the moff toy! i just wanted to know when it will be available for the backers!
+does anyone receive update of this project?
+@nell thank you for your funding and comment. yes. i also have my kid.i believe the safety is the most important issue. we put high priorities on safety. we plan to do some safety tests. we will take care of safety more. thank you.
+@danny thank you for your message!!! we hope your nephew will enjoy our moff.
+@masaru thank you for your message!!!
+hi, congrats on your funding.  i am glad to have funded this project.  sounds interesting, but raised some questions i couldn't locate on your kickstarter campaign page.  as this is a wearable device, can you speak to what testing there will be for safety of the material?  if you are aware of us news recently fitbit, a wearable device manufacturer, had to do a recall for its wearable devices recently due to skin irritation/blistering from the materials (metal, strap and adhesives).  also, as this falls under a product aimed at children, will there be any advance safety testing or proceedings with the us consumer product safety commission(cpsc) prior to public launch?  thanks in advance.
+this thing is so cute, can't wait to gift this to my lil nephew!
+congratulations! for the successful funding!!
+@otoshi no kami (erudito no. 40723) thank you for your comment and back! we will do our best for all our backers. thank you!
+@kokobin thank you for your comment! it was greatly helpful. as of now, we will concentrate on the delivery for our backers.
+congrats for passing.  hope your product is success.
+i am hoping that we get a better product that the prototypes so far. the only time i buy a watch battery is for my bathroom scale. with kids/adults  playing with moff, battery costs pile up steadily.  what would the retail price be after kickstarter?
+the coin battery contributes to its large size and old fashioned tech. not many people would find it easy looking for a replacement battery once it needs to be changed. there should be an option for a micro usb charging port.
+@kokobin sorry for your inconvenience...as our 1st step, we will do our best for producing good device and service. your kind understanding will be highly appreciated.
+@otoshi no kami thank you for your comment and kind understanding.
+get better/another manufacturer. it makes no sense with $76,000 in pledges and only 1 colour in your world? ridiculous.
+maybe they will have colors in the future, but for now we will only get orange as a starting point.
+@kokobin thank you for your comment! our slap band is ok for both adults and children. they can enjoy the same moff band. concerning the choice of colors, we discussed it with our partner factory many times. however, unfortunately, we need more quantity, therefore, as of now, only the orange will be available...
+i presume we would have a choice of colours - if that has not previously been announced or considered - now that there are enough backers with over 360% of the funding goal already attained.  and any more information about the strap sizes (and other mounting/fastening options) - surely you do not think over a thousand backers only want moffs for the wrists of little children?
+@otoshi no kami  thank you for your comment and support!!!
+@moff good luck making this technology a success. i'll be supporting you.
+@kokobin maybe it's probably because we have less people in this comment section so of course he is going to chat with us.
+@kokobin thank you for your comment! we would like to create our moff with users. your ideas are highly appreciated. thank you!
+thanks for the reassurance. you guys are certainly the listening types. great!
+@kokobin thank you for your comment and idea!!! boxing/fighting sounds nice!!! users' ideas are very helpful for our development. concerning customizations of gestures and sounds, we plan to offer the means inside our app without programming.
+just to be clear - is moff programmable with out own custom sound library? or do you provide the means to make this possible? would love to get 2 and have realistic boxing/fighting sounds as 2 actors appear to go for it.
+@rae thank you for your comment! various plays and sounds will be included for free in our app, when moff band is delivered!
+dear moff creator: you mention that the play sounds will be available in your apps market. will we have to buy the original various sounds shown in the campaign separately once we have received the moff  or are the sounds that you have developed included? how many sounds come with the app for the band?
+@patrick thanks for your comment! some answers in faq were updated belatedly so some people couldn't check it. we're sorry about it. we really appreciate your comment!
+@patti  @joe thank you for your asking! the upcoming android moff app can work with the current moff band. so you don't need to purchase different type of moff band. thanks!
+@nick thank you for your asking! it's under consideration if we stretch our goal or not!
+@jonathan thank you for your feedback! we would like to use your opinion as reference to improve moff band and moff app. it's highly apppreciated!
+@sylvain thank you for your asking. moff band and moff app connect in one-to-one relationship at the moment.  however, we're developing app which can connect in one-to-many connection.
+folks need to read the faq - some questions are answered there.  as for where the sound comes from, the decision to not have it come from the moff is based in reality.  a speaker would be very easy to break, would increase product cost, and would very likely sound horrible - tinny and small.  i'm glad the sound doesn't come from the moff.  if it did i would have to question backing the project as it would make the toy more likely to break and more likely to have cheesy sound.
+i have same the same question as patti jenkins.  when or if the android app becomes available, does it require a different moff?
+thank you for a cool product and great presentation with details on the kickstarter page!  if the discussed android app becomes reality, will this current moff unit be able to access the android app or would it require a different moff unit to be sold at that time? (understanding that, at this point, it is not available for android.)
+are there any plans for stretch goals to increase pledges?
+if the sound emits from the moff itself and not an ios device i think that interest in the project would sky rocket. especially if there was support for android devices.
+this a very good idea. but is it possible to connect two moff at the same time on one device?
+@abdul, thank you for your asking the questions. we appreciate that. why do sounds appear from smartphones or tablets? first of all, we put high priorities on extendability of our service (sounds are just our 1st step) by apps.that's why we fully utilize the capabilities of smartphones or tablets including their speakers. we have done the user tests many times and there's no problem. please imagine the live music.musicians play guitars and sounds appear from independent speakers different from guitar itself.it's the same.when you enjoy moff, you will find this point doesn't matter. and the timing of support for android is under consideration.please kindly look forward to it.
+creator.  so, it will just emit sound.  why can't you make a sound appear from moff? it will be more realistic for the children.  will you provide support for android by the time you ship the device to us?
+@ron, thank you for your question! moff band uses the smartphone or tablets's speaker. we did the user tests many many times. and it was concluded its volume and quality of sound were sufficient indoors.
+@osman, thank you for your message! it is a great honor for us! and thank you for your advice. we would like to add high value pledges...now, we are asking kickstarter.
+@dixon, thank you for your comment! we are excited too!!! please look forward to arriving moff!
+@osman, thank you for your idea! it's highly appreciated!
+does the moff have it's own speaker, or does it use the smartphone for sound?
+just a hint ... you need to add high value pledges...
+congratulations :) campaign funded!
+how exciting.  this is going to be such a blast.  can not wait for them to arrive.  would like to become a share holder in the company, very soon.  best wishes.
+very cool :)  , you can also add tag recognition to the moff or minimum get moffs recognize there presence for multiplayer or just include ir rx/tx for shooting or similar games.... another idea is to provide an expandable 2 i/o ports on the moff to add selected sensor depending on required app

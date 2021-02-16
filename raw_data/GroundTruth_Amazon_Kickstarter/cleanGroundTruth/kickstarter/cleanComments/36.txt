@@ -1,0 +1,343 @@
+thanks for the comments guys, check your messages: we have contacted you :)
+has anyone received their mouse yet?
+hey ! i just would know, when the macros will be availaibles ?
+hey, is there any tracking information you can provide? i realised it's been a while since you guys mentioned that it's been shipped. thanks in advance
+just realized that the delivery never came. could you please give me a hint on my package?
+i just remembered about this now, and i just found the survey in the depths of my email, could i still get a tracking number? thanks!!
+@yap of course we do! please check your messages. we sorted the problem out. sorry for the inconvenience!
+@mionix ,i hope you can provide some support from your side.  i have yet to received it, the package could be lost.  anyway to assist on this ?
+@paul johnson the gsr is connected to ground, so static discharge can happen just like with any grounded object. the circuits inside protect the mcu in the mouse and the computer from being affected by this, this has been tested in an esd lab. static is you discharging. not the other way around, even if it can appear that way.
+@paul  - also please make sure to conact our support. they will be able to help you :) thanks! https://mionix.net/support/
+heya mionix. i've contacted support. hopefully theres a solution to this problem. thanks for the prompt response. :)
+hey mionix! question, i just got shocked from mine (note, this was like an scuff your feet on the floor and it discharges). not worried about getting my hand shocked, my concern is if there is a potential for that to discharge into my computer. i imagine not, but am mostly curious if it's something you checked into and made sure couldn't harm the pc. thanks!
+@hasbulhadi hb wow that should not happen! please reach out to us here: https://mionix.net/support/ so we can help you. thank you!
+hello! i got my mouse a few days ago, but i can't use it because the sensor which detects the heart rate (two metallic tabs) keeps on electrocuting my hand, which makes it uncomfortable for gaming. is it supposed to be normal? do you have a solution to this problem? at the moment i'm sticking to my mionix sk, until i can get this shocking problem fixed. thanks!
+@esteban the new sw does not change anything in the hr sensor. did you maybe turn it off in the ui?  please reach out to our support if you have any issues with the hw.  https://mionix.net/support/
+the heart rate sensor doenst on with the new update :(
+thanks guys, got it today about 3 hours west of toronto! unfortunately the nature of my work no longer makes the double-pack as beneficial, but i'm sure i can put it to good work!
+@grant and @jason hey guys, check your messages ;)  glad all the other parcels arrived!
+got mine today yay
+i havent recieved a tracking # and i would like to know when it gets here because they leave packages outside the door and i will be out of town for a week.  this way i can tell somebody to come pick it up for me when it gets here...ty
+@mionixlabs just received mine today!  no need for traking number!  thanks (received it in canada)
+it would be nice if this was wireless.
+@mionixlabs i see that you responded to a number of people getting their tracking numbers. i was a pretty early backer for the double-pack and i still haven't received any kind of word on the tracking and didn't get a response to an earlier post. any chance you could pull this info for me? my naos 5000 has been on its last leg for the last 2 years and i've been desperately waiting for the qg to get here.
+hi guys! besides being a backer on this project, i'm also a researcher, and at the moment we're running a study on games crowdfunding. please, consider participating in an academic crowdfunding user survey we created, and help us better understand why people back campaigns! you can find the survey at: http://www.surveygizmo.com/s3/3061898/crowdfunding-user-survey
+@mionixlabs no need to look and thank you, i did receive my naos!
+@larry y. liu oh we are sorry about that. sure thing we can help you! make sure to make some photos of the damage and send them to  http://support.mionix.net/anonymous_requests/new so we can help you. thanks and sorry!
+hey @pw3ner sorry to hear you are having trouble with the download! you should be able to find everything here: http://mionix.net/setup/ in case you need help our support team is happy to assist. you can reach them here: http://support.mionix.net/anonymous_requests/new they will get back to you very soon. hope that helps!
+@tomy-julien girard @sn0w @keenan carbonell @martin javier @yap xinkain hey guys your sendings should well be on the way. all your qgs have been marked as sent. i will need some time to dig out respective tracking details. but do not dispair - i am sure it will get to you soon ;)
+@ish hey indeed you did not get your mouse yet. you are in the second round of send outs as you submitted your address a couple of days later than the rest of the guys but you should have it very soon! sorry for the wait ;)
+just got my mouse today! playing with the software. but the download page for the api seems to just go to a blank broken page for me.
+apparently posting about it is the secret. got home today, and had a mouse.
+i have not received mine yet  and no tracking number as well... (canada)
+just got my mouse today and while it looks like out of the box way more premium in feel and build vs. my naos 7000, it did came with a defect where the soft-touch on the edge of the left button came out of the box peeling. is there anyway to contact support for a replacement?
+got my pair of mice today.  working fine through a usb hub (steelseries 700 doesn't like the hub). the software needs some work.  i haven't found a forum for feedback.  the obvious changes we desperately need to be able to assign keys and macros to the mouse and auto detect application for profile switch.  i think i can live with it otherwise.  configurability (bpm, cpm, etc) of the overwolf widget would be nice to have.
+glad to see some are hitting us backers. hopefully i see mine soon. my current mouse has been acting up for a while.
+i have asked for tracking since last week. no response at all from your side. please assist
+i love the it. been using it for a week now. but the mouse 4 button has stopped working.
+received in us on oct. 17th! :d amazing product, guys! thank you! 10/10 5 stars.
+it showed up at my house today, didn't even know it was on its way. awesome, haha. i live in usa btw.
+just received mine in the us so if you haven't got yours yet, i would expect to get it soon.
+hello :) i was just wondering if us packages were still clearing customs. thank you again for your time!
+got mine in australia last week!
+never received a tracking number but to my surprise i got mine today. it just randomly showed up! located usa-arizona
+north american backer, no tracking information received?
+still nothing in canada if there's a traking number i would appreciate too ! thanks
+hello, one more time ..  i´m still "naosqg-less", here in czech republic, pilsen.  parcel has not arrived yet. is it possible to email me tracking number as well?  thank you in advance. have a great weekend.
+walked into my office this morning to a small unexpected package! wasn't sure what to do with this weekend, but now i know what will be taking my extra time! thank you all for stretching the normal and being forward thinking! excited to unwrap this box and plug it in!
+@sloth, if you're thinking of doing something like that please reach out to developer@mionix.net and we can support you.
+any way to get tracking info for parcels coming to canada?
+i am here in canada and have yet to receive any king of tracking information. just want to be sure all is in order.
+overwolf doesnt work with many games and cant capture the plugin window (obs). i'm thinking of making an app to display the info for obs/xsplit. suggestions how output should look like would be appriciated :) i might stream the dev/coding on twitch (ridleylycan), but i'm not skilled programmer and i'm really boring..
+hi, i was wondering if you could send me the tracking info as well?
+hi nexy - please see your mail.
+is there any tracking? i'm in france and still haven't received my unit.
+amazing quality of the hardware, the packing is beatiful. im really impressed with this mouse. the software still need more updates like automatic record when the windows open and the posibillity to search to old sessions. great work
+should we receive a shipping notice in the us?  nothing so far here.
+hey we are digging into why some of you have not yet received the packages.
+the mouse cost only $79 and i have to pay $32 for custom invoice? this is really a overkill for that price.
+still nothing for me, here in eu / czech republic.  should i contact your support about that, or is it still in an "normal" area (i hope package is insured in the case of getting lost in the process of delivery).  i have no problem waiting, but i´m quite concerned  ..
+we got words late last night that there has been some sort of miss communication at the us warehouse (we use a 3pl there) but as of yesterday all units for north and south america has been sent.
+any news for us deliveries?
+rec'd mine in australia today.
+received the mouse in india! awesome quality! its a top notch gaming mouse even without the sensors, but the sensors add an additional depth to gameplay! awesome job @mionixlabs!!
+hi all! thanks for all the feedback! there been quite a few bug solve in the software, so make sure you download and use the latest version. https://mionix.net/download/mionix-hub-setup-0-12-c430253/ if you didn't install anything yet, make sure to go through the setup page. https://mionix.net/setup the in-game overlay was also updated last week, we hope to see the new version in the overwolf store soon. currently we're working on improving the response time of the heart rate sensor, and aim to release an updated version soon. have a great weekend, mionix dev team
+received the mouse in this morning in china, can't wait to try with it...
+got my mouse in the u.k. yesterday. love it! great design and feel! only a few gripes though. the green led for what i presume is the heart rate sensor blinds my eyes, and really makes them hurt if you look at it too many times, the only way to combat this is to turn the heart rate sensor off in the mionix hub. the last gripe is that the heart rate sensor takes a while to work properly. for it to work, you have to put your hand on the mouse and wait for it to 'calibrate'. it will say 'preparing...' and 'almost ready...' for atleast two minutes. only then will the heart rate sensor work and display your pulse. this is annoying because it happens everytime you take your hand off the mouse and put it back on.  in conclusion, hopefully mionix can fix this and make the heart rate sensor instantaneously or nigh instant like the gsr sensor, but for now i would recommend to turn the hear rate sensor off completely and spare your eyes from burning.  overall though, great product, just needs a few tweak and improvements ;)
+recieved it last friday,
+received today in ireland. i have to agree that the blinding green led is a bad design choice. you have to get into the habit of not looking at the mouse, as if it were the sun.  the software (mionix hub 0.11) is barebones at the moment, and has less features than the €15 generic ebay mouse it replaced. i have faith that the product will be improved over time.
+not recieved yet - czech republic .. looking forward to it though. :) p.s.: to know tracking-number would be actually useful
+glad to see people getting their mouse. any idea when they will arrive to us backers?
+got mine today (france). my computer (win7) didn't find the driver automatically, do you have it online for download ?
+just done my own unboxing of the naos qg! https://www.youtube.com/watch…
+exiting stuff! i like the mouse alot. i would like to request to be able to change the key bindings so we can custom bind the mouse so its possible to use certain keyboard button for ventrilo/teamspeak/mumble in upcomming updates to the software
+fedex says it was delivered but it wasn't?
+arrived @ northern finland. agreed with the optical heart rate sensor light intensity and retina burning capabilities. otherwise quite neat (good packaging too)! now to test it some more.
+just arrived here in belgium :d!!
+everything works great, sure the mionix hub is beta but that will do fine for now. nice presentation, and feels like an high quality product as my other mionix mouse.
+@kristoffer nilsson  please make sure to open a ticket with our support. i will inform them that of your issue but we will need more details to get on the case. so lets start talking here:  http://support.mionix.net/anonymous_requests/new
+we are so excited that you are getting your hands on the naos qg. thanks for helping each other out! that is fantastic. if you have individual issues installing the software then it would be epic if you could open a ticket here  http://support.mionix.net/anonymous_requests/new so we can make sure to handle every case. we have a great support team ready to help you out. here you can find all the information on the naos qg setup. http://mionix.net/setup/
+@xpateikx thanks! i did not see that page on mionix website
+for overlay install owerwolf + this plugin : http://store.overwolf.com/app/mionix-quantified_gaming_by_mionix
+got mine today (living in sweden). its ok but i think my grip is a bit to 'clawie'.  also the software seem a bit more beta then i thought.  kinda just track heartrate atm. also the green heartratetracking-lamp is weirdly placed. if you let go to type then the lamp will go straight to the eye.
+got mine today in sweden..  i have downloaded the software but where is the "in-game transparent overlay on the screen?"
+actual mionix hub/driver link: https://mionix.net/download/mionix-hub-setup-0-11-0-3b6b205/ but its plug and play, you dont need drivers :) no problem with software mionix hub
+got mine today too , but cannot find the drivers/software on your homepage :(
+got an email about my package today! living in sweden.
+picked mine up today as well! it's looking good, however, i cannot seem to find the appropriate driver for the qg model. plus, mionix hub doesn't seem to detect the mouse as well.
+i got it today, tried to install mionix hub, symantec endpoint security quarantined the install file :(
+got mine to! nice. finally!
+i just got it today! enjoy the first unboxing video :) https://www.youtube.com/watch…
+ok :) thanks mionix sensor is perfect :) but color is more like prototype :d
+just thought id share to backer's that i just got a fedex parcel picked email for my mouse which is due for delivery this friday. i'm in the uk.
+the packages are probably almost there. in order to give you the tracking numbers they would probably have to manually send everyone a notification via kickstarter with the tracking number. and they would have to be make sure that that don't sent anyone the wrong tracking numbers. but mionix probably knows when we can expect to get our packages.
+how do we check our tracking number? it would be much appreciated
+also coming here to ask for a tracking number (shipment to eu - germany) :)
+will we get a tracking number for the shipped item?
+@xavo yea i see that you can preorder he mouse already
+hello! i answered the adress survey but never recieved a confirmation as you said we would, have i done something wrong?
+i've received the promo mail that the retail version will be available on oct 28th and hope we don't need to wait until that moment.
+is there there is any update on the sipping? i'm just excited to test it out!
+any status update on those shipments?
+when will the shipment from china arrive at the warehouses?
+hi guys, what date is shipping commencing?
+i can't believe it's actually happening!
+i got the survey
+@jiankun ma you should have the survey in your inbox! let me know if you did not get it. thanks!
+got a survey! ;)
+i received a survey
+i don't see the survey link in my mailbox. is it just me?
+what is going on were are the surveys? the month is almost over and you wanted to have it shipped to all pledgers by then.
+what will be the warranty period on the naos qg? who should we deal with if there is any issue with the mouse?  - local retailer  - directly with the developer  - etc?
+@george: developer edition. as evident from the last update, it was very wise of them to wait until further tests were made. probably, the project leaders will await sending out requests for updated addresses until such time that a product of the required standard can be delivered.
+"hi backers, first and foremost, the naos qg will ship in q1 2016" - oct 7 2015 memeonix hehe xd! "the plan is start sending out the final backer units end of july." -  june 17 2016 memeonix hehe xd!
+so unfortunately for me my mouse died on me the other day. been a year since i expected to have a new one. i'm now in a difficult position trying to decide if i need to buy a new one or if the one i was promised will arrive soon. an update would be nice so i know if i should continue to hold out. needless to say my first and one of two experiences on kick starter has left a bad taste in my mouth and i doubt i will use this platform again.
+@truls: that is good, but which package have you been backed?
+@nick: i checked my mails: i was asked to provide my updated shipping address on june 17th, so you would probably be asked the same when the time is right.
+hey truls, were you contacted before-hand for a shipping address? i'm most worried that they'll use the address i originally gave back in 2014 which i no longer reside in.
+@bernhard: i can confirm receiving the prototype. thus, this is "legit" - something will come your way eventually. it will be in your best interest to have the prototype stress-tested etc. before sending out in large quantities.
+no one has revived anything right?
+it feels like you are taking a dump on you backers here, i understand you difficulties with keeping up with your own deadlines, but why wait for so long with telling your backers  that you'll have to reschedule?
+hey! one more day till the end of july! i don't doubt that you guys are working your hardest to get this thing finished and shipped, but just a quick note about what's going on right now would be nice, since your last update mentioned the end of july. cheers!
+just wondering if you are going to email us where you are shipping it too. or did we put address when we pledged.  been a while so forgot. although the i'm excited since it's near end of july i have not received any mail regarding the tracking i'd or anything. will that be sent to the email provided when you send it out?
+would appreciate some info on how beta is going and when/where do we have to give you shipping address. i know you said end of july but an update would be great for everyone. it would greatly be appreciated.
+i signed up for kickstarter to support your qg project, but the lack of updates seem to be very worrying. i can't even remember if you guys requested for our mailing addresses yet. :(
+... so sad ... sorry guys but your inactivity crushing this project
+end of july doesn't seem too far away, any more updates?
+hi, i have one question: what will happen, if we face with any problem with the mouse? do you have any common warranty administration instead of "to send it back to the developer"? example: any local retailer can be contacted in hungary?
+i've noticed some of the prototype backers are starting to receiving shipping notices. any update for other backers, especially those who have moved since then? i need to update my mailing address!
+hi mionixlabs, i understand that completely. but please tell me, why do anyone gets "more information" then us? it makes me very sad, because i thought we will be the first ones in everything... please flood us with content. no matter if that is just a concept. we are the ones who have supported this project. i think we deserve more involvement.
+the box is not final.
+why didn't you post the box image? http://prohardver.hu/dl/cnt/2016-06/129308/mionix_naos_qg-1.jpg why do i have to see it on a different page, instead of in the kickstarter update?
+about time something is happening :) can't wait for it!
+"hi backers, first and foremost, the naos qg will ship in q1 2016" - oct 7 2015 memeonix hehe xd!
+anyway to get a refund? it's been years and the lack of communication is discerning.
+june is almost ended.  what happened with the "we deliver it in q2"?
+any updates?
+he he xd
+soon™
+an update!! *fingers crossed*
+looks like they're getting close! maybe i'll get this puppy in time for the summer holidays so i can use it for hundreds of hours in overwatch :d
+what's the word? 2017?
+why there are not any updates?
+any status update? it's been awhile :(
+?
+is this an abandoned project?
+saw a post on massdrop reminding me about the naos qg and would love to hear about any possible updates! any images of the mouse or software would be awesome. :)
+i know there weren't a lot of us that pledged for the $149 developers' ammunition pack level, but don't forget about us! i'm still waiting to hear anything about when we should be getting our pre-series prototype and early access to the api and docs as well as the hacker special naos qg mouse.
+@mionixlabs any updates?
+yet another ks bust that has taken my money
+any update soon? i would love to see what the prototype looks like also.
+any news here?
+alexander bennetoft,  the overlay will be a plugin to overwolf, and that should be possible to capture with shadowplay
+nicolai - we pinged you.  has it been a hell of project, yes...but are we lying, never. we are finishing what we started, no matter what
+hello mionix! good job so far! i love that you are not giving up, keep up the hard work! i have a question about the software. all i know is that it will be independent and usable with other apps. so how about nvidias shadowplay for example? do have any comments on how the qg overlay will work with other recording tools? just something that came to mind. as i said, keep do what you are doing, im really excited on the final product!
+can i please have my money back, i regret wasting it on your lies.
+and another month has just passed without any update. mionix, please start communication with us.
+have we given mionix addresses yet? i cannot remember, and have moved house since i pledged.
+any update ?
+any status updates soon? it's been over a month since the last one and having some sort of scheduled update would be nice.
+heh, i kinda forgot i backed this, will be nice!
+eta was estimated to march/april. due to  chinese new year all of our partners in china will be gone for the whole month of february we anticipate eta to be delayed further
+update coming today
+and another month passes...
+still no word on the eta? any update would be awesome!
+has kinda taken long. stil no eta?
+hi mionix, appreciate if u can update us backers on your progress? that would be most appreciated thanks.
+please give an update of how the work is proceeding. any news is better than no news. covering up any further delays until the last minute will just create more bad will.
+until 2016 q1 we don't have much time, so what is the expected release date?  i expect that i can play in january with the qg...  please share more info/update and more often.
+we will send out a questionnaire in time before shipping, to secure correct addresses.
+is there a way to update the mailing address once they begin shipping? i've moved since i backed this project.
+thanks for the update, guys! but it does beg the question that if the naos qg mouse will be out in q1 2016, then what about those of us that pledged for the "developers' ammunition pack"? will the "exclusive hacker special naos qg mouse" be out at the same time? what about the "pre-series prototype and early access to the api and documentation"? shouldn't we be getting that part soon seeing as 2016 is almost here?
+like the last update! good to see you guys are continuing to improve the mouse! looking forward to see the mouse in early 2016. it looks like you guys are losing customer satisfaction, which should be your main concern at this moment in time. i appreciate that you guys are working hard to make the qg as good as possible, however, you could just come out with a video every few weeks showing how the qg is developing. gratefully, oliver
+nice news, however i am a little bit disappointed about the 2016 q1. i would really like to see specs, sketches, photos from the development and about the product's phases. if you could share more information about the development goals and achievements with some illustrations like i have mentioned that would be really good. looking forward to the next update. and please don't delay it with more time...
+can i request a refund? i backed this project believing that i can replace my rat 7 which is starting to rust and peel all over, but so far i've been disappointed with the lack of information in the updates and lack of updates as well.
+can i get my money back? i want a mouse from a company that doesn't feed me bullshit, and lies.
+@mionixlabs eagerly waiting for some good news!! :)
+any news? .. :)
+"updates is on the way" mionixlabs 7 days ago
+hi, on the mionix webpage there was this with a price: "expected release date is 15th dec 2015". now it has been disappeared. when the backers will get their paid product? thanks.
+when will the mouse be released ? dec of this year ?
+teo have no concern we are working on it. updates is on the way
+i am starting to have some concerns about this project. the updates confused me further more.
+what is actually going on?
+just a quick update. i got reply from mionixlabs that resolved my concerns. after the private conversation, i do believe creator has good faith in the project. probably just need to communicate more often with more details. looking forward to your final product.
+thanks george. we agree will be better.
+i have to share simon lundh's and nicolai linde's opinions. this is not the right communication that mionix and the developer team of the qg should do. i am really excited about this mouse, but i would really appreciate if we could have more often (weekly) updates with the actual status of the product with technical parameters, previews, etc, instead of these spams. because right now you have a lot of disappointed "customers" and that is not a good advertisement for mionix and it's products. so please pull yourselves together and show us results. thanks.
+jag har börjat tröttna på detta nu. när blir produkten klar? när kan jag få den i handen?
+apparently you logged in and refused to answer another mr stupid backer's message. yeah, thank you for the meaningless bs.
+hi, i'm mr customer. thanks for feeding us a load of bullshit.
+@mionixlabs, it's brilliant that you are on working with the product. it would however be nice to have more frequent updates regarding the products current status. i bought into this so i could purchase it for a bit less than release as i plan to review it for my site. it's a shame that so far all we know is some shadowy patent trolls, and general delays.
+thanks jason, we are on this project and we are heads down working to ship a great product. expect to hear more from us now that we coming to end with dealing with patent trolls a k a ambulance chasers trying to make a buck.
+just here to shoot a positive note ya'lls way.  i am sure everyone is doing the best they can and i am sure for the most of us, we are excited and optimistic you will have a top quality product to bestow upon us.
+hi all, i have realized a new "expected release date is 15th dec 2015" text on the homepage of the mionix: http://mionix.net/concepts/naos-qg/ i still don't understard why they can't communicate on either way (kickstarter, mionix page, twitter, facebook, anywhere...). it is shame.
+while the lack of updates is disconcerting. please reevaluate your use of kickstarter (at least in the technology/product development areas) if your first response to not getting your product exactly when they initially hoped to have it out is to scream "scam". mionix is a reputable company that already makes products in this field, they wouldn't ruin their reputation for $107,125. and to the guy asking for a refund because the product isn't here yet: i know it is frustrating, but kickstarter is like an open contract for an item or service. you don't know when or exactly what you'll get it, so if you are uncomfortable with that go buy an already developed product.
+when are the prototype mouses being shipped.  still no word on this...............
+mionix castor has been successfully launched, now may we please know when will this project begin to move again?
+when are the prototype mouses being shipped. still no word on this.......
+communication is very bad right! thats truely a bad habit of most successfully funded projects that are about technologie. last update and the dwarfs and gnomes was quite unconstructive.
+anyone know how you go about getting your money back from scams on kickstarter? i would recommend anyone reading this to not back any future projects from mionix labs, they still haven't delivered what we paid for and they don't update us about why its taking so long except a cryptic texts. 1/10, stay away!
+when are the prototype mouses being shipped, and how do i give you my shipping info. still no word on this.
+i understand why they are taking so long to develop this mouse, but, i've waited so long and i've found other better mice.  is their anyway i got get a refund?
+@george kirkman yes, you are right. it says "expected release date is 15th sep 2015" on the http://mionix.net/concepts/naos-qg/. i just don't understand why they could not inform us (the buyers and donaters). it is so sad. i really want to get this mouse and test it "on the field". please give us more updates and start a discussion about the delivery, because i am very very  curious about the process of it:  - how it will arrive?  - what about the warranty of these products?  - where can we go/send if we have a problem with the hardware (if in my country there is no mionix support)?  - etc. thank you in advance. br, gyorgy
+ah, thanks for the heads up phexous! that's not too bad a delay if it's realistic. i'm still holding out while my current cheapo mouse's scroll wheel gets worse and worse :(
+hey everyone! i am in no way affiliated with mionix i am only a customer like all of you. i just saw that on their website that the expected release date is the 15th of september; i am just trying to keep everyone in the loop. i am going to see if i can get in contact with them to have more frequent updates.
+news ?
+could i schedule for a refund? it worries me so much given that there is no enough update throughout the process.
+any news? anything?
+i would like to know exactly what patents are preventing them from moving on.
+i will be moving soon, who do i contact to update my shipping info?
+let me add my two cents, now a days most hardware projects outsell their product and over commit their shipping timelines, mionix being one of them unfortunately. i have backed ouya project which i plugged in once and threw in garbage the next day and i read thousands of neg comments on several projects but there is one point i need to add here about mionix, they already have a couple of products in the market place and they know what they are doing, the delay is for the greater good but the problem is with the pr dept failing to communicate about any update regarding the project. q4 or 2017 i dont care when you ship but you should be transparent about updates regarding the project
+@hermann yavorsky  becasue people have pledged money. generally, when you give someone your money you want to know either: a) what they are doing with it, or b) when you will get what you paid for. i understand that item b) was covered in the last update but when a company says they will "keep you posted" you will generally want to be kept up to date with information.
+not sure why you people need an update so bad, they said it was delayed until q4, what other info do you need about a mouse really?
+hmm haven't heard anything in awhile, which to me doesn't seem good. any small update will do, almost 2 months without any updates is a downer :/
+would love to hear some updates
+if i knew we would be this in the dark i wouldn't have pledged my 90+ dollars.
+hi guys, any news? as you can see form the comments we are anxiously awaiting an update.  remember; saying, there is no news, is better than no news at all. br, jan
+hi, i am also missing the updates. i would be very happy if we could see some pictures about the plans and the newest prototypes. that would be great if we could have a roadmap for the prototypes, delivery dates, etc. br, gyorgy
+hi team, its been almost 5 weeks since your last update. i am very keen on know if the project is on track including its revised delayed deadlines, and if there has been any progress. hope you guys are doing great!! cheers!
+:c so quiet.
+any chance of an update - it seems a little quiet at present?
+"has the estimated shipping date also changed for the prototypes?" so yes?
+has the estimated shipping date also changed for the prototypes?
+yeah, i'm just hoping that by mid/late may we'll get some news!
+some update on the status of the development would be welcome! :) its been a little quiet here!
+i'd like an update on the mice too. in particular, what's up with the hacker special and the pre-series prototype those of us that pledged $149 level are supposed to be getting.
+what's the difference between this 8200 series and qg?https://www.massdrop.com/buy/mionix-8200-series
+hey can we have an update about status of the actual mouse production rather than caps? hehe.
+i need to change my address i have messaged but no reply
+is there any eta for when i will get the mouse?
+yes the cord will be braided - of course.
+i hope so.
+will the cord be braided?
+hi warcroft, we are experimenting with much more sensor positions than just the three we have shown. the naos is primarely designed for palm (and to some extend claw) grip and the sensors on the back of the mouse require contact or at least very close proximity to the skin to provide reliable data. if you are a pure fingertip gamer, the naos shape might not be the perfect mouse for you. however, we are sure we will find a good solution to cater most of the different grip styles.
+i see you've done a few prototypes with the sensors in different positions, but still for the palm of the hand. what about people like myself who don't rest their palm on the mouse? holding the mouse with our thumb, fourth and fifth fingers. how about a prototype with the sensor under the fourth finger?
+hi, there is no update since jan 12 2015. what is happening right now?  please share all the updates, status, anything! :) thanks.
+any updates?
+congrats!  can't wait to try out this incredible piece of technology!
+congrats!!!
+looking forward to trying it out!
+grattis! my 4th naos, looking forward to it!
+congrats team and thnx to the awesome community that made it happen!
+congrats! looking forward to this!
+not only will this be a great game training mouse.. but a great meditation aid.. keeping a daily record in a folder.
+congrats guys ! i'm eager to get my hands on this mouse !
+congrats!
+great job! congrats guys!
+great job guys! can't wait to get my hands on this mouse :3
+good luck with the project. looking forward to follow you all the way
+it is a wrap!
+yes!
+funded/first
+wow final minutes -  gg wp mionix!!
+already using a naos and never regretted leaving behind the mainstream brands. indeed it's one of the best mice ever made.
+backed you guys! can't wait to get this mouse! looks very cool! will work with any games? like runescape and league of legends? how long will mouse cord be? possible to make them longer then the usual mouses? cause my current mouse i need a extra cord. well thanks!
+congratulations from portugal, let's do it!
+very nice! thanks to everyone for making this happen! do you know if its possible to c your opponents heartrate as well as your own when you play multiplayer? if not, would be a cool feature :)
+just went full co-op! i've already own a naos 7000 and it is the best mouse that i've ever used. cheers from brazil :)
+oh happy day!  i am super excited - we made it!!
+woo, yes. thank you all for making this happening!
+sweeeeeeeet!!! close but we made it!
+we did it :d!
+cant wait to get this mouse
+never been so excited about a mouse. lol
+we did it! woo!
+woo nice work everyone!
+upped my plan from 89 to 159,. got my friend to do the same :d
+it made it!!!!!!!!!!!!!!!!!!
+yea i wanted to do the clan package but not enough people. oh well if we need it last few hours i may change it
+only $1,000 left! it's in the bag :d hopefully i'll wake up tomorrow and we'll have gone above and beyond
+jason they is total understandable i am in the same boat as you.
+only pledged 99 but i'm a student so that's food for a month!!!
+:o you're a fine man, eric
+i up'ed mine for 399 to 499
+actually, if every backer added 5 dollars to their pledge, the project would reach its goal!
+woop woop, i just pledged thanks to crunchy. hope this works out. keep it up!
+64hrs. $125 per hour. it doesnt sound a lot at all, push for it guys.
+guys, get this project funded, we just need another 8k $, these guys know what they are doing and they already have a solid product line which i am sure if anyone have used it is already a fan of it!
+or everybody just add 14$ ;d
+come on!!! share and get this out to facebook etc... get this funded!
+hey paul johnson, love your comment!  let's all get one more buddy to pledge. 4 days is plenty of time to convince a mate^^  keep it up mionix! your demo looks so cool!
+im scared that this mouse isnt going to reach the goal. that would be such a shame, this mouse looks like it could really push mouse technology forward.
+yann: further down the line we might add an ambidextrous qg mouse. hang in there
+guillaume robert: they will only get the money if they get to 100% (or more). kickstarter rules.
+so you mean you have to use your left hand to control mouse?  im a leftie myself, using right hand.. maybe thats why we never won at cpl.. :(
+ok, checked faq... damn! :/
+will there be a version for lefties? i contributed and now remembered im left-handed :d
+is there any chance that the mouse can be also for left-handed gamers ? it seems only made for right-handed people... an ambidextrous one would be awesome !
+add a free mouse pad to gain more backers
+can you guys decide to finish the project even if we only reach 75% or 80% of the goal? or was it alreay a stretch to do it for 100k?
+sweden's most read online forum for computer geeks has posted several articles about this project. we will soon see an increase in sponsorship. keep sharing!
+make sure you share with your friends via facebook and other social media! if everyone that has already pledged gets one more person, we will overshoot the goal by 20%! let's help the great folks at mionix and keep this thing going!!!
+i agree with paul and nicolai. this project needs to be marketed more if we want it to take off. it would be such a missed opportunity if it didn't get funded.
+we are prepping for ces now. new hardware configuration  + software.  updates on the way. thanks for your patience
+i second nicolai's comment. i'm a little nervous about this and i really want to see this take off! i do understand it's christmas season, but you guys need to kick this up a notch.
+unless you create some hype for this project its going to die, you only did 4 updates throughout the kickstarter period, its important to keep the ball rolling during the kickstarter period.
+thanks for the comment jakob! we are just heads down building the mouse to be used for live demo at ces las vegas. if you are in vegas 6-9th please come by and try it out. we will be at the mirage.  ps the mouse is great and the software looks great.
+yes we will support osx
+just figured, there will bi support for osx right? cant find any info in that. great project btw
+after buying my first naos i am impressed to see you pushing the boundaries once again! curious as to what the hacker special noas qg is compared to the normal one though? does it have more pokable components?
+had to back this mouse since i have had nearly every mionix mouse you all have made and i just wanted to ask one question. are you all planning on making some improvements to the thumb buttons? the reason i ask is the only thing that has ever failed on me with every mionix mouse i have had are the page forward and page back buttons. they tend to get extremely squishy after about 6 months to a year of use. thank you so much for the project and i look forward to seeing the other features this mouse will be able to have!
+hi, i'm a user of the naos 7000, huge fan of it , if this product is based of it, it would be a huge steal at $79. just wanted to say it out here  pros: ergonomics          satisfying click          sensor cons: build quality could be a little better (maybe aluminium)           usb plug could have a little better fit,           the height of the bump could be more, for better grip ( i use a palm grip). otherwise i have since change from a razer deathadder and i never went back on it. good job mionix!!!! hope there would be improvement with the naos qg
+i pledged a few days ago, loved the naos model, and the fact that this is based on the naos 7000 is very interesting. however, i want to know what happens in case this project does not get funded?
+@janna dupree thanks for your support! given as we're making everything open you will have full access to all the data the naos qg gets.  we're excited to hear the new angles you come up with!
+being a life time gamer and part time live streamer, this fascinates me! backed!
+i'll agree with @janna dupree here. that's what i'm picking mine up for!
+@mionixlabs great to hear, sums me up too, for the most part. re shipping. great to hear but please mark as a gift or consumer sample when shipping- this really really helps canadians with import duties as even a gift worth more than 60$ is taxed.
+this looks amazing and i'm totally excited to see this succeed. however, i'm not looking at it from the gaming perspective... i'm looking at it from a usability and user experience testing tool. measuring biometrics in usability testing of products and websites is an emerging field. https://www.google.com/search… if there was an easy way to gather these metrics that doesn't make participants uncomfortable and wasn't super expensive i think ux researchers would be all over it. consider also marketing this towards the ux field. i'd be happy to talk to you more about it if you'd like.
+thanks for making it free shipping i hope more kickstarters do this service as well. i feel it should be included in the price instead of charging extra upon purchase
+aside from the heart rate sensor what about the gaming feature of the mouse will it be the same as other mionix mouses i using a  logitech gaming mouse now so i'm new to the product
+@alex howse: hello alex, we are going to put a lot of effort into placement of the sensors to try to cover as many different hybrid grips as possible. the sensors are placed on the back on both the left and the right to help getting data from that claw grippers. i, personally, am mailny a claw gripper but switch to palm and fingertip back and forth, and i usually have contact to at least one of the sides at the back of the mouse.
+i mean for people who find the g100s, g302, g300, abyssus etc type more preferable.
+avior edition! not everyone plays the way the naos 7000 comfortably, but forcibly makes you play. fingertip, and clawgrippers are unable to back due to this. avior edition?
+just one word :3 aaaaaaaamazing
+all pledges include free shipping. for shipments to us and eu we handle and pay customs and eventual taxes. for shipments outside these regions the pledger will be responsible of eventual customs and taxes.
+its not reaching forward for the aim button, its more reaching sideways. extending your thumb sideways. you dont press it unless you want to, at least on the proteus core
+guess it comes down to hand length. i fingertip grip most mice even the mx518. when palm gripping the button is under my thumb.  if you have to reach forward, wouldn't reaching the front thumb button be just as easy?
+enough*
+jesse, the button is far enpough out of the way that you dont even get close to it unless you really want to. on my proteus core, i need to stretch my thumb a bit over to reach it.
+jared, about the an aim button. i typically find they get in way, as someone that doea not use them. not a fan at all. don't know if its in the software already. but they could make it work with the side buttons.
+sweet gadget :-) how will you handle shipping to eu backers? will the naos qg be shipped from inside the eu (sweden?) or should we be prepared for paying import tax?
+what is involved with cleaning the sweat off the mouse/galvanic sensors?
+can you add a "precision aim button" like the logitech proteus core and the cyborg rat7 gaming mice have? this button lowers the dpi temporarily while the mouse is held. it is basically for while you are holding a sniper rifle... thanks!
+as a hybrid fingertipper and minor clawgripper, i'm backing this project to challenge mionix to build a more versatile product. great to hear that the qg will be built on the naos 7000. will mionix work on better ongoing software upgrades beyond firmware bug fixing for all new and pre-existing products for new and improved functions that are not hardware limited?
+@warcroft thank you for the support! we are happy to hear that!
+oh, and good luck!
+mionix crew. . . ive never backed anything with kickstarter before, but this i must! im a complete convert to your peripherals. have the naos 8200, zibal 60 and the aluminum mouse pad. ive been through logitec, razor and microsoft devices and yours clearly comes out on top. they're a dream to use. thank you! take it from a gamer for 35 years. you deserve the support!
+@paul johnson the leds are rgb and can be set to any color you like.
+while you guys are developing this, i've seen some requests for a white led. not sure what the increase in cost would be, but i know a few folks that love the white leds on their gaming gear.
+honestly, i'm more interested in the upcoming caster but i backed this because it's an interesting concept and you guys always always listen to community feedback.
+to eric lee:  the naos qg is planned to have the same sensor as the naos 7000. for more information about the naos 7000 specification, please check the following link: http://mionix.net/mice/naos-7000/ to evan sorenson: the plan is to have the api open, so third party game developers can extract the data gathered from the mouse and integrate in the way they want to in a game.
+disregard, hadn't read the entire story section.
+alright, out of curiosity will mionix potentially release an api with the mouse so that, say perhaps a game like amnesia, could use the sensors in the mouse as a feedback element in the game?
+i already have a the naos 8200, have to say it's the best mice i've ever used and that's saying a lot consider how many mices i've gone through.  will the naos qg be using the same optical sensor as the naos 7000?
+been waiting for this since you teased it on twitter!  had planned on getting a mionix mouse at some point, now seems like a great time!
+hi thomas, for a 79$ pledge you will get the naos qg - smart gaming mouse! the prototype you see inte video. expected shipment is the end of july 2015.
+hi, does the 79$ pledge reward mean a free mouse or is it just a "discount" resulting in paying a total sum of 158$?
+got the mouse, but i want the hat too! you guys should add a combo package with the hat and the mouse! btw - got the alert to this via email.
+@gaw: hej, the naos qg is built on using the same parts as the naos 7000 - the same sensor, switches and shape. so no, we have not done a single compromise on quality or performance, sensors are purely a bonus.
+meetyourmakers linked to your kickstarter, so i took the chance and backed. hoping for the best!
+it seems like a frivolous and risky purchase, but there's a lot of potential here. i'm definitely willing to bite the bullet at $79 anyway. i just hope that the inclusion of the sensors won't result in a compromise on everything else.
+my logitech g500 is starting to fail too and i never really liked that mouse too much anyways. this looks awesome! for the last couple of years i've been using a heart rate monitor while exercising and it's very interesting to measure your progress in such a way. i've often thought about how cool it would be do to the same measurement when playing intense games such as counter strike or quake and measure how your body reacts. everyone who has been in clutch situations in counter strike probably knows that adrenaline feeling surge where your heartbeat goes crazy. this looks like a great idea and well worth investing in :d
+i was already looking to replace my logitech g9 with a mionix mouse, so the quantified gaming bit is pure bonus. \o/
+pledged! this looks awesome!

@@ -1,0 +1,114 @@
+@mike we have sent you a pm.
+never received this device
+hello - i purchased two of the units. one we use downstairs through a cheaper system just to work out to, which works great so far. the other is in our livingroom hooked into a very good system. this one chimes every 5 minutes or so. anyone else have a chiming issue?
+i cannot believe you are selling this without a power adapter. are you kidding me? for this amount of money i should be able to open up the box and use the product. this is absolutely terrible.
+@andries please connect with us on support@theauris.com
+hi i still haven't received my unit. the latest entry on dm.mytracking.net is on 21 january, when it went through customs clearance. it's now almost 2 months since that! can you please follow up on this?
+did anyone tried to connect it with a ps4? it just says can't find a profile for it. connecting with smartphones are well though.
+@eric we couldn't ship your reward as you never replied to the survey. we have inboxed the survey link once again.
+@ben we had shipped your reward which shows delivered as per the tracking. however as you claim that it wasn't received, we've arranged to ship another one.
+did not receive.
+did not receive. :(
+@matthew we have inboxed you the details.
+@jason thanks for your inputs. we shall surely consider them for our next version.
+hi auris,  i am backer 928  and i have not received my blueme.  looks like i missed a crowdox suvery and i do not have it in my email any longer.  please advise.  thanks!!
+@auris, thanks for the response.  in your next version you really need to revisit this.  the always on isn't a bad idea, but the implementation is terrible.   your solution to me was to turn off my blue tooth to disconnect from the blume.   that would be great if your product was the only bluetooth product the existed, but most of us have many of them.  all of which turn off or disconnect when not in use.   so if i turn off my bluetooth i can no longer use any of those other devices because as soon as i turn bluletooth back on the blume will reconnect (unless it has been an hour or two).   i like the device, the quality of sound, and features, but the whole "here is your forever blinking light" is just terrible.
+@jason apologies for the delay. we have responded to your concern.
+@auris.  sent email to support as requested.  it's been a week and no response.  my wife is ready to throw the thing out the window due to the non-stop light blinking.
+@ej apologies for the issue faced with your blume. we request you to kindly connect with us on support@theauris.com
+still working great, however since this morning i keep on hearing a beeping sound al sterchele described a few posts below. all notifications are switched off and the only app running is spotify, but still the sound appears every couple of minutes. any ideas what it could be?
+@jason please connect with us on support@theauris.com
+how do i stop it from listening to my device?  what is the fast double blink that occurs when not in use?  i can hit the power button to get it repair with my device, but when i'm done and want to switch back to my device i can't seem to get the blume to stop transmitting.   i would think i could hit the power button again, but that does nothing.
+got mine last week in the netherlands. works perfect! i share the opinion about the blinking blue led, but nothing a small piece of black tape can't fix....
+the work great!!
+@al the beeping could be your phone's notifications being transmitted over bluetooth.
+arrived here in switzerland too :) great device!! i'm testing it since 1 week and i've noticed something singular that i couldn't reproduce a second time. i've turned the unit off over night by pushing the power button. the next day i've turned it on and during playback i heard this 2 tones coming from the device (one high and one low like: beep boop beep boop beep). oh yeah, meanwhile the blue led in the power button didn't pulse at all (normally during playback it pulses 1 time every 4 seconds). all this beeping happened 3-4 times in 1 hour. so i unplugged the usb power cable, reconnected it and since then (yesterday) it works normally. does this beeping have a meaning? :) thanks a lot!!
+mine arrived yesterday in austria, thx peter
+mine just arrived today. excellent product! sounds awesome! yes - the blue flashing led is a mega pain though. had to cover it so i could sleep.
+@khell you can use any ac-usb adapter as well as an usb port.
+also, should it be 1amp, 2amp, 2.4amp?
+@auris got my blume, love the look but have yet to hook it up (because of question below) for the usb power, is it safe to use directly plugged into the wall via the usb cable and a wall socket to usb adapter?  or can i only run this off another electronic's usb port?
+@bharat we have inboxed your tracking details.
+any update on backer shipments to uk (england)...
+@dave the blume's optical out is designed to pass the digital signal to another dac; using the optical output wouldn't utilize the blume's dac and would simply send the received signal out.  the performance you'd get would then be reliant on the dac you are using.
+same thing for me as of lack of power button. i love the sound, but can't deal with this blinking blue led all the time. shame, great product.
+love the sound! today while playing, it lost the connection 2 times in 30 min from my iphone 6. just a push of the button on the blume reconnected immediately. the iphone was stable at around 20 ft away. thoughts?
+sure, it's true: the optical cable will bypass the onboard dacs. this is a feature, not a bug: it's piping digital directly to your presumably better stereo dacs, just as sean said below. it's not an analog optic out. for me, this is a non-issue, as the sound it's generating is excellent. i haven't yet done a cable-versus-blume comparison, but will get to it in a few days, but it's making my ears happy. pleased to back this one, and will be telling my friends about it.
+love the look of the device, sound and range in my house is better than expected. although as mine is hooked up through an old sansui receiver and amp, the lack of a power button is somewhat disappointing, but not a deal breaker. i have noticed that my plug seems to have a somewhat loose connection, has anyone else noticed this? overall its what i was hoping to receive.
+just wanted to confirm it is true what sean logue noted that the optical bypasses the dac's?!?!
+got my device, looking forward to using it!
+folks, just a heads-up that if you use the optical cable, it will bypass the high-quality dacs built into the unit. so, unless you know the ones in the device you are hooking it to are better, use the analog sound cable for connections.
+@a bk & sean it can be fixed through a firmware update. unfortunately the firmware can be updated through the micro-usb, it can only updated at the pcb level using special tools.
+@larry we're thrilled to know that you liked your reward. the led goes to slow flashing mode once it is connected and not receiving an audio signal. we will be posting a discount code soon for our kickstarter backers.
+@sean great to know that you've liked your blume and thanks for the appreciation.
+@lai we're glad that you're satisfied with the blume. thanks for the great comments.
+actually, that's a good point about the firmware. perhaps it would be possible to release a firmware update that enables the power button. it may not be possible depending on how the hardware is configured. also, they would need to have a firmware loader robust enough to be viable for end users and that can't brick anything. i can just imagine everyone trying to use the firmware loader they used in-house for testing and having a percentage of units get bricked and have to be sent into the company for recovery. now *that* would be bad.
+the lack of a power switch is actually a big deal. i can't leave it set up with my amp because the blinking blue light is distracting. my amp is used with a turntable, a tuner, a cd player, etc.  just because the amp is on, does not mean i want blutooth.  so instead of push a button and connect simplicity, i'll have to do a full setup each time!  i could slap some tape over the light (yeah, that'll look good).  or get a separate power strip just for the blu, so i can have a power switch.  that's what i plan to do, but it still takes away from the aesthetics.  so, yeah, can't recommend. of course, you have a button, it just isn't configured for power toggle.  so really, this could be fixed with a firmware upgrade.
+got mine yesterday.   sound is excellent.  looks great, outstanding range.  pairing has been a bit quirky at times but once paired, no drop out issues at all. my only question is about the flashing  led.  fast is pairing mode, but what is the difference between slow flash and solid?   i really can't tell. any deal for a founder who wants to buy a second?
+i should also point out that many receivers have a usb port on the back, and they typically are energized when the receiver turns on. same deal with any recent flat screen tv. so, if you want your unit off when your equipment is, plug it into one of those jacks. if you don't, plug it into a spare usb power port directly into an outlet. my receiver has one, but it is on the front, behind a flip-down aluminum panel, so i went with the power cube in an outlet option. i really don't mind that it is on all the time. so is my cable box. who cares? (sorry, i know there are folks who do, and i'm sure you have good reasons for that - i only meant that this is not a deal-breaker for many people.)
+got mine today! it looks very high-end. i got the silver one, which i believe will blend in with my system better than gold, yet still stand out a bit unlike black. the apple-esque glass bead blasted finish is very well done, and is always a classy look. nice attention to detail, guys - believe me when i say that it is noticed, and appreciated. like others, i was surprised to see a lack of power supply in such an otherwise high-end piece of kit. however, like everyone else these days, i have the little usb cubes all over the place, and it will be a fairly simple matter of looking around for an extra one. i do understand the different country thing, and although i normally would point out that it has been solved by others, it is generally solved by including a rather questionable no-name brand "universal" power supply that i'm hesitant to use, and generally kills the high-end vibe of the entire package. so, not a bad choice there. one very serious question. should i hook it up using an optical cable (which also was not included), or use the rca analog connectors (which were, and are very nice)? will hooking it up using the digital optical cable bypass the expensive dacs inside the unit? because that would be a real shame, and i have no desire to do that. please elaborate on the signal path and help me choose the correct one. thank you, and congratulations on producing such a great product in so short a period of time. i know what that takes, and what you've accomplished here is very impressive. i don't believe i could have personally pulled it off, so that makes me appreciate it all the more.
+i am impressed with the sound quality.  the best sound i have ever gotten out of my iphone with no effort.  i paired this up to my benchmark dac1 hdr and yamaha studio monitors (so a pretty serious setup) and its almost perfect.  not quite the same as a high bit-rate flac file from j-river media player on my pc but its not bad at all.  i would say its at least comparable. i don't mind the lack of a transformer as i have a handy usb hub nearby and i certainly don't want another brick transformer.  the glowing blue button is a little nit-pick for me too, but not a deal breaker.  i can recommend this to friends.  great work.
+ih@b we've replied to your query. please check.
+@robert & a bk after much consideration we decided to keep blume powered on as most users prefer to be able to connect on demand. also it can be powered off by switching off the power supply or unplugging the usb. the decision not to include the power adapter was to avoid logistical issues caused due to various pin types. most households have ac-usb adapters or usb sockets nowadays, even amazon doesn't supply a power adapter with it's kindle devices.
+@amol, erik, mike & thomas we're thrilled that you've liked your blume. thanks for the comments. happy new year!
+@creator check your dm inbox, please! thanks
+i want to echo everything robert just wrote.  the lack of a transformer is really annoying. the lack of a real power switch is a huge problem, sufficient that i can't recommend this to my friends. having to unplug it when not in use is a huge inconvenience. other then those complete failures in design and customer consideration, it does exactly what was promised and it sounds great. so at least there's that.
+connects quickly sounds great. the only issues i have is only a usb power cord is supplied and no dedicated power adapter. the other comment is that there is no way to turn it off, the bluetooth light constantly flashes when not in use. it would be better to be able to turn the unit off when not in use. pushing the button does not turn the unit off.
+just plugged mine in and listening now. fantastic, thanks & happy new year to the auris team!
+i received my blu-me today. i love it.
+got it today, plugged it in, and was steaming music in less than 2 minutes. great work! the final product was exceeded my expectations from the packaging to the fit & finish.
+got my blue me today. it's just a high class job! the finish has to be seen to be believed. mine is black and matches my harmon kardon amp perfectly. however my analog in is already blocked by my record player so bought a digital optical cable and connected it to the amplifier. works superb! i am very pleased with the whole outcome of this campaign and the high level of professionalism displayed by auris through out the whole campaign process! enjoy!
+@loki chan i just saw your previous comment. lets us know your impressions lol.
+@george i'm living in hong kong so not affected by the heavy holiday traffic. for the rest of world probably gotta wait until 4th jan as according to previous update. really thanks team auris for the early shipment.
+what ? did they start shipping already ?
+thanks a lot! the auris blume is well received today and i am enjoying it right now!
+@george we've done through testing before assembly. also we have tested them once before shipping.
+are you going to do more testing while you have them in the factory ?
+@loki thanks for the suggestion. we will arrange for the shipment from our factory in china.
+i am living in hong kong, can blume be shipped to me directly from the warehouse in hong kong instead of route though us and back forward?
+@eric we are extremely sorry to have disappointed you. we tried our best to ship them in time for christmas, however this delay was beyond our control.
+appreciate the updates but this is getting ridiculous.  i had planned on having this for thanksgiving.  then for christmas.  now not even for new year's.  i'm very disappointed to not have in time for any of the holidays this year.  bummed out.
+have the units finished manufacturing and are on their way to south carolina for fulfillment? looks like this project will be coming to a close very soon!
+@tristan please read our shipping update, https://www.kickstarter.com/projects/auris/auris-blume-true-hi-fi-bluetooth-music-receiver/posts/1423489
+any new news?
+@michael, thanks! we plan to commence shipping by the end of this month.
+ok, thanks.  i will keep the cable. when will theauris  be delivered?
+@michael, you've been charged $30 for an extra 2rca to 2rca stereo audio cable as selected by you on our survey portal. if you don't need one, we can cancel it and issue a refund.
+i was charged $30 by auris at paypal and don't recall why.
+@rudy aptx low latency offers a latency of approximately 40 milliseconds. the latency can't be configured.
+@creator: can you inform inform us exactly about the delay of aptx low latency you get? because maybe i could use it to play remotely guitar, but than i need a latency of 20msec or less. mayb there's a software option to configure the buffer and so the latency?  is the device ota upgradable or configurable? i know there's nothing like this on the market yet, but that would be awesome i think to improve or tune the latency.
+@juan we will be able to provide accurate dates by next week.
+i received my survey, do you have any idea on shipping? i imagine with the clock now ticking louder as we are in november you are pushing to start shipping the last week of this month. thanks!
+hello! please use our retrieve tool to receive the email again, https://app.crowdox.com/projects/auris/auris-blume-true-hi-fi-bluetooth-music-receiver/retrieve you will have to enter your kickstarter email address.
+also didn't get a survey email,  it did not end up in my junk mail either. can you resend?
+did not receive the survey email.  can you resend?   thanks
+ignore my previous comment. junk mail caught it.
+never received my survey :(
+hi i filled the survey, it was fairly easy! can't wait for the auris!
+i received a mail from you guys..but the confirm button doesn't seem to work.
+hey, have you guys sent out an email asking to click on a link to confirm the pledge? i don't click on links from emails i don't know or recognize.
+@felipe we will be collecting the shipping details by the end of next week. thanks!
+hello, i would like to know when are you planning to ask the shipping addresses.
+@jae thanks for your support. you will be able to use blume with your beosound 9000.
+hello, i have bang&olufsen, beosound9000.  i will connect blume to its aux to play. http://www.bang-olufsen.com/en/customer-service/product-support/sound-systems/beosound-9000 can you see it will work?  thanks in advance.
+@edwin it isn't possible to add the bluetooth transmitter feature.
+would it be possible to add a bt transmitter feature for devices like wireless aptx headphones?
+@ valerio: you can use blume with the bose companion 50 speakers through the supplied rca to 3.5mm cable.
+hi, a question: i own these bose companion speakers: https://www.bose.at/at/de/home-and-personal-audio/speakers/stereo/companion-50-multimedia-speaker-system/ how can i use the blume with these speakers? or better: is it possible to use it with them? thanks for your reply
+excellent, thank you!
+@ colm buckley: it will automatically power on when powered and re-connect with the last connected device if in range.
+two questions about this system; will it automatically power up when power is applied, or does it need to be turned on with the button? and will it automatically reconnect to the most recent device, or does the device need to initiate the connection?
+it would be nice to have at least one line in for wireless setup. for instance between an old cd player and an amp. since you are using usb for power, is it possible to add digital audio through usb? i'm thinking it would be nice to use it as external sound card. the power button could work as a channel changer. short click for changing channel (usb/bt) and long for power off.
+@ryan we really appreciate your continued support. we have done our due diligence to avoid any issue like wily. we are sorry about the issue faced with your skye, however it wasn't an inferior product and you can read the comments below of people still using their skye.
+we aren't going to have issues with this like we did with the wiley, right? i also have both the original auris and the skye (and backed the wiley before it was cancelled), though unfortunately my skye only worked sporadically before quitting permanently. hopefully this one is better quality and lasts longer.
+@george thanks for your continued support. skye is a wifi receiver for 30-pin docks, whereas blume is a bluetooth receiver for any sound system. also blume features a dac for amazing audio quality.
+@ej really appreciate your continued support.
+what is the difference between this and the skye. i own the skye.
+@creator that is true.  all in all, it was just a very minor thing of note.  a very attractive package as it is, and having the color variety to match with the systems it will be used for, also a nice touch.
+enjoying my auris skye every day and therefore happy to back this project!
+@jirik thanks for your support. there are no plans to add 5.1 analog output due to it's limited use with audio files.
+@khell thanks for your support. there is no need of a 3.5mm stereo output as you can connect to it with the supplied rca to 3.5mm cable.
+@juan thanks for your continued support. it's great to know that you are enjoying your skye. blume will be a lot better than skye.
+any plans to add 5.1 analog output ?
+interesting looking product.  a little limiting that it doesn't have the standard 3.5mm stereo jack, but by lucky fluke my pc speaker setup has dual input ports, and the pc's using the 3.5mm, leaving me the rca free for this.
+i still use my auris skye its great and clear clean audio, i hope this is just as good at the very least.
