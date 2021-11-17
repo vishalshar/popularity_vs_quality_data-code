@@ -1,5 +1,7 @@
 # popularity_vs_quality_data-code
-This repository contains code and data used in our paper: Popularity vs Quality: Analyzing and Predicting the Success of Highly Rated Crowdfunded Projects on Amazon, Computing, 2021
+This repository contains code and data used in our paper: 
++ Popularity vs Quality: Analyzing and Predicting the Success of Highly Rated Crowdfunded Projects on Amazon, Computing, 2021
++ Predicting Highly Rated Crowdfunded Products, IEEE/ACM ASONAM, 2018
 
 # If you find our code helpful. Please cite our papers as below: 
 
