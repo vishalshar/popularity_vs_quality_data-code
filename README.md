@@ -11,8 +11,6 @@ This repository contains code and data used in our paper:
   booktitle={2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, 
   title={Predicting Highly Rated Crowdfunded Products}, 
   year={2018},
-  volume={},
-  number={},
   pages={357-362},
   doi={10.1109/ASONAM.2018.8508797}}
   
